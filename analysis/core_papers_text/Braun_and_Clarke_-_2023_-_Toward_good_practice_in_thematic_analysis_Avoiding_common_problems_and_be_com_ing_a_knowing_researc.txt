@@ -1,0 +1,658 @@
+=== Page 1 ===
+International Journal of Transgender Health
+ISSN: 2689-5269 (Print) 2689-5277 (Online) Journal homepage: www.tandfonline.com/journals/wijt21
+Toward good practice in thematic analysis:
+Avoiding common problems and be(com)ing a
+knowing researcher
+Virginia Braun & Victoria Clarke
+To cite this article: Virginia Braun & Victoria Clarke (2023) Toward good practice in thematic
+analysis: Avoiding common problems and be(com)ing a knowing researcher, International
+Journal of Transgender Health, 24:1, 1-6, DOI: 10.1080/26895269.2022.2129597
+To link to this article:  https://doi.org/10.1080/26895269.2022.2129597
+Published online: 25 Oct 2022.
+Submit your article to this journal 
+Article views: 402545
+View related articles 
+View Crossmark data
+Citing articles: 1478 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wijt21
+
+=== Page 2 ===
+InternatIonal Journal of transgender HealtH
+2023, Vol. 24, no . 1, 1–6
+Toward good practice in thematic analysis: Avoiding common problems 
+and be(com)ing a knowing researcher
+In response to the increasing use of thematic analysis 
+(TA), and particularly the TA approach we have devel-
+oped, in qualitative and mixed methods research pub-
+lished in IJTH, the editors of the journal have invited 
+us to provide a commentary on good practice and com-
+mon problems in TA research. The aim of this com-
+mentary is to guide researchers in producing and 
+reporting methodologically coherent TA and reviewers 
+in assessing what constitutes good practice, and ulti-
+mately to support IJTH in publishing high quality TA. 
+This commentary is based on a review of 20 papers 
+published in IJTH citing our work 1—typically Braun and 
+Clarke ( 2006), the paper in which we first outlined our 
+TA approach—with most authors claiming to have “fol-
+lowed” our approach, and a minority citing our work 
+but using other approaches. It’s important to stress that 
+our goal here is not to encourage or enforce strict adher -
+ence to the procedures we have outlined—or what has 
+been dubbed methodolatry (Chamberlain, 2000) or pro -
+ceduralism (King & Brooks, 2018), where procedures are 
+prioritized over reflexivity and theoretical sensitivity. 
+Rather, we want to encourage what we call knowing  
+practice of TA. A knowing researcher is one who strives 
+to “own” their perspectives (Elliott et  al., 1999), both 
+personal and theoretical, is deliberative in their 
+decision-making, and reflexive in their practice of TA.
+The 20 papers we reviewed provide an interesting 
+“snapshot” of TA research in the field of transgender 
+health research. Most papers reported qualitative stud-
+ies—with the rest mixed-method designs—typically based 
+on interview, focus group or qualitative survey data. 
+Most exemplified an experiential orientation to qualita-
+tive research, with a focus on the lived experience and 
+perspectives of transgender folx (and some interest in 
+the views of others, such of parents of transgender ado-
+lescents), or the factors that influence and contextualize 
+certain behaviors and choices, underpinned by a realist 
+or critical realist ontology. We were heartened that some 
+researchers in the field of transgender health are also 
+using TA to interrogate the social construction of mean-
+ing within a critical orientation to qualitative research 
+(for further discussion of the experiential/critical dis -
+tinction, see Braun & Clarke, 2022b). The idea that 
+TA—or indeed qualitative research—just offers a window 
+into experience is unfortunately too common, when the 
+full potential is far wider.
+In our critical review, we highlight three important 
+issues (1) the, often unacknowledged, diversity within 
+TA and many researchers’ tendency to, paraphrasing 
+Marecek (2003), “swim unknowingly in the waters of 
+positivism”; (2) confusing themes-as-meaning-unifie
+d-interpretative-stories with themes-as-topic-summaries; 
+and (3) (not) owning one’s perspective.
+TA is a family of methods, not a singular 
+method—there is no “standardised TA”!
+An important step on the path to knowing TA practice 
+is appreciating the diversity within TA and understanding 
+what type of TA you are practising. Some of the papers 
+reviewed implicitly or explicitly presented TA as a sin-
+gular method (e.g., through references to “standardised 
+TA ”), whereas TA is better thought of as a family  of 
+methods. To capture some of the diversity within the 
+TA family, we have developed a typology of similar 
+approaches, which we designate coding reliability, code-
+book and reflexive TA, and thematic coding (for our 
+most detailed discussion, see Braun & Clarke, 2022b). 
+These approaches have some things in common: practices 
+of coding and theme development; the possibility of 
+capturing semantic and/or latent meaning, and orienting 
+to data inductively and/or deductively; and the designa-
+tion of TA as a theoretically flexible method, 2 rather 
+than a theoretically informed and delimited methodology. 
+However, they differ in the enactment of coding and 
+theme development, underlying research values, and the 
+conceptualization of key concepts such as the theme. 
+Procedural differences should not be dismissed as trivial, 
+as they reflect underlying research values. We found 
+Kidder and Fine (1987) small q/Big Q qualitative dis-
+tinction useful when developing our typology. We also 
+like Finlay’s more recent (2021) distinction between sci-
+entifically descriptive (small q, positivist) and artfully 
+interpretive (Big Q, non-positivist, reflexive) TA.
+Small q qualitative research reflects the use of tech-
+niques of qualitative data collection and analysis within 
+a framework of (post)positivism—in many disciplines, 
+© 2022 taylor & f rancis group, ll C
+https://doi.org/10.1080/26895269.2022.2129597
+Editorial
+
+=== Page 3 ===
+2 V. Bra UN aNd V. ClarKE
+including our discipline of psychology, this is the dom-
+inant values framework for research. Coding reliability 
+TA is an example of small q or positivist qualitative, as 
+it emphasizes procedures for ensuring the objectivity, 
+reliability or accuracy of coding and keeping “researcher 
+bias” in check (e.g., such as through the use of structured 
+codebooks, multiple coders who independently code the 
+same data, the calculation of intercoder agreement and 
+consensus coding).
+Big Q qualitative involves the use of techniques of 
+qualitative data generation and analysis within a 
+non-positivist framework informed by qualitative research 
+values. There is no one  set of research values that all 
+qualitative researchers agree on, but many emphasize 
+researcher subjectivity as a resource for research, rather 
+than a threat to be contained, and meaning and knowl-
+edge as contextually situated, partial and provisional. Big 
+Q researchers typically conceptualize mind-dependent  
+truths, rather than a mind-independent  truth (Tebes, 
+2005). Our approach, which we now call reflexive TA to 
+acknowledge the plurality of TA and better distinguish 
+it from other approaches (see Braun & Clarke, 2019), is 
+an example of a Big Q or non-positivist qualitative 
+approach (other reflexive approaches include Hayes, 
+2000; Langdridge, 2004). Reflexive TA approaches 
+embrace researcher subjectivity as a resource for research 
+(rejecting positivist notions of researcher bias, see Varpio 
+et  al., 2021), view the practice of TA as inherently sub-
+jective, emphasize researcher reflexivity, and reject the 
+notion that coding can ever be accurate—as it is an 
+inherently interpretative practice, and meaning is not 
+fixed within data.
+Codebook approaches to TA—such as framework 
+(Gale et  al., 2013) or template (King & Brooks, 2018) 
+analysis—combine some of the more structured proce-
+dures of coding reliability TA 3 with some of the quali-
+tative research values of reflexive TA. Finally, thematic 
+coding involves the use of grounding theory coding 
+procedures to develop themes from data. Although the-
+matic coding remains in use—including in a few of the 
+papers in our review 4—and discussed in some method-
+ological texts (e.g., Flick, 2018 ; Rivas, 2018 ), it was more 
+common before TA was widely recognized as a dis-
+tinct method.
+Methodological incoherence beckons when researchers 
+seemingly unknowingly mash together different 
+approaches to TA (see Braun & Clarke, 2022a). There 
+were several examples in the papers we reviewed of 
+researchers using Big Q reflexive TA approach and pro-
+cedures, with conceptually incoherent additions, such as 
+small q consensus coding and measuring intercoder 
+agreement, or adding a codebook development/recoding 
+the data phase, or referencing both positivist notions of 
+researcher bias and Big Q notions of reflexivity, or 
+expressing concern for the accuracy and objectivity of 
+the coding or the potential for misinterpreting the data 
+(implying that correct interpretation is possible). The 
+papers evidenced little recognition of the potential for 
+methodological incoherence when drawing on concepts 
+and procedures from both positivist/small q and 
+non-positivist/Big Q TA/qualitative research, or any jus-
+tification or rationale for these “mash-ups. ” In pointing 
+this out, we’re not arguing that analytic procedures 
+should be followed precisely like baking recipes, and 
+that this is what constitutes good research. Rather, a 
+knowing TA researcher would acknowledge their diver -
+gence from established procedures, including conceptual 
+incoherence, and provide a rationale  for their innovative 
+approach. It’s not the case that “anything goes” in TA 
+research, as the procedures have broad paradigmatic and 
+conceptual foundations. Researchers cannot coherently 
+be both a descriptive scientist and an interpretative artist 
+(Finlay, 2021). The procedures we and other TA meth-
+odologists have developed are thought-through manifes-
+tations of underlying research values, meaning divergences 
+and mash-ups should be equally thoughtful.
+Telling meaning-united stories or 
+summarizing topics?
+Another divergence across the TA family of methods 
+relates to the conceptualization of themes and whether 
+themes are understood as a) summaries of topics or 
+categories (what is shared and unites the observations 
+in the theme is the topic, such as “good experiences in 
+healthcare”); or b) capturing a core idea or meaning 
+(what is shared and unites the observations in the theme 
+is meaning), and the telling of an interpretative story 
+about it. This latter type of theme can draw together 
+data connected to even seemingly unrelated topics, if 
+the core idea or meaning is evident. Topic summaries 
+as themes are common in coding reliability and some 
+codebook TA, and thematic coding; themes in reflexive, 
+and some codebook, TA are conceptualized as 
+meaning-based, interpretative stories. But these concep-
+tualisations often don’t map onto what happens in prac-
+tice. Topic summary themes are so widely used in 
+reflexive TA that we have identified this as the most 
+“common problem” in reflexive TA (see Braun & Clarke, 
+2021a)—alongside what we call “positivism creep, ” where 
+positivism slips unknowingly into reflexive TA (through 
+the use of concepts like researcher bias; see Braun & 
+Clarke, 2022b). Both problems—positivism creep, and 
+the use of topic summary themes in reflexive TA—were 
+evident in the papers we reviewed. For us, the distinction 
+between these two “types” of theme is very clear, but 
+we know researchers sometimes struggle with the dis-
+tinction. So, if you’re doing reflexive TA, how might you 
+check if your theme is a topic summary or a 
+meaning-based interpretive story? If you could conceiv-
+ably have developed this theme before  analyzing your 
+data, or if it maps closely on to a data collection ques-
+tion, then it is quite likely to be a topic summary.
+
+=== Page 4 ===
+iNtErNatioNal JoUrNal of traNsgENdEr HEaltH 3
+Similarly, if it summarizes the different or main things 
+participants said about a particular issue or topic. Theme 
+names can suggest a topic summary through, for instance, 
+a one-word name that identifies the topic, such as 
+“Doctors, ” or something like “Experiences of…, ” “Barriers 
+to…, ” “Influences on…, ” suggesting diverse experiences, 
+barriers and influences will be discussed (sometimes 
+meaning-based themes may just be badly named, see 
+Braun & Clarke, 2022b). By contrast, themes as inter -
+pretative stories built around uniting meaning cannot be 
+developed in advance of analysis. They contain diversity, 
+but they have a central idea that unifies the diversity 
+(instead of “good experiences of healthcare” you might 
+have the theme “validation of my personhood”).
+Two of the reviewed papers provided clear examples 
+of themes as meaning-based interpretative stories. Fraser 
+et  al. (2021) explored transgender adults’ experiences of 
+gender affirming healthcare readiness assessments in New 
+Zealand. In contrast to most of the papers reviewed, 
+which reported higher numbers of themes and sub-
+themes, Fraser et  al. reported two themes: proving gender  
+and the trans narrative . Proving gender  centered around 
+participants’ experiences of the assessment process as an 
+aversive gatekeeping practice designed to test whether 
+they were adequately or truly trans. The trans narrative  
+centered around the pressure participants felt—because 
+of the testing if they were “properly trans” character of 
+the assessment process—to present their gender in a 
+particular way, in order to gain access to gender affirm-
+ing healthcare. The trans narrative required a binary 
+trans identity, knowing they were trans from a very 
+young age and wanting “full” medical transition. 
+Frohard-Dourlent et  al. (2020) explored experiences of 
+surgical readiness assessments in Canada and reported 
+three themes and seven sub-themes 1) Assessments as 
+gatekeeping (incorporating three subthemes: assessments 
+as outdated and irrelevant; power asymmetry undermin-
+ing care; assessments as discriminatory); 2) Assessments 
+as a barrier to care (subthemes: assessments as confusing; 
+and inaccessible); and 3) Assessments as useful (sub-
+themes: assessments as effective and clarifying; and 
+affirming). Similar to experiences reported by Fraser 
+et  al., participants often experienced the assessment pro-
+cess as aversive gatekeeping, with health professionals 
+having the power to deny access to care, and compel 
+conformity to an archetypal and outdated binary trans 
+narrative. Assessments were experienced as difficult to 
+access because of opaqueness, bureaucracy and a lack of 
+socio-economic privilege. Assessment were also con-
+versely experienced as positive by some, with participants 
+feeling supported by the assessor and prepared for the 
+next steps. Frohard-Dourlent et  al. also provide an exam-
+ple of a clear overview of the thematic structure (in the 
+form of a table), and a brief but effective account of the 
+authors’ analytic process and engagement with reflexive 
+TA, both important elements of a high-quality TA report 
+(Braun & Clarke, 2022b).
+Why does this distinction between topic summary 
+and meaning-based interpretive story themes matter, and 
+why is it a problem if researchers use reflexive TA but 
+produce a set of topic summaries? Simply put, topic 
+summaries make no conceptual sense in reflexive TA, 
+and the procedures have been designed to support the 
+development of deep understanding and the telling of 
+interpretative stories about meanings (sometimes obvious, 
+sometimes subtle) that cut across a dataset and capture 
+an important aspect of whatever you are trying to under -
+stand! The practice requires depth of engagement, think-
+ing creatively and reflexively about the data, an intensive 
+and organic coding process designed to parse out dif-
+ferent facets of data meaning, and to help the researcher 
+move beyond the most obvious or superficial meanings 
+in the data. There is little point engaging in this labo-
+rious (but hopefully rewarding) process to then summa-
+rize data under headings that could have been determined 
+before beginning the analysis. If your goal is  to develop 
+a set of topic summary type themes, select an approach, 
+determined by your research values, that has that as its 
+analytic purpose. Both coding reliability and some code-
+book approaches conceptualize themes as topic summa-
+ries (template analysis notably allows for the possibility 
+of developing themes during or from coding). They are 
+developed early in the analytic process, sometimes lifted 
+from data collection questions, and coding is a process 
+for allocating data to these early/pre-determined themes.
+(Not) owning one’s perspective
+The papers we reviewed exemplified both good and bad 
+practice with regard to researchers striving to own their 
+perspective. All included some kind of statement of the 
+researchers’ personal positioning and/or professional 
+experience with regard to gender identity, which is par -
+ticularly important when researching socially minoritized 
+groups and when researchers may be more socially pow -
+erful and privileged outsiders. However, reflexivity rarely 
+extended beyond this more personal framing (Wilkinson, 
+1988). Reflexive practice, which goes beyond  a “shopping 
+list” of identities (Folkes, 2022), is particularly important 
+for reflexive TA. We look forward to reading more 
+instances of researchers linking their personal positioning 
+to their analytic process and more detailed discussions 
+of how researchers engaged in reflexivity, and how this 
+shaped the analysis they produced (for excellent examples 
+of this, see Ho et  al., 2017; Trainor & Bundon, 2021). 
+Language around theme development is also important 
+to signal the researcher’s active  role in generating their 
+themes (and also to clearly signal that themes are not 
+implicitly conceptualized as real things that exist within 
+data prior to analysis). In reflexive TA, themes are gen-
+erated, created or constructed (for example), they are not 
+identified, found or discovered, and they definitely don’t 
+just “emerge” from data like a fully-grown Venus arising
+
+=== Page 5 ===
+4 V. Bra UN aNd V. ClarKE
+from the sea and arriving at the shore in Botticelli’s 
+famous painting (see Braun & Clarke, 2006, 2016).
+Reflexivity, personal or otherwise, is one aspect of a 
+researcher striving to own their perspectives; discussing 
+and coherently enacting their theoretical assumptions is 
+another. Some of the papers we reviewed included a 
+statement of the theoretical assumptions informing the 
+use of TA. But some didn’t. Because TA is better under -
+stood as closer to a method than a methodology, and 
+because of its theoretical flexibility, it’s vital that research-
+ers locate their use of TA theoretically (see Braun & 
+Clarke, 2022a, 2022b). TA cannot be conducted in a 
+theoretical vacuum—researchers inescapably bring in 
+assumptions about the nature of reality, about what con-
+stitutes meaningful knowledge and knowledge produc-
+tion, and what their data represent or give them access 
+to, even if these are not discussed. Ideally, the reader 
+should not be left to detect what the researcher’s assump-
+tions are—they would explicitly be discussed in the 
+paper. We originally stated that reflexive TA could be 
+underpinned by (simple) realism (Braun & Clarke, 2006), 
+but we now think the Big Q research values of reflexive 
+TA make a simple or naive realist reflexive TA a tricky 
+proposition. This raises questions about whether widely 
+used realist/positivist quality practices, like saturation, 
+triangulation and member checking (see Varpio et  al., 
+2017), all referenced in the reviewed papers and in pub-
+lished TA more broadly, are coherent with reflexive TA.
+We’ll use member checking or participant validation of 
+analysis to explore this—where participants are asked to 
+input on whether an analysis faithfully or fairly represents 
+their experience. This practice in theory controls for or 
+corrects any subjective bias—misinterpretation, misempha-
+sis—of the researcher (Smith & McGannon, 2018). 
+Ethically/politically, this practice is unquestionably import-
+ant when researching and claiming to represent the expe-
+riences of socially marginalized groups, especially so if 
+the researchers are all privileged “outsiders” to that group, 
+as is often the case for trans health research. However, 
+the use of member checking is infused with assumptions 
+about reality and knowledge production that sit (concep-
+tually) uncomfortably with reflexive TA—including that 
+there is a truth of participants’ experiences that we can 
+access if we can keep the potentially distorting effects of 
+researcher influence in check (see Smith & McGannon, 
+2018). Reflexive TA is premised on the researcher always 
+shaping their research; it will always be infused with their 
+subjectivity, and they are never a neutral conduit, simply 
+conveying a directly-accessed truth of participants’ expe-
+rience. Tracy (2010) highlighted the concept of member 
+reflections as a Big Q alternative to member checking, 
+which is not about verification, or accessing truth or real-
+ity. With this process, participants are invited to reflect 
+on the analysis to offer additional insight and generate 
+further data on the topic at hand. This can mean exploring 
+gaps in understanding, recognizing and reflecting on con -
+tradictions and differences in understanding, and 
+considering how to acknowledge and present these in the 
+written report (see Smith & McGannon, 2018). Within a 
+wide diversity of Indigenous and participatory approaches 
+(e.g., Barlo et  al., 2020; Cammock et  al., 2021; Fine et  al., 
+2021; Ware et  al., 2018), differently-conceptualized rela-
+tionships between “researchers” and “participants, ” and/or 
+understandings of (the purpose of) knowledge and the 
+(primary) obligations and purposes of research, also render 
+considerations of “member-checking” quite differently from 
+more conventional western frameworks of (qualitative) 
+knowledge production.
+The key to selecting methodologically coherent quality 
+standards and tools is knowing  practice—reasoning 
+through the assumptions embedded in particular con-
+cepts and practices. Luckily, qualitative methodologists 
+have already done a lot of the heavy lifting here (e.g., 
+Braun & Clarke, 2021b ; Smith & McGannon, 2018; 
+Varpio et  al., 2017, 2021), presenting thoughtful consid-
+erations of what’s assumed and at stake in various sup-
+posedly universal criteria. Y our task is to think, and 
+reflect, and ensure any quality measures you use are 
+coherent with your approach to TA and underpinning 
+theoretical assumptions.
+Ten recommendations for producing and 
+reporting methodologically coherent TA and 
+being a knowing TA researcher
+We now distill this commentary into ten snappy recom-
+mendations for TA researchers to help with producing 
+and reporting methodologically coherent TA. We encour -
+age reviewers to use these recommendations to inform 
+their assessments of TA manuscripts. These should not 
+be treated a checklist in the narrow sense, but as import-
+ant things to reflect on, and reason through—consider 
+them provocations for knowing practice.
+1. Recognize the plurality of TA; determine where 
+your chosen TA approach is located on the sci-
+entifically descriptive (small q)—artfully interpre -
+tive (Big Q) spectrum.
+2. Determine your underlying research values and 
+philosophical assumptions; locate your use of TA 
+theoretically.
+3. Consider your analytic practice; ensure all meth-
+odological procedures and concepts cohere with 
+your research values and TA approach.
+4. Justify divergences from established practice and 
+“mashups;” ensure these are theoretically 
+coherent.
+5. If using reflexive TA, link personal reflexivity to 
+your analytic practice; don’t mention bias.
+6. Discuss how exactly you engaged with your cho-
+sen approach to produce your analysis.
+7. Recognize the differences between topic summary 
+and meaning-based interpretative story
+
+=== Page 6 ===
+iNtErNatioNal JoUrNal of traNsgENdEr HEaltH 5
+conceptualisations of themes; ensure your type of 
+theme is coherent with your TA approach (and 
+justify any divergences).
+8. Ensure your language around theme development 
+is coherent with your TA approach.
+9. Provide a clear overview of your themes/thematic 
+structure in the form of a list, table or thematic map.
+10. Ensure the quality standards and practices used 
+cohere with your TA approach and underlying 
+theoretical assumptions.
+Everything changes…
+We end with a final recommendation for readers wanting 
+to pursue good practice in reflexive TA—read beyond our 
+2006 paper! Our thinking around TA has evolved since 
+2006, including now using the specific name reflexive TA 
+(Braun & Clarke, 2019). Our recent book Thematic anal -
+ysis: A practical guide  (Braun & Clarke, 2022b) provides 
+the most comprehensive guidance for both doing reflexive 
+TA, and thinking about TA. We have developed a web-
+site—www.thematicanalysis.net—which links to all of the 
+resources we have produced. We have published numerous 
+papers addressing, among other things, misconceptions 
+and confusions around reflexive TA (Braun & Clarke, 
+2021a), whether saturation is a meaningful concept for 
+reflexive TA (TL; DR no it isn’t!; Braun & Clarke, 2021b), 
+designing methodologically coherent TA research (Braun 
+& Clarke, 2022a), and when and why to use reflexive TA 
+(Braun & Clarke, 2021c). We particularly encourage 
+reviewers to read the tool for evaluating TA manuscripts 
+for publication in Braun and Clarke (2021a).
+Notes
+ 1. As we are discussing bad practice and have no wish to 
+“name and shame” authors, we have chosen not to include 
+a list of papers reviewed and only reference examples of 
+bad practice in general terms. However, as we also recognise 
+the value of concrete examples, we do identify the authors 
+of two papers that exemplify good practice in various ways.
+ 2. TA was occasionally described as a methodology in the 
+papers reviewed—we don’t think it fulfils all of the require-
+ments of a methodology because it doesn’t inherently pro-
+vide researchers with a theoretically-informed framework 
+for research. Unlike methodologies such as grounded the-
+ory or discourse analysis, TA offers few directives around 
+philosophical and theoretical positioning, appropriate re-
+search questions, data collection methods, or the size or 
+constitution of the participant group/dataset (see Braun & 
+Clarke, 2022a). Therefore, we think TA is better understood 
+as closer to a method. We say closer to  because the proce-
+dures and conceptualisations of key concepts associated with 
+different iterations of TA reflect particular underlying par -
+adigmatic assumptions or research values.
+ 3. In line with qualitative values, codebooks are more used to 
+chart the developing analysis, instead of being a tool to 
+measure whether coding is reliable.
+ 4. One paper justified the use of grounded theory coding 
+techniques to do TA on the grounds that Braun and Clarke 
+(2006) don’t provide a plan for doing TA. Given that the 
+purpose of our 2006 paper was precisely to do that, and it 
+was the first place we outlined a clear six-phase approach 
+to reflexive TA—and critiqued the use of grounded theory 
+techniques to do TA—this stands as one of the many spu-
+rious claims that exist about TA (see Braun & Clarke, 
+2021a). We are troubled how such basically incorrect in-
+formation survives the peer review and editorial process.
+Funding
+The author(s) reported there is no funding associated with the 
+work featured in this article.
+Virginia Braun  
+School of Psychology, The University of Auckland,  
+Auckland, New Zealand  
+ V .Braun@auckland.ac.nz 
+ https://orcid.org/0000-0002-3435-091X
+Victoria Clarke  
+School of Social Sciences, University of the West of 
+England, Bristol, UK  
+ https://orcid.org/0000-0001-9405-7363
+References
+Barlo, S., Boyd, W . E., Pelizzon, A., & Wilson, S. (2020). Y arning 
+as protected space: Principles and protocols. AlterNative , 16(2), 
+90–98. https://doi.org/10.1177/1177180120917480
+Braun, V ., & Clarke, V . (2006). Using thematic analysis in psy-
+chology. Qualitative Research in Psychology , 3(2), 77–101. https://
+doi.org/10.1191/1478088706qp063oa
+Braun, V ., & Clarke, V . (2016). (Mis)conceptualising themes, the-
+matic analysis, and other problems with Fugard and Potts’ 
+(2015) sample-size tool for thematic analysis. International 
+Journal of Social Research Methodology, 19(6), 739–743. https://
+doi.org/10.1080/13645579.2016.1195588
+Braun, V ., & Clarke, V . (2019). Reflecting on reflexive thematic 
+analysis. Qualitative Research in Sport, Exercise & Health, 11(4), 
+589–597. https://doi.org/10.1080/2159676X.2019.1628806
+Braun, V ., & Clarke, V . (2021a). One size fits all? What counts as 
+quality practice in (reflexive) thematic analysis? Qualitative 
+Research in Psychology , 18(3), 328–352. https://doi.org/10.1080
+/14780887.2020.1769238
+Braun, V ., & Clarke, V . (2021b). To saturate or not to saturate? 
+Questioning data saturation as a useful concept for thematic 
+analysis and sample-size rationales. Qualitative Research in Sport, 
+Exercise & Health , 13(2), 201–216. https://doi.org/10.1080/215
+9676X.2019.1704846
+Braun, V ., & Clarke, V . (2021c). Can I use TA? Should I use TA? 
+Should I not use TA? Comparing reflexive thematic analysis 
+and other pattern-based qualitative analytic approaches. 
+Counselling and Psychotherapy Research , 21(1), 37–47. https://
+doi.org/10.1002/capr.12360
+Braun, V ., & Clarke, V . (2022a). Conceptual and design thinking 
+for thematic analysis. Qualitative Psychology , 9(1), 3–26. https://
+doi.org/10.1037/qup0000196
+
+=== Page 7 ===
+6 V. Bra UN aNd V. ClarKE
+Braun, V ., & Clarke, V . (2022b). Thematic analysis: A practical 
+guide. Sage.
+Cammock, R., Conn, C., & Nayar, S. (2021). Strengthening Pacific 
+voices through Talanoa participatory action research. AlterNative, 
+17(1), 120–129. https://doi.org/10.1177/1177180121996321
+Chamberlain, K. (2000). Methodolatry and qualitative health re-
+search. Journal of Health Psychology, 5(3), 285–296. https://doi.
+org/10.1177/135910530000500306
+Elliott, R., Fischer, C. T., & Rennie, D. L. (1999). Evolving guide-
+lines for publication of qualitative research studies in psychol-
+ogy and related fields. British Journal of Clinical Psychology , 
+38(3), 215–229. https://doi.org/10.1348/014466599162782
+Fine, M., Torre, M. E., Oswald, A. G., & Avory, S. (2021). Critical 
+participatory action research: Methods and praxis for intersec-
+tional knowledge production. Journal of Counseling Psychology , 
+68(3), 344–356. https://doi.org/10.1037/cou0000445
+Finlay, L. (2021). Thematic analysis: The ‘good’ , the ‘bad’ and the 
+‘ugly. European Journal for Qualitative Research in Psychotherapy, 
+11, 103–116.
+Flick, U. (2018). An introduction to qualitative research (6th ed.). Sage.
+Folkes, L. (2022). Moving beyond ‘shopping list’ positionality: 
+Using kitchen table reflexivity and in/visible tools to develop 
+reflexive qualitative research. Qualitative Research , 
+146879412210989. https://doi.org/10.1177/14687941221098922
+Fraser, G., Brady, A., & Wilson, M. S. (2021). “What if I’m not trans 
+enough? What if I’m not man enough?”: Transgender young adults’ 
+experiences of gender-affirming healthcare readiness assessments in 
+Aotearoa New Zealand. International Journal of Transgender Health, 
+22(4), 1–14. https://doi.org/10.1080/26895269.2021.1933669
+Frohard-Dourlent, H., MacAulay, M., & Shannon, M. (2020). 
+Experiences of surgery readiness assessments in British 
+Columbia. International Journal of Transgender Health, 21(2), 
+147–162. https://doi.org/10.1080/26895269.2020.1742842
+Gale, N. K., Heath, G., Cameron, E., Rashid, S., & Redwood, S. 
+(2013). Using the framework method for the analysis of qual-
+itative data in multi-disciplinary health research. BMC Medical 
+Research Methodology , 13(1), 117. https://doi.
+org/10.1186/1471-2288-13-117[24047204
+Hayes, N. (2000). Doing psychological research: Gathering and an-
+alyzing data . Open University Press.
+Ho, K. H. M., Chiang, V . C. L., & Leung, D. (2017). Hermeneutic 
+phenomenological analysis: The ‘possibility’ beyond ‘actuality’ in 
+thematic analysis. Journal of Advanced Nursing , 73(7), 1757–1766.
+Kidder, L. H., & Fine, M. (1987). Qualitative and quantitative 
+methods: When stories converge. In M. M. Mark & L. Shotland 
+(Eds.), New directions for program evaluation (pp. 57–75). 
+Jossey-Bass. https://doi.org/10.1002/ev.1459
+King, N., & Brooks, J. M. (2018). Thematic analysis in organisa-
+tional research. In C. Cassell, A. L. Cunliffe, & G. Grandy 
+(Eds.), The SAGE handbook of qualitative business management 
+research methods: Methods and challenges  (pp. 219–236). Sage.
+Langdridge, D. (2004). Introduction to research methods and data 
+analysis in psychology. Pearson Education.
+Marecek, J. (2003). Dancing through minefields: Toward a quali-
+tative stance in psychology. In P . M. Camic, J. E. Rhodes, & L. 
+Y ardley (Eds.), Qualitative research in psychology: Expanding 
+perspectives in methodology and design (pp. 49–69). American 
+Psychological Association. https://doi.org/10.1037/10595-004
+Rivas, C. (2018). Finding themes in qualitative data. In C. Seale 
+(Ed.), Researching society and culture (4th ed., pp. 429–453). Sage.
+Smith, B., & McGannon, K. R. (2018). Developing rigor in qualitative 
+research: Problems and opportunities within sport and exercise 
+psychology. International Review of Sport and Exercise Psychology , 
+11(1), 101–121. https://doi.org/10.1080/1750984X.1317357
+Tebes, J. K. (2005). Community science, philosophy of science, 
+and the practice of research. American Journal of Community 
+Psychology, 35(3–4), 213–230. https://doi.org/10.1007/s10464-005- 
+3399-x
+Tracy, S. J. (2010). Qualitative quality: Eight “big-tent” criteria for 
+excellent qualitative research. Qualitative Inquiry , 16(10), 837–
+851. https://doi.org/10.1177/1077800410383121
+Trainor, L. R., & Bundon, A. ( 2021). Developing the craft: Reflexive 
+accounts of doing reflexive thematic analysis. Qualitative 
+Research in Sport, Exercise and Health, 13(5), 705–726. https://
+doi.org/10.1080/2159676X.2020.1840423
+Varpio, L., Ajjawi, R., Monrouxe, L. V ., O’Brien, B. C., & Rees, C. 
+E. (2017). Shedding the cobra effect: Problematising thematic 
+emergence, triangulation, saturation and member checking. 
+Medical Education , 51(1), 40–50. https://doi.org/10.1111/
+medu.13124
+Varpio, L., O’Brien, B., Rees, C. E., Monrouxe, L., Ajjawi, R., & 
+Paradis, E. (2021). The applicability of generalisability and bias 
+to health professions education’s research. Medical Education , 
+55(2), 167–173. https://doi.org/10.1111/medu.14348
+Ware, F ., Breheny, M., & Forster, M. (2018). Kaupapa Kōrero: A 
+Māori cultural approach to narrative inquiry. AlterNative, 14(1), 
+45–53. https://doi.org/10.1177/1177180117744810
+Wilkinson, S. (1988). The role of reflexivity in feminist psycholo-
+gy. Women’s Studies International Forum, 11(5), 493–502. https://
+doi.org/10.1016/0277-5395(88)90024-6

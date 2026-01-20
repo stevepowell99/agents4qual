@@ -1,0 +1,434 @@
+=== Page 1 ===
+1 
+ 
+Conversational Analysis with AI - CA to the Power of AI: 
+Rethinking Coding in Qualitative Analysis 
+ 
+Susanne Friese, Max-Planck-Society Göttingen, Germany 
+ 
+Abstract 
+The rapid emergence of generative AI tools challenges traditional assumptions about 
+qualitative data analysis, particularly the central role of coding. This article introduces 
+Conversational Analysis to the Power of AI (CAAI), a novel methodological framework that 
+replaces coding with structured, dialogic interaction between researchers and large language 
+models. CAAI reimagines analysis as a process of iterative questioning, synthesis, and 
+reflexive interpretation rather than segmentation and categorization. Grounded in a 
+hermeneutic epistemology and emphasizing methodological rigor, CAAI integrates inductive, 
+deductive, and abductive reasoning strategies. It allows researchers to adapt procedures 
+from established methods like Grounded Theory while embracing a distributed and co-
+constructive model of knowledge creation. The article outlines a five-step process for CAAI, 
+discusses reliability and validity in this new paradigm, and positions the approach within 
+broader shifts toward post-coding qualitative inquiry. CAAI offers a compelling alternative for 
+researchers seeking to deepen interpretation, democratize analytic access, and expand the 
+epistemic horizons of qualitative research in the age of AI.
+
+=== Page 2 ===
+2 
+ 
+Introduction 
+The rapid emergence of generative artificial intelligence (genAI) tools is profoundly reshaping 
+how researchers engage with unstructured data, particularly within qualitative analysis. 
+While these advancements offer exciting possibilities, they also bring challenges. Traditional 
+qualitative coding methods, though rigorous, are often time-intensive. Conversely, while 
+general-purpose chatbots and large language models (LLMs) offer speed, they frequently fall 
+short in providing the necessary rigor, transparency, and traceability crucial for sound 
+qualitative inquiry. Many current applications claiming to automate qualitative analysis often 
+perform tasks closer to classification proxies rather than engaging in the deep, interpretive 
+work characteristic of the field.    
+This article questions the continued necessity of the traditional coding paradigm in this new 
+technological era. It argues that coding, once an essential cornerstone of qualitative analysis, 
+may now be effectively replaced by AI-supported data retrieval combined with dialogue-
+based interpretation. To this end, I introduce and detail a novel method: Conversational 
+Analysis to the power of AI (CAAI), proposing a shift towards interactive engagement with 
+qualitative data. Furthermore, the article delves into the fundamental epistemological 
+questions surrounding how knowledge is constructed when AI becomes part of the analytic 
+process and proposes concrete strategies for establishing reliability and validity within this 
+new dialogic framework. 
+Qualitative Coding vs. LLM-Driven Classifications 
+As large language models (LLMs) become more common in qualitative research, it is 
+increasingly important to distinguish between two fundamentally different approaches to 
+textual analysis with AI: detailed qualitative coding performed by a human, and what might 
+more accurately be called classification proxies. The latter refers to labels assigned (often by 
+AI or automated tools) that resemble qualitative codes but are, in fact, surface-level 
+classifications lacking interpretive depth. While many recent studies claim to automate or 
+accelerate qualitative analysis using generative AI, a closer examination reveals that they 
+often bypass the very practices that define interpretive, in-depth qualitative work—a 
+tendency that is closely tied to the institutional and disciplinary backgrounds of their 
+authors. 
+Papers authored by researchers from computer science, data science, or human-computer 
+interaction (HCI) departments (e.g., Zhang et al., 2024; Gao et al., 2023; Xiao et al., 2023; 
+Zackary, 2024) typically adopt an engineering mindset—treating qualitative data as text to be 
+segmented, labelled, or clustered using LLMs. These projects frequently rely on custom tools, 
+API pipelines, and pre-processed datasets, often reducing analysis to a set of classification 
+tasks, which requires chunking the text. API (Application Programming Interface) are a set of
+
+=== Page 3 ===
+3 
+ 
+rules that allows different software systems to communicate with each other. Chunking, 
+however, destroys the continuity that is essential for making interpretive leaps in qualitative 
+analysis. In addition, the number of codes applied is mostly small (usually under 10), and the 
+data sets—while sometimes described as “large”—consist mostly of short texts like survey 
+responses or tweets.  
+Traditional qualitative coding is not simply the act of assigning labels to text. It is an iterative, 
+interpretive, and contextually grounded process that unfolds over time. Researchers typically 
+engage with full transcripts—often ranging from 10 to 35 interviews—developing between 
+80 and 250 distinct codes, frequently arranged into hierarchical categories and subcodes. 
+What distinguishes this process is not just the volume or granularity of codes, but the 
+emergence of insight through repeated immersion, reflection, memoing, and 
+reconfiguration. 
+Qualitative coding is also deeply dialogic and theory-informed. Analysts shift between 
+inductive openness and deductive structure, exploring contradictions, emotional tone, and 
+the subtle meaning behind participants’ words. The goal is rarely just thematic description, 
+but interpretive depth, often culminating in the development of conceptual categories, 
+metaphors, or grounded theories. 
+In contrast, many studies claiming to perform “qualitative analysis” with LLMs (e.g., GPT-3.5, 
+GPT-4, Claude 2) are actually conducting shallow classification over small or pre-segmented 
+datasets. For example, Zackary (2024) had ChatGPT code 232 pre-defined text passages using 
+just 9 codes in 3 categories—a setup that bears closer resemblance to quantitative content 
+analysis than to qualitative inquiry. Similarly, Xiao et al. (2023) applied 9 predefined 
+categories to 668 survey questions. While these tasks are framed as “qualitative coding,” 
+they lack the scope, complexity, and context integration typical of real coding practice. 
+Even when studies use inductive approaches, such as in Deiner et al. (2024) or Perkins and 
+Roe (2024), LLMs tend to produce a small number of high-level themes—often five to ten—
+with little depth or subcoding. What’s more, these outputs are often non-reproducible, 
+context-blind, or overly reliant on surface-level phrasing. This tendency is amplified by the 
+inability of many systems to maintain memory across large document sets. 
+What much of this emerging literature reflects is not the automation of qualitative coding, 
+but a redefinition of the task to fit the model’s limitations. Rather than expanding the 
+epistemic reach of qualitative methods, LLMs are often used to simplify or flatten them into 
+labelling exercises, where meaning is predefined or extracted from context-free units. This 
+approach may generate speed, but it sacrifices reflexivity, nuance, and methodological rigor. 
+By contrast, studies authored by qualitative researchers from fields like sociology, education, 
+health, or communication (e.g., Hayes, 2025; Goyanes et al., 2024; Lixandru, 2024; Hitch, 
+2024; Perkins & Roe, 2024) tend to emphasize interpretation, reflexivity, and transparency.
+
+=== Page 4 ===
+4 
+ 
+These authors often work directly with interview transcripts or focus groups, engage with 
+models through dialogue, and reflect critically on the limits and affordances of generative AI. 
+Thus, rather than framing LLMs as tools that replace qualitative analysis, it is more 
+productive to see them as co-analysts, agents that support reflection, pattern recognition, or 
+theory generation when guided appropriately. As Hayes (2025) and Ibrahim and Voyer (2024) 
+suggest, meaningful use of generative AI requires dialogic interaction, theoretical framing, 
+and critical engagement. Models like GPT-4 and Claude 2 may be powerful collaborators, but 
+their usefulness hinges on human researchers remaining firmly in control. 
+In sum, the promise of LLMs in qualitative research lies not in mimicking coding software, but 
+in supporting new methods of inquiry that preserve the interpretive richness of the field. 
+Recognizing the difference between classification proxies and ‘true’ qualitative coding is 
+essential if we are to ensure methodological integrity in this rapidly evolving space. 
+Hybrid Solutions: Traditional Coding Tools Enhanced with 
+Generative AI 
+As generative AI (GenAI) continues to evolve, its integration into established computer-
+assisted qualitative data analysis software (CAQDAS) marks a significant development in the 
+qualitative research landscape. Rather than disrupting existing paradigms, tools like 
+MAXQDA, ATLAS.ti and NVivo have introduced GenAI features to enhance rather than replace 
+traditional coding-based workflows. These hybrid solutions offer methodological continuity 
+while increasing analytic efficiency, particularly in early-stage tasks such as data 
+familiarization, code frame development, and results synthesis. 
+MAXQDA's AI Assist provides a representative example of this trend. Unlike general-purpose 
+chatbots, AI Assist is embedded in a rigorously structured environment aligned with formal 
+coding methodologies, such as Schreier’s Qualitative Content Analysis (QCA) framework 
+(Schreier, 2012). It supports both concept-driven and data-driven coding strategies, offering 
+targeted assistance that aligns with the logic of the underlying method. When using a 
+concept-driven approach, researchers can define a code, add a description, and have AI 
+Assist apply it segment by segment—document by document. Each application includes an 
+explanation of why the code was assigned, enabling transparency and offering opportunities 
+for critical reflection. This process has also proven useful when treating the AI as a second 
+coder, especially during pilot phases to test and refine category definitions. 
+For data-driven coding, MAXQDA’s AI Assist can suggest paraphrases for individual segments, 
+generate initial concept labels, or propose subcategories under existing codes. While this 
+support is more limited in scope and speed—especially since responses are generated one at 
+a time and do not retain memory across interactions—it still serves as a helpful
+
+=== Page 5 ===
+5 
+ 
+brainstorming aid. Researchers remain firmly in control of analytic decisions, treating AI 
+output as inspiration rather than automation. 
+ATLAS.ti takes a markedly different approach by offering full-scale, automated AI-powered 
+coding. However, its implementation raises important concerns about methodological 
+coherence. Unlike MAXQDA’s step-by-step, researcher-guided interaction, ATLAS.ti allows 
+users to select all documents for analysis at once—but instead of analyzing documents 
+holistically, the AI processes and labels each paragraph in isolation. It neither tracks 
+previously used codes nor aggregates meaning across a document or dataset. This leads to 
+severe code proliferation: upwards of four hundred codes for two documents, over six 
+hundred for four, and more than 1,200 for just ten, creating an overwhelming volume of 
+redundant or overly granular codes. The time spent cleaning and consolidating these outputs 
+often exceeds the time supposedly saved. While the AI summarization function is relatively 
+well implemented, the coding logic appears driven more by technical affordances than by 
+qualitative principles. The result is a system that exemplifies what can go wrong when AI is 
+integrated without a deep understanding of interpretive methods or the analytical discipline 
+coding demands. 
+Shortly after the first gen-AI features appeared in CAQDAS platforms, standalone apps built 
+entirely around LLM logic began to emerge—and that’s when I first articulated my premise 
+that coding might become obsolete in the age of conversational AI. In my blog post 
+“Rethinking Qualitative Data Analysis: Do We Truly Want a Faster Horse?” (Friese, 2023a) and 
+in the talk “Life Without Coding” (Friese, 2023b), I argued that real-time, dialogic 
+engagement with unstructured data offers a far more natural and flexible alternative to 
+traditional code-and-retrieve workflows. I demonstrated this approach with an example in 
+“Ethical and Responsible Use of AI for Qualitative Analysis” (Friese, 2024) and first started to 
+describe it in Friese (2025). What once seemed a radical departure is now quietly influencing 
+legacy platforms: features like MAXQDA’s Tailwind—which let users explore data without 
+applying formal codes—signal a growing acceptance that rigorous qualitative insight needn’t 
+rely solely on discrete, manually applied codes. 
+Indeed, with the rise of retrieval-augmented generation, semantic search, and conversational 
+AI, we are witnessing the emergence of new paradigms for working with unstructured data. 
+Retrieval-augmented generation (RAG) combines document retrieval with language 
+generation, allowing AI systems to ground their responses in relevant source material rather 
+than relying solely on pre-trained knowledge. Coding, long treated as a necessary 
+intermediary for enabling analytic access, may no longer be essential. Instead, we are 
+beginning to see how real-time interaction with data can enable more flexible, layered, and 
+responsive inquiry. Rather than assigning static codes, researchers can engage in dialogue 
+with their material, iteratively probing meaning and retrieving nuanced responses in context.
+
+=== Page 6 ===
+6 
+ 
+This shift opens profound epistemological questions—not only about how we analyze 
+qualitative data without coding, but also about what it means to know in this new paradigm. 
+If coding is no longer the default analytic mode, how do we conceptualize the process of 
+knowledge creation in qualitative research? 
+What It Means to Know: Epistemological Shifts in AI-Assisted 
+Qualitative Analysis 
+Traditionally, qualitative inquiry has been grounded in the interpretive paradigm, where 
+knowledge is constructed through the immersive engagement of researchers with empirical 
+material, situated within social contexts and informed by theoretical perspectives. Meaning 
+does not reside in the data itself but is generated by a recursive relationship between the 
+analyst, the context, and the text. In this view, knowing is deeply shaped by the knower’s 
+positionality, experience, and reflexive engagement. 
+As Krähnke, Pehl, and Dresing (2025) argue, a hermeneutic epistemology is particularly well-
+suited to conceptualizing how AI might be meaningfully integrated into qualitative analysis. 
+In this view, knowledge is constructed dialogically—through the interaction between 
+researcher, text, and interpretive horizons. When AI is added to the equation, it does not 
+replace the researcher but becomes part of a triadic interpretive space, one in which the 
+LLM’s outputs act as provocations that the researcher responds to, questions, and situates. 
+The act of understanding becomes a process of navigating between perspectives: that of the 
+participant, the AI model, and the researcher’s own evolving framework. The hermeneutic 
+circle is not broken but widened. 
+The AI  model becomes a new epistemic actor that simulates understanding through 
+probabilistic modeling. Even though these models lack Seinsverbundenheit—the ontological 
+embeddedness in lived, socio-historical worlds that informs human interpretation 
+(Mannheim, 1936; Gadamer, 1960). Thus, they do not experience, feel, or reflect in the ways 
+human researchers do. Yet, paradoxically, their output can still offer viable insights, precisely 
+because they are trained on vast and socially-situated corpora.  
+This raises a fundamental epistemological question: if AI-generated interpretations are not 
+grounded in human consciousness or lived experience, can they nevertheless support 
+meaningful qualitative analysis? The answer, as Krähnke et al. (2025) suggest, depends less 
+on what AI is and more on how it is used. Large language models can serve as abductive 
+catalysts—generating unexpected insights, challenging established assumptions, and inviting 
+new interpretive directions. Their outputs do not arise from understanding in a human 
+sense, but from vast intertextual exposure. The digital traces that fuel their training are 
+themselves reflections of the lifeworlds we seek to study—and many more that lie beyond 
+our personal reach. In this sense, the “knowledge” produced by AI is not personal but
+
+=== Page 7 ===
+7 
+ 
+collective and distributed—an aggregated echo of meaning-making across diverse social, 
+cultural, and discursive contexts. 
+Engaging with LLMs, then, allows researchers to access perspectives that may otherwise 
+remain inaccessible. These models can introduce interpretive angles, nuances, or contrasts 
+that extend the scope of human inquiry. When used dialogically and iteratively, they become 
+tools for epistemic expansion, offering a form of interpretive triangulation: not between data 
+sources, but between human insight and machine-generated associations. In this 
+configuration, researchers do not cede authority to the model, but remain in control—
+accepting, rejecting, or refining AI outputs in light of their theoretical, contextual, and ethical 
+frameworks. 
+These developments compel us to revisit what counts as qualitative knowledge. Must it 
+always stem from human immersion alone, or can it also arise from orchestrated interactions 
+with systems that mirror, provoke, and extend human sense-making? The epistemological 
+terrain is shifting: from individual hermeneutics to distributed intelligence; from solitary 
+interpretation to dialogic co-analysis. In this space, knowing is less about ownership and 
+more about orchestrating meaningful epistemic encounters—between researcher, data, and 
+AI model. 
+As researchers move toward more dialogic, reflexive forms of AI-assisted inquiry, they are not 
+abandoning qualitative principles but reimagining them. The challenge is not to preserve 
+tradition for its own sake, but to ensure that the emerging practices—however novel—
+remain grounded in the ethical, contextual, and interpretive commitments that define the 
+field. 
+Emerging Practices of Post-Coding Analysis 
+Above, I already challenged the assumption that coding is intrinsic to qualitative analysis and 
+argued that, in light of LLM capabilities, a new mode of inquiry is not only possible but 
+increasingly necessary. How do analysts ensure rigor, reflexivity, and conceptual depth in an 
+environment where categorization is no longer a prerequisite? These are the questions 
+explored in the next section, which shows that coding-free analysis is not merely speculative 
+but already emerging in practice. 
+A number of researchers are beginning to chart pathways toward post-coding analysis—
+tentatively at first, often using commercially available tools like ChatGPT. Yet many of these 
+efforts still reflect a partial adherence to the logic of classification that has long structured 
+qualitative research. Hayes (2025) exemplifies a hybrid approach that begins with traditional 
+coding logic but moves decisively toward interactive engagement with AI. His process starts 
+by asking GPT-4 and Claude 3.5 to generate a thematic coding framework based on full 
+interview transcripts and to classify documents according to these themes. For instance,
+
+=== Page 8 ===
+8 
+ 
+Claude outputs a codebook and a table indicating whether specific codes appear in each 
+document, along with a few illustrative quotes. While this reflects a classification mindset, 
+Hayes does not stop there. The second phase of his analysis shifts toward dialogic 
+exploration. Using the thematic scaffolding as a starting point, Hayes engages the LLMs in 
+more dynamic tasks: he prompts them to compare perspectives across cases, simulate policy 
+debates, or reflect on contradictions in the data. In doing so, he treats the LLM less as a 
+coding engine and more as a conversational partner—albeit one whose outputs are treated 
+with caution and constantly evaluated against the researcher’s interpretive framework. 
+Perkins and Roe (2024) move a step further away from coding. Working with institutional 
+policy documents, they use ChatGPT to suggest high-level themes and then request 
+quotations to support or refine those themes. Unlike Hayes, they do not construct or apply a 
+formal codebook, nor do they attempt comprehensive classification. Instead, the LLM is used 
+for pattern recognition and plausibility checks, with the human researcher validating outputs. 
+Their approach decouples theme development from data segmentation, treating the AI as a 
+thematic assistant, while reasserting human control over interpretation and trustworthiness. 
+The analysis remains descriptive, but their method clearly signals a departure from the rigid 
+mechanics of coding. 
+Morgan’s (2025) Query-Based Analysis (QBA) pushes this line of thought further. He presents 
+a structured, reflexive alternative to traditional coding, grounded in a three-step process that 
+blends inductive logic with iterative dialogue. The approach begins with broad, undirected 
+queries posed to an LLM in chat interface. These initial prompts—formulated with careful 
+contextual framing—are used to elicit a range of high-level themes from the data, serving as 
+entry points for deeper inquiry. Rather than seeking a single definitive answer, Morgan 
+emphasizes the practice of prompt engineering, comparing responses to differently phrased 
+questions and selecting the most meaningful set of candidate themes based on the 
+researcher’s familiarity with the data and interpretive goals. 
+In Step Two, the researcher follows up with more specific queries, targeting each of the 
+previously identified themes to elaborate potential subthemes. These prompts allow for the 
+surfacing of overlapping or interrelated concepts, which are then refined, consolidated, and 
+evaluated by the researcher. This process highlights Morgan’s emphasis on reflexivity and 
+analytic judgment—recognizing that subthemes are not fixed categories but evolving 
+conceptual constructs that gain clarity through iterative engagement. 
+The final step, Step Three, focuses on substantiating themes and subthemes with supporting 
+quotations. While this resembles traditional thematic presentation in qualitative reporting, 
+the path to these findings has been dialogic rather than classificatory. The LLM functions not 
+as a coding engine, but as a responsive partner for exploration—returning to specific 
+passages when queried and allowing researchers to combine theme-based and relational 
+searches. QBA therefore offers a compelling post-coding framework: one that retains
+
+=== Page 9 ===
+9 
+ 
+structure and transparency yet dispenses with segmentation and labelling as a prerequisite 
+for analysis. It positions the LLM as an iterative thinking tool, with the human researcher 
+maintaining epistemic authority throughout. While the analysis leans descriptive, QBA 
+provides a lightweight, adaptable alternative to manual coding, especially valuable for 
+researchers seeking analytic traction without the burden of segmentation or labelling. It 
+signals a growing recognition that interacting with data can be just as productive as 
+categorizing it. 
+Building on this shift, Nguyen-Trung and Nguyen’s (2025) Narrative-Integrated Thematic 
+Analysis (NITA) offers a more developed and structured analytic framework that moves 
+beyond coding without fully leaving behind thematic traditions. Rather than segmenting data 
+into coded units, the analysis process begins with the identification of high-level themes 
+across interviews, followed by the construction of individual narrative profiles for each 
+respondent. These profiles are then compared and synthesized into cross-case narratives, 
+allowing the AI to surface commonalities, contrasts, and recurring motifs. 
+Throughout the process, the researcher remains in control—curating AI suggestions, refining 
+theme boundaries, and evaluating the coherence of emergent storylines. The AI is not 
+treated as an authority, but as a reflective collaborator that can offer plausible 
+interpretations, test comparisons, and challenge assumptions when prompted effectively. 
+The result is a form of synthesis that retains the structural logic of thematic analysis while 
+being freed from manual coding and categorical rigidity. 
+NITA reflects a transitional model: one foot in the familiar world of theme development and 
+the other stepping toward a new paradigm of AI-assisted narrative construction. It 
+acknowledges that interpretive insight can emerge not from labelling discrete data 
+fragments, but from engaging with participants’ accounts as whole, evolving narratives—
+especially when supported by a language model configured to work dialogically. 
+Together, these approaches suggest that qualitative research is entering a moment of 
+methodological experimentation. While none of the above authors propose fully codified 
+alternatives to the traditional paradigm, their work points to the same core insight: that 
+dialogue—not classification—may become the foundation of future analysis. 
+Building on these emerging practices, Conversational Analysis with AI (CAAI – read: CA to the 
+power of AI) takes the next step: not adapting qualitative analysis to fit the logic of LLMs but 
+reimagining the analytic process itself around human–AI dialogue.
+
+=== Page 10 ===
+10 
+ 
+CA to the Power of AI: A Method for Dialogic Analysis in the 
+Age of LLMs 
+CA to the power of AI (CAAI) responds to the growing recognition that coding may no longer 
+be necessary as the backbone of qualitative analysis. It offers a clear proposition: that a rich 
+and rigorous analysis can emerge through sustained dialogue between human researcher 
+and AI model—without ever applying a single code. Rather than framing LLMs as tools for 
+accelerating coding, this method sees them as interactive sense-making partners—ones that 
+retrieve, synthesize, and contrast segments of data based on researcher-led questioning. It is 
+grounded in the principle that understanding does not emerge from labelling, but from the 
+layered exploration of meaning across context, narrative, and abstraction. While the 
+examples provided below use interview transcripts, the dialogic principles of CAAI are equally 
+applicable to other forms of unstructured qualitative data, such as focus group discussions, 
+observational field notes, or documents. 
+The method unfolds in four iterative steps, with an optional fifth for those seeking to move 
+into theory-building. Each step positions the researcher as an active analyst who guides the 
+AI toward insight—not by delegating analysis, but by cultivating it through a structured 
+process of inquiry and reflection. To illustrate the method in practice, each step is 
+accompanied by an example drawn from my PhD thesis, which examined the relationship 
+between impulse buying and self-identity across three shopper groups: addicted buyers, 
+compensatory buyers, and utilitarian buyers. The original study comprised a total of 57 
+interviews, for this article only 9 of the 57 interviews are used—3 from each shopper 
+group—because of space reasons. The analysis was conducted using QInsights, an AI-
+powered tool developed specifically for dialogic qualitative analysis (QInsights BV, 2025).  
+ 
+Figure 1: Step 1 to 4 of Conversational Analysis with AI
+
+=== Page 11 ===
+11 
+ 
+Step 1: Getting to Know the Data 
+Researchers begin by generating summaries and extracting preliminary themes with the help 
+of an AI assistant. This serves as an initial orientation—identifying key areas for further 
+exploration. In content analysis, these themes may align closely with research questions; in a 
+grounded theory-style approach, a single emergent theme might be used to initiate inquiry 
+and evolve iteratively. 
+ 
+Figure 2: Suggested themes (Screenshot: QInsights Themes Analysis) 
+An example prompt to extract themes could look like this:  
+Analyse the provided qualitative data. Identify and list between 2 and 10 recurring themes. 
+Each theme should be distinct and not overlap with others. For each identified theme, 
+provide the following information: 
+1. A concise, descriptive title for the theme. 
+2. A detailed description of the theme (around 100 words). 
+Step 2: Preparing for Analysis 
+Researchers select one topic to start with and develop a set of exploratory questions to guide 
+the interaction with the LLM. These questions may be inductive, open-ended prompts that 
+allow patterns to emerge organically from the data, or deductive, shaped by existing 
+theoretical frameworks or prior findings. In both cases, the aim is to surface relevant data
+
+=== Page 12 ===
+12 
+ 
+segments and support meaningful interpretation aligned with the researcher’s analytic 
+intent. 
+While it can be helpful to brainstorm the questions with the AI assistant, the final selection 
+and wording of questions is firmly in the hands of the researcher. This question set becomes 
+the analytical scaffolding for the topic and also serves as a means to make the analysis 
+transparent and replicable. Thus, CAAI analysis proceeds topic by topic. This contrasts with 
+conventional coding frame development, where researchers typically seek diversity early on, 
+coding documents sequentially across all topics that occur. 
+Continuing with the example, the topic selected for analysis is one of the above identified 
+themes: Seeking approval and validation through purchase. To explore this topic, the 
+following set of guiding questions was developed: 
+• What explanations do respondents offer for making purchases they later regretted or 
+found excessive? 
+• How do respondents describe the emotional state or life situation they were in before 
+and after these purchases? 
+• In what ways do respondents connect their buying decisions to social expectations or 
+a desire for external validation? 
+I typically conclude the dialog with a set of follow-up prompts that ask the LLM to summarize 
+each case, highlight similarities and differences between respondents, and identify any 
+unique or divergent perspectives. Instead of a case-based summary, you can also request a 
+summary that integrates perspectives across all respondents. 
+• Write a summary in essay format about (respondent name), focusing on her 
+motivations for impulse purchases, her emotional states before and after buying, and 
+any connections to social expectations or the desire for validation, as discussed in our 
+questions. Include direct quotes with page numbers to support key points and 
+maintain the respondent’s authentic voice. 
+• How do these respondents differ, and what do they have in common? 
+• Do any respondents offer a unique or divergent perspective? 
+Step 3: Asking Questions 
+While it is technically possible to process 20 or more one-hour interview transcripts at once, 
+doing so tends to result in generalized responses. Generative AI models are prone to 
+summarizing rather than analysing when faced with large-scale input, which can smooth over 
+important nuances. For this reason, it is best to begin with a focused subset of the data—
+typically 4 to 6 interviews, and rarely more than 10 at a time, depending on length and 
+complexity. Starting small allows the researcher to stay close to the data and retain greater 
+control over the analytic process.

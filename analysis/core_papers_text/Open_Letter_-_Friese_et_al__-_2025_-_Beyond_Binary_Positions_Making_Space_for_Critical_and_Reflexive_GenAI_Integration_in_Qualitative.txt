@@ -1,0 +1,486 @@
+=== Page 1 ===
+1 
+ 
+OPEN LETTER 
+Beyond binary positions: Making space for critical and 
+reflexive GenAI integration in qualitative research  
+Susanne Friese, Kien Nguyen-Trung, Steve Powell and David Morgen 
+ 
+We write as qualitative researchers to respond to an open letter - recently circulating on 
+LinkedIn and now published in the journal of  Qualitative Inquiry (Jowsey et al., 2025a), 
+opposing the use of generative artificial intelligence (GenAI) in reflexive qualitative 
+research. We have also submitted our response to Qualitative Inquiry and are currently 
+awaiting a decision on whether our open letter will be considered for publication. 
+The open letter by Jowsey et al. calls for the categorical exclusion of generative Artificial 
+Intelligence (GenAI) from reflexive qualitative research. While we acknowledge the 
+ethical and socio-technical concerns that motivate this position, we respectfully 
+contest the conclusion that GenAI is inherently incompatible with meaning-based 
+methodologies.  
+We believe that rejecting the technology in its entirety risks closing off methodological 
+evolution, misunderstanding current practices, and isolating qualitative research from 
+broader epistemic developments. See our detailed commentary below.  
+Furthermore, a blanket rejection of GenAI in qualitative research can reinforce a 
+problematic binary framing between pro- versus anti-AI, or ethical versus non-ethical 
+positions, which may risk marginalizing in-between efforts that develop, design, and 
+apply GenAI in ethical and responsible manners. Our stance is to refuse to side with 
+either an absolutist anti-AI position (i.e., an outright rejection of all potential uses of 
+GenAI) or an uncritical pro-AI enthusiasm (i.e., accepting that anything goes as long as it 
+increases efficiency).   
+We believe in the diversity and flexibility of qualitative research practices where 
+researchers can engage with GenAI while remaining reflexive, ethical, and responsible. 
+We therefore advocate for a position grounded in critical engagement, methodological 
+literacy, and ethical responsibility. GenAI, like any other technologies including 
+computer-assisted qualitative data analysis software (CAQDAS), when used critically 
+and under close researcher leadership and control, can serve as a legitimate analytic 
+support within reflexive qualitative inquiry.   
+We therefore support:
+
+=== Page 2 ===
+2 
+ 
+• continued methodological development exploring GenAI as a reflexive analytic 
+aid, with methodological groundings and critical evaluation of its capabilities and 
+limitations;   
+• maintenance of human interpretive and reflexive agency in all analytic decisions, 
+positioning GenAI as a tool or an assistant under researcher control rather than 
+an autonomous agent;  
+• transparency and reflexivity in the design, implementation, monitoring, 
+evaluation, and reporting of GenAI-supported analyses;  
+• collective action to reduce environmental and labour harms that targets big tech 
+companies rather than individual qualitative researchers who critically and 
+reflexively experiment, apply, or use GenAI in their work.  
+We invite colleagues from across discipline and methodological traditions to participate 
+in constructive dialogue about how qualitative research can engage productively and 
+responsibly with emerging computational tools.  
+ 
+You can still sign this open letter 
+So far, this open letter has been signed by over 100 researchers worldwide. Those who 
+wish to support an open debate, rather than a position of categorical rejection, can still 
+add their signature via this brief Google Form. 
+ 
+COMMENTARY  
+In Support of Researcher-Led and Responsible Use of Generative AI in 
+Reflexive Qualitative Research  
+In the commentary of the open letter, Jowsey et al. (2025a, p. 1) explain their outright 
+rejection of generative artificial intelligence (GenAI) by providing three primary reasons 
+including:  
+1. GenAI as simulated intelligence is incapable of meaning making  
+2. Qualitative research should remain a distinctly human practice   
+3. The established manifold harms of GenAI, especially to the environment and workers 
+in the Global South   
+We share many of the values motivating this position, including the commitment to 
+reflexive, interpretative qualitative research and concern for environmental 
+sustainability. However, we propose a different approach to GenAI’s emergence in
+
+=== Page 3 ===
+3 
+ 
+qualitative research. While Jowsey et al. (2025a) advocate for categorical prohibition, we 
+advocate for a responsible use of GenAI grounded in critical engagement, 
+methodological literacy, and ethical responsibility.   
+In this commentary, we respond in detail to each of these reasons. Our position rests on 
+three considerations.  
+GenAI need not displace human interpretation  
+Jowsey et al. (2025a) argue that GenAI should be excluded from reflexive qualitative 
+research because it “cannot make meaning of the language” or genuinely understand 
+the world (p.1). While we agree that GenAI operates through statistical pattern-matching 
+rather than meaning comprehension, our question is different: Can qualitative 
+researchers make use of this technology as supportive tools in interpretative works?  
+We propose that this question deserves careful consideration rather than outright 
+rejection. In what follows, we outline two areas that may provide additional nuance to 
+the current debate. 
+First, the claim that GenAI only ‘identifies, replicates and reinforces dominant language 
+and patterns” based on ‘the algorithmic patterns upon which GenAI operates’ , or the 
+training data they were given. (Jowsey et al., 2025a) presents an incomplete picture of 
+how this technology can be deployed in qualitative research contexts. While this 
+characterization may apply to general-purpose chatbots and Large Language Models 
+(LLMs) used in their default configurations, it overlooks how these tools can be 
+configured or fine-tuned for specific research purposes. Techniques such as Retrieval-
+Augmented Generation (RAG) represent one such configuration. While RAG does not 
+eliminate the risks of hallucinations, it can be designed to ground outputs in a dedicated 
+source materials thoroughly curated by qualitative researchers (e.g., transcripts, field 
+notes, methodological guidance) so as to provide researchers with greater control over 
+GenAI-generated outputs and enable the verification of outputs and comparison with 
+their own interpretations.   
+The critique also overlooks the work that has gone into designing local AI systems, 
+establishing secure Application Programming Interface (API) connections to institutional 
+or self-hosted systems, or the integration of GenAI into existing CAQDAS environments  
+as for instance is the case with NVivo and MAXDA, or the research reported by De Paoli 
+(2024) and Katz et al. (2024). These measures, while not perfect, allow local training of 
+data, prevent participant data from being transmitted to commercial companies’ cloud 
+services, and offer additional layers of control that help mitigate the risks of data 
+security and privacy (Davison et al., 2024).   
+The goal is careful oversight, not automation without reflection. In this context, the AI 
+model operates as another source of knowledge, not as an unchecked agent. Even 
+though the models lack the ontological embeddedness in lived, socio-historical worlds
+
+=== Page 4 ===
+4 
+ 
+that informs human interpretation, their output can still inform analysis, because they 
+are trained on vast and socially-situated corpora (Krähnke et al., 2025). It all depends on 
+how researchers use this new technology. This leads to the second point that deserves 
+nuanced consideration.   
+Beyond "Small Q" Mechanization 
+Second, the authors of the open letter overlooked how the technology is currently being 
+incorporated into qualitative work. This critique seems to respond to a subset of studies 
+whereby qualitative researchers aim to delegate their interpretive authority to GenAI 
+with the sake of automating qualitative data analysis (Zambrano et al., 2023; Drápal et 
+al., 2023). Within this approach, the goal is to largely mechanize the thematic analysis 
+process (e.g., coding, or theme identification) within AI- or natural language processing 
+(NLP)-driven workflows (e.g., Anakok et al., 2025; Deiner et al., 2024; Flanders et al., 
+2025; Goyannes et al., 2024; Nyaaba et al., 2025; Turbobov et al., 2024; Wen et al., 
+2025; Zhang et al., 2024). To ensure the validity and reliability of automation, they often 
+assess the interrater agreement check or intercoder reliability using the Cohen’s K test, 
+namely, to test if GenAI can replicate creating codes or themes similar to researchers. 
+Yet, this way of using GenAI only reflects a group of scholars following a positivist, small 
+q approach rather than representing qualitative researchers who come from non-
+positivist positions (be it medium or Big Q stances). As non-positivist qualitative 
+researchers, we agree that treating GenAI as an autonomous agent risks reducing 
+reflexive qualitative analysis to a mechanical process.  
+ 
+Toward Reflexive Human-AI Collaboration 
+However, we would like to draw attention to a different strand of emerging work that 
+positions GenAI differently. In the open letter, Jowsey et al. (2025a) claim that the 
+uncritical use of GenAI threatens the interpretive foundations of qualitative research. Yet 
+the authors do not address what critical use would look like in practice. Their response 
+largely overlooks current scholarship by qualitative researchers who are actively 
+examining how human–AI collaboration can be carried out responsibly and in line with 
+established epistemologies (Chubb, 2023; Friese, 2025; Hoffmann et al., 2025; Hayes, 
+2025; Izani and Voyer, 2024; Krähnke et al., 2025; MacGeorge, 2025; Morgan, 2023, 
+2025; Nguyen-Trung, 2025; Nguyen-Trung and Nguyen, 2025; Perkins and Roe, 2024; 
+Schäffer and Lieder, 2023; Thominet et al., 2024; Walsh and Brink, 2023).   
+In this kind of work, meaning-making remains anchored in human judgment, not 
+machine autonomy. GenAI does not interpret; it supports the researcher’s interpretive 
+work by generating associations, contrasts, or textual pointers that can be examined, 
+confirmed, or dismissed. Analyzing with GenAI is far from entering one prompt and then 
+data analysis is done. Instead, engagement is iterative, reflexive and abductive.
+
+=== Page 5 ===
+5 
+ 
+Engaging with LLMs can open an alternative possibility of interpreting data. These 
+models can surface contrasts, thematic variations, and subtle connections that could 
+broaden analytic perspectives. When used through dialogue and iteration, they 
+contribute to interpretive triangulation, this time not among data sources but between 
+human judgment and machine suggestions. Human expertise remains central, guiding 
+the acceptance, rejection, or refinement of model output within theoretical, contextual, 
+and ethical boundaries. Without engaging such work, Jowsey et al. ’s critique risks 
+positioning GenAI as an abstract threat rather than considering how researchers are 
+already negotiating its use within established interpretive traditions. 
+Rejecting GenAI on the grounds that it cannot independently interpret misrepresents 
+both how the kinds of approaches outlined above function and how researchers are 
+applying them.  
+Navigating a Field in Transition 
+We acknowledge that much of the mentioned literature is very recent, methodological 
+guidance, standards and good practices of reflexive qualitative research with GenAI are 
+still developing. We do not suggest that the second group of literature, those based on 
+iterative and abductive dialogues exhaust all the possible ways of making meaningful 
+use of GenAI assistance in Big Q analysis. We expect there are many other ways yet to 
+be invented, and there need to be further experiments and applications to shape what 
+reflexive qualitative research with GenAI would look like. It reflects a field in transition, 
+where both researchers and reviewers are still acquiring the skills needed to evaluate 
+GenAI-supported inquiry – and to continue to do so as LLMs continue to evolve.  
+As methodological training develops and more scholars gain direct experience with 
+LLMs, the collective capacity to judge quality will increase. The appropriate response is 
+therefore to deepen engagement, improve standards, and continue examining how 
+GenAI can support reflexive interpretation rather than dismissing the technology on the 
+basis of early or inadequate applications. We thus do not recommend the use of GenAI 
+in reflexive qualitative research without thorough training in research methodologies or 
+social theories. With GenAI, qualitative researchers should continue to shape their 
+analysis, to consider their own positionality, to choose and justify appropriate analytical 
+tools, and to take responsibility for the final interpretation and its communication. Thus, 
+we advocate for a position whereby we keep our minds open to such possibilities with 
+GenAI technologies rather than ruling them out a priori.   
+Dialogue on these issues is complicated by the fact that peer review has not yet fully 
+caught up with the technology. Reviewers themselves are only now developing AI 
+literacy, and some studies  are published which GenAI is applied with methods that are 
+either incomplete or poorly justified. These early publications can then be taken as 
+representative, even when they do not reflect emerging best practice. This is not a 
+matter of assigning fault.
+
+=== Page 6 ===
+6 
+ 
+Reflexive qualitative analysis is relational and distributed  
+The claim that reflexive qualitative analysis must be ‘exclusively human’ rests on two key 
+misunderstandings.   
+The authors of the open letter put forward a very broad, universal reading of 
+reflexive qualitative research that seems to generalize from the reflexive thematic 
+analysis approach proposed by Braun and Clarke (2019, 2022). This misrepresents the 
+wider landscape of non-positivist qualitative inquiry, including the very traditions the 
+authors name as phenomenological, anthropological, ethnographic, discourse based, 
+and other reflexive approaches (Jowsey et al., 2025a).  
+This framing may also give the impression that all scholars working within these 
+traditions categorically reject the use of GenAI in qualitative research. We see tension 
+between the open letter’s call for outright refusal and the more flexible, non-prescriptive 
+stance put forward by the developers of reflexive thematic analysis. Braun and Clarke 
+(2022, p. 43) emphasize that “Reflexive TA offers a particular orientation to, and form of, 
+TA. That, however, as we have just noted, doesn’t mean there is just one way to do 
+reflexive TA… Indeed, one of the key advantages of reflexive TA is that it offers 
+researchers a lot of flexibility” . This flexibility stands at odds with an unconditional 
+dismissal of GenAI.  
+Hitch (2024) similarly points out that  
+“Braun and Clarke (2021a) have always asserted that reflexive thematic analysis is 
+intended to be a flexible rather than a prescriptive approach to qualitative analysis. 
+As a pragmatist with a strong commitment to implementation, I would encourage 
+anyone considering the use of AI in reflexive thematic analysis to also contemplate 
+who we serve as qualitative researchers” (p. 602).  
+We agree with this sentiment and respectfully reject the claim that using GenAI in 
+qualitative data analysis necessarily renders qualitative research non-reflexive. While 
+we acknowledge that GenAI itself cannot be reflexive (Jowsey et al., 2025), we argue that 
+researchers who use GenAI can.  
+According to Whitaker and Atkinson (2019), reflexivity is “a fundamental and 
+inescapable feature of all research, in the natural and social sciences alike” (p. 3). We 
+agree with this position and argue that reflexivity is not determined by the technical 
+design of a tool but by the researcher’s capability and responsibility to reflect on 
+discipline, methodology, textual representation, and positionality. Reflexivity is far from 
+a binary situation: AI is not a button that turns our reflexivity on and off like a light bulb.  
+With AI, researchers still need to consciously maintain and grow their critical reflection 
+to assess which sources of worldviews, knowledge, biases, experiences, materials, 
+tools, and technologies influence the knowledge production. Like any other
+
+=== Page 7 ===
+7 
+ 
+technological tool (be it online meeting applications, digital data collection tools, or 
+CAQDAS software), qualitative researchers who engage with GenAI can, and should, 
+maintain reflexivity when they design, develop, and adapt their digital research workflow 
+in ways that “intentionally [consider] the choice of digital tools and spaces in 
+meaningful and reflexive ways” (Paulus and Lester, 2024, p. 622).   
+Beyond the "Exclusively Human" Subject 
+The claim that reflexive qualitative analysis must be ‘exclusively human’ rests on a 
+narrow understanding of meaning-making. Many established theoretical traditions 
+within qualitative inquiry recognise interpretation as relational and distributed across 
+human and non-human elements — including texts, tools, environments, discourses, 
+and technologies. Their argument presupposes that the only valid model of qualitative 
+interpretation is one where meaning is generated exclusively within an isolated human 
+consciousness. This excludes established concepts such as:  
+• Assemblage thinking (Deleuze & Guattari, 1987)  
+• Distributed cognition (Hutchins, 1995)  
+• Posthumanist knowledge practices (Barad, 2007; Braidotti, 2013)  
+• Sociomaterial entanglements in research (Orlikowski, 2007; Fenwick, 2011)  
+These traditions position meaning-making as relational, co-constructed across human 
+and non-human agents, tools, discourses, and environments and pre-date generative AI. 
+They do not deny the human researcher’s ethical responsibility but allow for cognitive 
+scaffolding, external triggers, and mediated thinking. An AI assistant in this context 
+remains a non-agentic cognitive artifact that supports human reasoning, not an 
+interpretive subject. Below we summarize the four mentioned concepts:  
+Assemblage Thinking (Deleuze & Guattari, 1987)  
+Assemblage thinking conceptualizes any social phenomenon – including qualitative 
+analysis – as an assemblage of diverse elements (people, tools, environments, ideas) 
+that come together and temporarily form a functional whole. Rather than meaning 
+residing solely in an individual’s mind, meaning emerges from the relations among 
+heterogeneous parts of an assemblage. In Deleuze and Guattari’s terms, agency is 
+distributed across a socio-material network: human action requires material 
+interdependencies and networks of discursive devices. A researcher analyzing interview 
+data is never ‘alone’ in meaning-making – they are part of an assemblage with the 
+interview transcripts, the coding scheme, the ambient environment, perhaps a software 
+tool or an AI assistant. The connections among these components are fluid and can 
+reconfigure; an assemblage is not static, but “dynamic, heterogeneous… constantly 
+shifting, evolving, and adapting based on the interactions of its components.
+
+=== Page 8 ===
+8 
+ 
+Distributed Cognition (Hutchins, 1995)  
+Distributed cognition proposes that cognitive processes are not bounded by an 
+individual mind, but distributed across people, artifacts, and time. In Edwin Hutchins’ 
+classic example, navigating a ship is a cognitive task accomplished by a system of 
+navigators, maps, instruments, and culturally learned procedures – not by a single 
+navigator’s brain alone. Applying this to qualitative research, we see data analysis as a 
+team effort between humans and their tools. A codebook, for instance, is an external 
+memory structure that “stores” definitions and examples of codes, thus offloading 
+cognitive effort from the researcher’s mind into a shared artifact. Likewise, when 
+qualitative collaborators discuss emerging themes around a whiteboard covered in 
+sticky notes, the cognition is happening in the interaction of multiple brains and the 
+material layout of notes that hold ideas in place. The fundamental unit of analysis, as 
+Hutchins would say, is the entire “collection of individuals and artifacts and their 
+relations to each other in a particular work practice” (Rogers, 1994).  
+Posthumanist Knowledge Practices (Barad, 2007; Braidotti, 2013)  
+Posthumanist and new materialist scholars argue that knowledge is not an exclusively 
+human product – it emerges from the intra-action (in Barad’s term) of humans with non-
+human agencies, where the line between knower and known blurs. Karen Barad’s 
+concept of agential realism insists that we must account for the material role in how 
+knowledge comes to be. She rejects the idea that we simply reflect an external reality or 
+construct it wholly socially; instead, our practices (including using instruments, 
+technologies, our bodies) participate in bringing forth phenomena. “We don’t obtain 
+knowledge by standing outside the world; we know because we are of the world. We are 
+part of the world in its differential becoming, ”   
+Barad explains, emphasizing that non-humans (devices, organisms, matter) are 
+“implicated in knowledge production” (p. 185). Rosi Braidotti similarly contends that the 
+‘Human’ has never been a self-sufficient, transcendent subject outside of nature or 
+technology. She echoes Haraway and Latour in noting we have never been fully human, 
+nor ‘modern’, meaning ourselves and our sense-making have always been co-defined by 
+our entanglements with animals, objects, and ecosystems. Posthumanist practice thus 
+decouples “knowledge” from the humanist image of a lone rational investigator – 
+instead, it sees knowing as a networked, embodied, and embedded process.  
+Sociomaterial Entanglements in Research (Orlikowski, 2007; Fenwick, 2011)  
+The sociomaterial approach in fields like organization studies and education research 
+likewise posits that the “social” (human intentions, interactions, interpretations) and the 
+“material” (tools, technologies, physical spaces) are constitutively entangled in 
+practice. Wanda Orlikowski argues that we cannot adequately understand everyday 
+work (or research) if we ignore the material components: “everyday organizing is
+
+=== Page 9 ===
+9 
+ 
+inextricably bound up with materiality”, and we should assume the “constitutive 
+entanglement of the social and the material in everyday life” (Orliokowski, 2007).  
+In other words, the activities of qualitative research (data collection, coding, 
+sensemaking) are jointly shaped by social and material forces. Tara Fenwick and 
+colleagues similarly describe any human activity as a product of complex 
+entanglements of human and non-human actors, shaped by both social and material 
+forces, and is therefore sociomaterial. This perspective urges researchers to “zoom 
+out” and see, for instance, a coding session as not just a person thinking, but as a dance 
+between the researcher and their software, notes, data files, institutional review 
+protocols, and so forth, all of which together influence what knowledge is produced. 
+Notably, sociomaterial theorists often adopt a flat ontology stance: rather than treating 
+technology as a backdrop or mere tool. Furthermore, Orlikowski warns that as 
+technology becomes ubiquitous it tends to vanish from view; sociomaterial analysis 
+counters this by deliberately making technology visible to examine how it shapes 
+knowledge production.  
+The Risk of Epistemological Generalization 
+If the open letter were to discuss only the process of meaning-making as defined by 
+Braun and Clarke (2022), we could merely note that this represents a relatively narrow 
+epistemological stance, but not object to it in principle. However, the authors of the 
+open letter extend this understanding beyond reflexive thematic analysis to encompass 
+all forms of reflexive qualitative research. This generalization is problematic, because 
+Braun and Clarke’s position is grounded in a specific epistemological framework—
+namely, an interpretivist–constructionist orientation that locates meaning-making 
+primarily within the human researcher’s interpretive activity. 
+ Other qualitative traditions, however, conceptualize meaning not as a product of 
+individual human interpretation but as emergent from dynamic relations among 
+heterogeneous human and non-human entities—people, tools, technologies, 
+discourses, and environments. By conflating Braun and Clarke’s human-cantered model 
+of meaning making with the epistemic grounds of all reflexive qualitative inquiry, the 
+open letter overlooks this pluralism.  
+We argue that human reflexivity does not require solitude. As the above described 
+positions have shown, it can involve external stimuli, conceptual provocations, dialogic 
+prompts, or “thinking with” artifacts, texts, theories—and potentially AI outputs—while 
+maintaining human interpretive agency.  
+Researchers routinely think with theory, with writing, with sensory environments, with 
+conceptual tools, and with peers. In this context, a GenAI system can be understood as 
+an additional sociomaterial artifact, an entity that can be instructed to contribute 
+prompts, rephrasings, or contrasts as part of a dialogue around the research texts. Its
+
+=== Page 10 ===
+10 
+ 
+involvement does not negate human reflexivity; rather, it expands the space of dialogic 
+engagement. What remains essential is that interpretive agency and accountability stay 
+with the researcher.  
+Placing GenAI within the category of “assisting, not replacing” aligns it with established 
+analytic supports such as memos, mapping, search tools, computational querying, and 
+collaborative discussion. Its presence does not threaten reflexivity; instead, it can 
+contribute to productive interpretive provocation when guided by methodological 
+awareness.  
+Ethical and environmental concerns require governance and harm-
+reduction, not prohibition  
+The environmental footprint of data infrastructures and the labour exploitation 
+embedded in some AI supply chains require urgent attention. These issues should not 
+be minimized. However, a categorical prohibition of GenAI within qualitative research is 
+unlikely to produce meaningful change and may instead hinder the discipline’s ability to 
+contribute to responsible governance. 
+The open letter treats AI’s environmental footprint as uniquely unacceptable, but it fails 
+to contextualize those harms within broader debates on proportionality, mitigation, and 
+responsible innovation (e.g., Xiao et al., 2025; IEA, 2025). To evaluate the environmental 
+ethics of AI in research, we must compare it to the existing digital practices of social 
+scientists. 
+Contextualizing Academic Energy Use For a social scientist, it is perhaps most 
+relevant to compare an hour of intensive LLM use for text analysis with a standard 
+academic activity, such as participating in a one-hour video call. Estimates for the 
+energy consumption of video streaming vary, but a widely quoted 2020 IEA study 
+estimates the energy cost of streaming video at approximately 77 Wh per hour, 
+depending on the device, and excluding the network costs of uploading the user’s own 
+camera feed (Barker, 2025). 
+In comparison, the energy costs for an hour of LLM analysis—based on an initial upload 
+of texts followed by 10 to 20 subsequent queries—are strikingly similar. Josh (2025) 
+estimates that uploading 200 pages of text (approx. 100k tokens) and querying it with a 
+model like GPT-4o consumes up to 40 Wh. Subsequent queries are significantly lighter; 
+Google reports that an average query on Gemini consumes roughly 0.24 Wh (MIT 
+Technology Review, 2025). Consequently, the total energy estimate for an intense hour 
+of LLM-assisted analysis falls in roughly the same ballpark as a standard one-hour Zoom 
+call (Yosh, 2025). 
+Placing Resource Consumption in Perspective While data centres undeniably 
+consume significant water and energy, existing research indicates that this
+
+=== Page 11 ===
+11 
+ 
+consumption, while non-trivial, remains significantly lower than other major sectors. 
+When placed in a global context, the water withdrawal of data infrastructures is a 
+fraction of that used in agriculture or municipal systems (e.g., Gabbatiss, 2025; Ritchie, 
+et al., 2022; IRENA, 2025): 
+• Agriculture: Accounts for ~70% of global freshwater withdrawals, on the order of 
+thousands of km³ (UNESCO). 
+• Livestock: Sustains ~30–40% of global water demand; for example, feed 
+production alone requires ~4,400 km³/yr (Heinke et al., 2020). 
+• Municipal/Residential: Accounts for ~12% of withdrawals (IEA) 
+• Data Centres (AI): Estimated at ~0.56–1.2 km³/yr globally (2023–2030 
+projections), largely for cooling and power generation (IEA). 
+Notably, data centre usage is typically less than 10% of local municipal supply. This 
+comparison does not excuse AI’s footprint, but it places it in a realistic policy landscape. 
+Moving Toward Responsible Governance The appropriate response to these findings is 
+not categorical abstinence, but targeted intervention and harm reduction. Qualitative 
+researchers should advocate for and adopt sustainable practices, such as prioritizing 
+models hosted in renewable-powered data centres, utilizing efficiency-focused 
+architectures (e.g., small language models), and demanding transparency regarding 
+resource-intensive deployments. By engaging with these technologies rather than 
+rejecting them, the field can contribute to the growing body of work on reducing AI’s 
+footprint (e.g., Li et al., 2025). 
+The ethical stance presented in the Open Letter’s reason No. 3 effectively blocks any 
+serious discussion of such dialogic, reflexive, or cognitively distributed approaches. By 
+deciding that GenAI must be dismissed on moral grounds, the authors avoid engaging 
+with the possibility that researcher-directed, dialogic AI could function responsibly 
+within sustainable and ethically governed systems. Too often, their moral rejection 
+becomes a methodological one; limited familiarity with AI methods can lead to the use 
+of simplistic prompts and poor results, which are then taken as confirmation that AI 
+cannot be used to support qualitative analysis (Jowsey et al., 2025b; Nguyen and Welch, 
+2025). This circular logic prevents the exploration of how qualitative researchers with the 
+right epistemic grounding could build iterative, human-led analyses that avoid both 
+uncritical automation and extractive scaling. 
+Conclusion  
+Responsible engagement positions qualitative researchers to shape practices and 
+policies rather than withdraw from them. The question before us is not whether harm 
+exists, but how methodological communities can contribute to its mitigation.
+
+=== Page 12 ===
+12 
+ 
+Reflexive qualitative research is an evolving set of practices. Its core commitments — to 
+contextuality, situatedness, interpretation, and ethical responsibility — are not 
+inherently threatened by Generative AI. When carefully constrained, researcher-led, and 
+epistemically informed, GenAI can function as an analytic aid that complements rather 
+than supplants human understanding. A categorical ban risks foreclosing 
+methodological innovation, narrowing the field of inquiry, and removing qualitative 
+voices from critical conversations about technological development. 
+References 
+Anakok, I., Katz, A., Chew, K. J., & Matusovich, H. M. (2025). Leveraging generative text 
+models and natural language processing to perform traditional thematic data 
+analysis. International Journal of Qualitative Methods, 24. 
+https://doi.org/10.1177/16094069251338898  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement 
+of matter and meaning. Duke University Press.  
+Barker, C. (2025, May 2). Artificial intelligence and the environment: Putting the numbers 
+into perspective. National Centre for AI. 
+https://nationalcentreforai.jiscinvolve.org/wp/2025/05/02/artificial-intelligence-
+and-the-environment-putting-the-numbers-into-perspective/ 
+Braidotti, R. (2013). The posthuman. Polity Press.  
+Braun, V ., & Clarke, V . (2019). Reflecting on reflexive thematic analysis. Qualitative 
+Research in Sport, Exercise and Health, 11(4), 589-597. (For the shift to RTA and 
+subjectivity as resource). 
+Braun, V ., & Clarke, V . (2021). One size fits all? What counts as quality practice in 
+(reflexive) thematic analysis? Qualitative Research in Psychology, 18(3), 328–352. 
+https://doi.org/10.1080/14780887.2020.1769238 
+Braun, V ., & Clarke, V . (2022). Thematic Analysis: A Practical Guide. Sage 
+Chubb, L. A. (2023). Me and the Machines: Possibilities and Pitfalls of Using Artificial 
+Intelligence for Qualitative Data Analysis. International Journal of Qualitative 
+Methods, 22. https://doi.org/10.1177/16094069231193593  
+Davison, R. M., Chughtai, H., Nielsen, P ., Marabelli, M., Iannacci, F ., Offenbeek, v. M., … 
+& Panteli, N. (2024). The ethics of using generative AI for qualitative data analysis. 
+Information Systems Journal, 34(5), 1433-1439. https://doi.org/10.1111/isj.12504 
+De Paoli, S. (2024). Further explorations on the use of large language models for 
+thematic analysis: Open-ended prompts, better terminologies and thematic 
+maps. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 
+25(3). https://doi.org/10.17169/fqs-25.3.4196

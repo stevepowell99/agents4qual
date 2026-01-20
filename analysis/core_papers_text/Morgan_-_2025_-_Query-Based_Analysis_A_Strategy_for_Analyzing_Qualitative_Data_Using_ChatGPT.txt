@@ -1,0 +1,334 @@
+=== Page 1 ===
+1 
+Query-Based Analysis: A Strategy for Analyzing Qualitative Data Using ChatGPT 
+ 
+ABSTRACT 
+ 
+ChatGPT is a recently introduced artificial intelligence program that is gaining broad popularity 
+across a number of fields, one of which is the analysis of qualitative data in health-related re-
+search. Traditionally, many forms of qualitative data have relied on a detailed process of coding 
+the data by labelling small segments of the data, and then aggregating those codes into more 
+meaningful themes. Instead, generative artificial intelligence programs such as ChatGPT can re-
+verse this process by developing themes at the beginning of the analysis process and then refin-
+ing them further. This article presents a specific three-step process, Query-Based Analysis, for 
+using ChatGPT in qualitative data analysis. The first step is to ask broad, unstructured queries; 
+the second is to follow-up with more specific queries; and the third is to examine the supporting 
+data. A demonstration of this process applies Query-Based Analysis of an empirical dataset that 
+consists of six focus groups with caregivers for a family member experiencing cognitive impair-
+ment, who discussed their experiences in seeking diagnosis for their family member. The conclu-
+sions consider the potential impacts Query-Based Analysis on traditional approaches based on 
+the coding of qualitative data. 
+ 
+Introduction 
+ 
+ChatGPT is a generative artificial intelligence (AI) program that was introduced in the fall of 
+2022 and has shown immediate and widespread utility in a range of fields (Sohail, 2023). This 
+article continues that trend by demonstrating the value of ChatGPT for the analysis of qualitative 
+data, with an illustrative example from health-related research. Although the potential value of 
+generative AI in this regard has been examined (Author; Cristou, 2023; Friese, 2023; Hamilton et 
+al., 2023; Hitch, 2024; Silver, 2023; Wachinger et al. 2024), there have been few systematic
+
+=== Page 2 ===
+2 
+descriptions of step-by-step procedures for using this program as a general approach to produc-
+ing themes in qualitative data. This article presents such a framework. 
+The article begins by explaining the relevance of ChatGPT to qualitative data analysis, 
+and a comparison to coding as a more traditional approach to that field. It then lays out a three-
+step set of procedures, called Query-Based Analysis (QBA), for analyzing qualitative data using 
+generative-AI overall and ChatGPT in particular. This three-step process is illustrated with a 
+worked example involving focus groups of Alzheimer’s disease caregivers. The article concludes 
+with a consideration of the possible impacts of AI on the field of qualitative data analysis. 
+ 
+Background 
+ 
+This article follows a previous one (Author) that provided a “proof of concept” for the use of 
+ChatGPT in qualitative data analysis. That earlier article demonstrated the power of ChatGPT for 
+summarizing large amounts of qualitative data in two datasets, and argued for using an iterative, 
+conversational approach between the researcher and the AI. The goal of the present article is to 
+move beyond that earlier, broad presentation to develop a specific technique that applies 
+ChatGPT to the analysis of qualitative data. 
+ 
+ChatGPT and Traditional Software for Qualitative Data Analysis 
+ 
+Various versions of Computer-Assisted Qualitative Data Analysis Software (CAQDAS) have 
+been available for over thirty years, but note that the emphasis is on “computer-assisted,” be-
+cause these programs do not perform the analysis for you. Instead, their origins are in the
+
+=== Page 3 ===
+3 
+computerization of traditional manual coding, which relies on attaching labels to small segments 
+of text, then collecting those more specific codes into broader categories, and ultimately creating 
+more meaningful interpretations. This process of working from observations to a set of interpre-
+tive themes is widely accepted as inductive. At present, the state of the art for CAQDAS pro-
+grams is the continuing addition of new features that facilitate the use of codes in the more 
+interpretive portion of the analysis process. 
+ It should clear that coding and the search for themes are but one approach to qualitative 
+data analysis. For example, Freeman (2016) lists this kind of thinking as based on categorization, 
+and presents four other alternatives. Still, coding, represents the dominant trend in qualitative 
+data software, and this has not changed in more thirty years (Tesch, 1990). In contrast, my pro-
+posed version of Query-Based-Analysis begins by asking the AI program broad questions about 
+the data, and then working with the responses the AI provides to generate more interpretive con-
+tent. The first set of queries in QBA simply asks ChatGPT or an equivalent program to summa-
+rize the data. (Note that semantically, the broader field of AI typically refers to “prompts” rather 
+than “queries,” but I have chosen the latter term to emphasize the question-and-answer process in 
+QBA.) 
+ As with coding, QBA’s process of moving from general summaries of observations to 
+more interpretive conclusions follows an inductive path. In addition, both coding and QBA by-
+pass the need to pre-specify themes, which would be necessary for a deductive approach. How-
+ever, coding and QBA implement their shared preference for induction in very different ways. 
+For coding, this amounts to fracturing the data into many small codes, and then progressively re-
+assembling it into a few broader themes. In contrast, QBA reaches such themes through an ex-
+tended conversation with the data through AI.
+
+=== Page 4 ===
+4 
+ Silver (2023 describes three options for incorporating AI into qualitative data analysis: 
+first, to use it alongside existing approaches to qualitative data; second, to build it into existing 
+software for the analysis of qualitative data; and third, to rely on it alone as an analysis tool. For 
+now, the state of the art is represented by her second option: incorporating AI into existing soft-
+ware. Early on, NVivo introduced tools based on what is known as Natural Language Processing 
+aa way to produce “auto” coding (Lumivero, 2023a), and sentiment analysis (Lumivero, 2023b. 
+More recently, ATLAS.ti (2023) and MAXQDA (2023) have incorporated access to ChatGPT 
+into their programs, but as extensions of existing CAQDAS, both of these implementations are 
+based on an assumption that qualitative data analysis consists primarily of coding, with AI as an 
+assistant to that process.  
+ QBA corresponds to Silver’s the third option by utilizing an AI as the sole analytic tool. 
+Developing QBA as a stand-alone method for qualitative analysis requires a systematic specifica-
+tion for applying generative-AI programs such as ChatGPT to qualitative data, so this article will 
+develop an explicit, three-step version of QBA, which serves as an alternative to coding. In doing 
+so, I treat both coding and AI-focused analyses as tools that are not inherently limited to any dis-
+tinct theoretical orientation. Instead, it is up to the researchers in a given field to determine the 
+relevance and effectiveness of AI for their goals (van Manen, 2023), just as they would any other 
+proposed method. In the present case, QBA moves from treating AI as a generic tool to develop-
+ing a specific method for employing that tool, which the next section will demonstrate. 
+ 
+The Empirical Example 
+ 
+The research project that will be analyzed with ChatGPT involved seeking diagnosis for a
+
+=== Page 5 ===
+5 
+cognitively impaired family member (see Author for a complete description of this study). Be-
+cause the basic nature of Alzheimer’s disease and other forms of dementia reduces the patient’s 
+own self-awareness, this places responsibility on family members to determine the meaning of 
+the symptoms that they perceive. In particular, as dementia progresses, the family is increasingly 
+likely to seek a formal diagnosis to explain the changes they are observing. The ethical approval 
+for this study was obtained from the Human Subjects Review board at [university]. In this case, 
+the analysis was done on what amount to secondary data, which were collected well before the 
+present work was done. The data were fully anonymized, and ChatGPT was set to not upload this 
+data for its future reference database. Taken together, these steps ensure the participants’ privacy. 
+ Our research team began by locating participants through an expert diagnostic clinic. We 
+received permission from a human subjects review process to contact the family members of 
+clinic patients who were diagnosed with dementia. We asked those family members who had a 
+decision-making role in seeking the diagnosis, and then invited those involved in that decision to 
+participate in focus groups. In addition, we used the clinic’s diagnostic testing to divide our cases 
+according to whether the patient had either less severe or more severe symptoms at the time of 
+diagnosis. 
+ We chose focus groups as a data collection method because they are especially useful for 
+hearing how participants share and compare their experiences about decision making (Author). 
+Further, the focus groups allowed us to examine consensus and diversity in caregivers’ experi-
+ences. These goals were aided by a division between groups according to whether families 
+sought diagnosis in the presence of either less or more severe symptoms. From the participants’ 
+point of view, this separation ensured that they were talking to others who made their decisions 
+at a similar point in the development of the illness. From a researcher’s perspective, this allowed
+
+=== Page 6 ===
+6 
+us to gain detailed information across the full progression of the caregivers’ decision-making 
+processes. 
+ The total dataset was thus divided into two segments, with three groups where the clinic’s 
+testing indicated that the patients had less severe symptoms and three groups where the patients 
+had more severe symptoms. There were six family caregivers in each group, and the typical in-
+terview lasted about 90 minutes generating a transcript that was approximately 15,000 words in 
+length. The same questions were asked in all six groups, to ensure comparability across the full 
+dataset. 
+ The moderator's interview guide consisted of six questions organized around taking a his-
+tory of how each family decided to get a diagnosis. The first set of questions asked about the 
+caregivers' perceptions of the earliest symptoms, how family members shared this information 
+among themselves and others, and changes in symptoms over time. The second set asked about 
+the decision to contact a doctor or other health professional, as well as how the family chose this 
+specific hospital for an expert diagnosis. The final question asked the participants about the ad-
+vice they would give to other families facing similar decisions. 
+ In terms of analysis, my earlier work with this data concentrated on the differences be-
+tween these two groups of caregivers (Author), so the emphasis in the present investigation was 
+on the experiences and feelings that these caregivers shared in common. Because there was no 
+intentional difference across the groups, other than the severity of symptoms at the time of diag-
+nosis, I investigated that dataset as a whole, rather than as a set of six separate cases. Importantly, 
+my prior analysis gave me a detailed familiarity with the data based on the mutual experiences, 
+thoughts, and feelings across all the caregivers versus what separated the two subgroups.  
+ The research project was approved by the Institutional Review Board at (University), and
+
+=== Page 7 ===
+7 
+the data were fully anonymized prior to analysis. In addition, I activated the option in ChatGPT 
+not to include this data in its future training set. 
+ The actual dataset for this analysis consisted of a single PDF file that combined all six in-
+terviews, because the goal was to look for shared themes, rather than to compare the content of 
+the separate groups. In addition, I removed the moderator’s questions and any probes that reca-
+pitulated the answers to those questions. This decision to not include the moderators’ remarks 
+follows the traditional procedures of not coding anything that the interviewer’s says, but more 
+importantly for AI-based analyses, it ensures that the program will not include the topics intro-
+duced by the interviewer in the program’s interpretation of the data. Eliminating the moderator’s 
+content makes sure that both the analyses and the conclusions from them relied solely on the 
+comments by participants. And in this case, since I served as the interviewer for all six focus 
+groups, I was able to ensure that all responses from ChatGPT were interpreted in the proper con-
+text. 
+ 
+Applying ChatGPT to Qualitative Data Analysis 
+At the time I conducted these analyses it was not possible to input a data set this large directly 
+into ChatGPT. Consequently, I compared two different “pre-processor” programs that performed 
+this function, ChatDOC (ChatDOC, 2023) and ChatPDF (ChatPDF, 2023). I also repeated the 
+analyses using ChatGPT 3.5 and Chat GTP 4.5. Ultimately, all of these combinations returned 
+similar results, so I chose a pairing of ChatDOC and ChatGPT 3.5, based on their features for the 
+present analysis. Specifically, as the presentation in step three in the QBA process will illustrate, 
+this was the only combination that made it possible to mark relevant content in the data itself. In 
+addition, the presence of such coding throughout the data suggests that there were few if any
+
+=== Page 8 ===
+8 
+problems with the size of the data set (i.e., “token limits”). 
+ In terms of settings for ChatGPT 3.5, there is an option to prevent the program from as-
+similating the current data set into its future training data, and I activated this option to help pre-
+serve the participants’ privacy. In addition, the program has a setting for “temperature,” which 
+controls the randomness or creativity of its responses; this ranges from 0 to 10, and I set it to zero 
+to assure the accuracy of the responses to my queries. 
+ 
+Step One: Asking Broad, Undirected Queries 
+My recommended strategy for applying QBA is organized around three basic steps, the first of 
+which is to ask broad, undirected queries. The goal at this initial stage is to locate a set of basic 
+topics, or s in the data that can serve as the foundation for further searching. Note that this start-
+ing place does require a reasonable degree of familiarity with the data, which would typically re-
+sult from having a meaningful a role in collecting the data. The most desirable form of 
+familiarity would result from both collecting the data oneself and then re-reading the transcripts. 
+When that degree of familiarity is not the case, then a more intense reading of a substantial sam-
+ple of the data should occur prior to any querying. However one achieves the necessary familiar-
+ity with the data, it is essential to take a reflexive stance toward the decisions being made 
+throughout the analysis process. This need for a conscious degree of reflexivity is especially im-
+portant for QBA, given its reliance on the researcher’s subjective judgments in interpreting the 
+responses from the AI. 
+ The wording for a typical first query begins by setting a context for the dataset as a 
+whole, such as: “The individuals who participated in these interviews were [description] and they 
+discussed [topic]…” This statement would be accompanied by the query itself, such as: “What
+
+=== Page 9 ===
+9 
+were the key topics in this document?” By requesting such a generic reply, QBA takes a funda-
+mentally inductive stance, rather supplying any prior theory or predetermined content that would 
+be necessary for a deductive approach. Instead, by asking for the most general content first, it 
+work from the bottom-up to more interpretive conclusions. This is matched in ChatGPT by 
+providing broad summaries as a starting point, before responding to more targeted requests. Ulti-
+mately, however, it is how the researcher uses the content produced by the program that deter-
+mines the inductive nature of the QBA as a form of data analysis. 
+Accompanying this inductive approach is a subjective judgment of the results from this 
+querying process, and the standard for evaluating the AI’s initial response should be the extent to 
+which that answer captures the original research goals. If it is too far off those goals, then the 
+most likely solution is to adjust the context statement that you initially supplied, possibly by add-
+ing a one-sentence summary of the research question. Note that with ChatGPT it is not necessary 
+to supply this context with every subsequent question in a series, because the program will re-
+member it without further querying. 
+ Once you have established that the QBA can match the research goals, then it is im-
+portant to recognize that no one query is likely to capture a well-formed list of candidate themes. 
+Although repeating the same query to ChatGPT can produce some differences in the responses, I 
+recommend explicating varying the queries that you use in this initial step. Other examples of 
+querying at this stage would include: “What are some of the main themes with regard to [re-
+search topic]?” Or, “Give me a list of the things that mattered most to these participants.” Or, 
+“Give me a long list of the factors that affected how these participants…” In comparing these 
+questions, one key difference is whether you explicitly request that the program give you a list of 
+the items that make up the content you are seeking. In my experience, it is unpredictable whether
+
+=== Page 10 ===
+10 
+a program will return a narrative description or list (which may be either numbered or bulleted), 
+unless you specifically state the format you want. Since the purpose in this step is to decide on a 
+set of core themes that can serve as the basis for further queries, some form of list is almost al-
+ways the preferred response. 
+ 
+Demonstration of broad, undirected querying. I began by setting a context for the present da-
+taset: “This data comes from focus groups where family caregivers discussed seeking diagnosis 
+for a family member with Alzheimer's Disease.” After that, I experimented with three different 
+sets of initial queries, as summarized below. After each of these three queries, I used the program 
+option to “reset” or “clear” the previous conversation, so that none of the subsequent responses 
+were affected by any of the prior queries. I then assessed each of these lists of themes, and thus 
+the strategy that produced it, according to my knowledge of these data. Note that the three alter-
+nate wordings for the query are essentially an example of “prompt engineering,” with the goal of 
+determining the extent of the shifts in responses as a function of the phrasing of the prompts. 
+ 
+• Querying for the basic research question, e.g., “Give me a list of the key themes that af-
+fected when and why these caregivers sought diagnosis.” 
+• Querying for a more detailed version of the larger research goals, e.g., “Give me a list of the 
+factors that led some of these caregivers to seek diagnosis earlier when the symptoms were 
+relatively mild,” and “Give me a list of the factors that led some of these caregivers to seek 
+diagnosis later when the symptoms were relatively severe.” Followed by: “Combine the 
+two previous searches to give me a list of the key themes that affected when and why these 
+caregivers sought a diagnosis.”
+
+=== Page 11 ===
+11 
+• Querying for a summary of the responses to each of the six original interview questions, 
+one by one, as suggested by Kuckartz and Radiker (2023), e.g., beginning with, “Tell me 
+about the caregivers’ perceptions of the earliest symptoms,” and so on and each of the 
+other five question, followed by: “Combine the six previous searches to give me a list of 
+the key themes that affected when and why these caregivers sought a diagnosis.” 
+ 
+ The thematic outcomes of these searches are shown in Table 1. All three outcomes show 
+an essential similarity. Comparing these sets of themes, I judged the best summary to come from 
+the query based on the six original interview questions, which produced a compact list of the 
+most important elements in the data. The one exception was its final theme on Financial Consid-
+erations, which I judged to be more of a “topic summary” (Braun & Clarke, 2022), rather than a 
+truly interpretive theme. In particular, my familiarity with the data indicated that although discus-
+sions of finances certainly did occasionally occur, they failed to spark anything like the same 
+level of active discussion as the other five candidate themes. Overall, the similarity of the three 
+sets of responses reinforced my confidence in the analysis outcome, indicating that it would have 
+made little difference which of the three sets of candidates I pursued. 
+ 
+Table 1. Results from three basic searches for themes 
+ 
+Basic 
+Themes 
+Research 
+Questions 
+Interview 
+Questions 
+Concerns and observations 
+Need for a diagnosis and in-
+formation 
+Need for a specific diagnosis
+
+=== Page 12 ===
+12 
+Progressive decline 
+Emotional and mental well-
+being 
+Desire for information and 
+coping strategies 
+Need for support 
+Concern for the safety and 
+well-being of the person with 
+Alzheimer's 
+Lack of communication from 
+healthcare professionals 
+Family involvement 
+Seeking expert guidance and 
+support 
+Impact on caregivers' sanity 
+and well-being 
+Professional recommenda-
+tions 
+Desire for financial and legal 
+planning 
+Planning and organizing for 
+the future 
+Knowledge and awareness Recommendations from others Financial considerations 
+ 
+ Both my selection of the themes based on the questions from the interview and my deci-
+sion to drop financial considerations as a theme illustrate a fundamental point about QBA: Noth-
+ing can replace the researcher’s substantive judgments about the most important elements of the 
+analysis. In particular, you need to make your own decisions, and to feel confident that you can 
+justify those decisions. 
+ Hence, the key goal in this first step is not to devise a single, perfect query that eliminates 
+the researcher’s judgment. Instead, the reason for consulting a series of queries is to produce 
+what one judges to be best set of themes. Within the broader field of AI, successively comparing 
+the results of different queries is known as “prompt engineering” (Chubb, 2023; White et al., 
+2023), It is also important to note, however, that the assessment of which prompts produce the 
+best results is inherently subjective, so it is crucial that reports of the analysis process should in-
+clude, whenever possible, the actual wording of the prompts that were used.  Overall, my

@@ -1,0 +1,19 @@
+=== TABLE 1 (5x2) ===
+Explanation	Score
+Human-generated: Humans generated 95% or more of the research, with AI being of minimal involvement.	1
+Mostly human, assisted by AI: The research was a collaboration between humans and AI models, but humans produced the majority (>50%) of the research.	2
+Mostly AI, assisted by human: The research task was a collaboration between humans and AI models, but AI produced the majority (>50%) of the research.	3
+AI-generated: AI performed over 95% of the research. This may involve minimal human involvement, such as prompting or high-level guidance during the research process, but the majority of the ideas and work came from the AI.	4
+
+=== TABLE 2 (11x2) ===
+Parts of your research (add a score to any that apply)	Score
+Idea generation	
+Literature Selection	
+Literature Review	
+Generation of research questions	
+Generation of hypothesis	
+Research Design (choice of methods and data analysis, sampling, type of data collection, etc.)	
+Data Analysis and Interpretation	
+Writing	
+Other, please specify	
+Your average score	
