@@ -12,7 +12,7 @@ Rule: never delete or overwrite prior entries; only append new dated sections.
 - `[supports]` or `[contradicts]` (required relative to the current theory claims)
 - `[note:...]` (required; 1–3 sentences: why this excerpt matters)
 
-## 2026-01-20T10:00:00Z — Phase 2 / Batch 1 — excerpt tagging
+## 2026-01-20T??:?? — Phase 2 / Batch 1 — excerpt tagging
 
 ### Interview_05_part1and2.md
 - `[src:Interview_05_part1and2.md] [meta:borough=Newham age=19 gender=Female] [code:Exclusion_leftOut_opportunityGap] [code:SelfWorth_competition_notGoodEnough] [supports] [note:Loneliness is framed via a visual contrast of “one vs groups” and jealousy; this supports social comparison and exclusion mechanisms.]`
@@ -85,7 +85,7 @@ Rule: never delete or overwrite prior entries; only append new dated sections.
 - `[src:Interview_41_part1and2.md] [meta:borough=BarkingAndDagenham age=18 gender=Male] [code:Masculinity_emotionTaboo] [supports] [note:Introduces gendered constraint on emotional expression as a mechanism producing isolation.]`
   - “We are taught not to show our emotions… makes them feel isolated…”
 
-## 2026-01-20T11:20:00Z — Phase 2 / Batch 2 — excerpt tagging
+## 2026-01-20T??:?? — Phase 2 / Batch 2 — excerpt tagging
 
 ### Interview_11_part1and2.md
 - `[src:Interview_11_part1and2.md] [meta:borough=Newham age=23 gender=Male] [code:Race_othering_categorization] [theme:ThreatAsOthering] [supports] [note:Loneliness is explicitly linked to racialized othering (“black dot”) and not being treated as fully human/relatable.]`
@@ -156,7 +156,7 @@ Rule: never delete or overwrite prior entries; only append new dated sections.
 - `[src:Interview_46_part1and2.md] [meta:borough=BarkingAndDagenham age=18 gender=Female] [code:Therapy_accessBarrier_timeMoney] [contradicts] [note:Help-seeking is constrained by time and money (“barely find time”, “afford it”), linking structural scarcity to emotional isolation.]`
   - “I can barely find time for myself… I don’t think I can go to therapy or even afford it…”
 
-## 2026-01-20T13:10:00Z — Phase 2 / Batch 3 — excerpt tagging (disconfirmation-oriented)
+## 2026-01-20T??:?? — Phase 2 / Batch 3 — excerpt tagging (disconfirmation-oriented)
 
 ### Interview_10_part1and2.md
 - `[src:Interview_10_part1and2.md] [meta:borough=Hackney age=24 gender=Female] [code:FriendshipFiltering_energyAllocation] [contradicts] [note:Challenges a simple “withdrawal is bad” reading: choosing *not* to over-invest in weak ties is framed as wellbeing-protective.]`
@@ -211,7 +211,7 @@ Rule: never delete or overwrite prior entries; only append new dated sections.
   - “I do prefer being lonely… it expands your brain…”
   - “the percentages of you getting to trouble is more lower…”
 
-## 2026-01-20T14:10:00Z — Phase 2 / Batch 4 — excerpt tagging (stability check)
+## 2026-01-20T??:?? — Phase 2 / Batch 4 — excerpt tagging (stability check)
 
 ### Interview_47_part1and2.md
 - `[src:Interview_47_part1and2.md] [meta:borough=BarkingAndDagenham age=24 gender=Male] [code:CycleBreaks_microAcknowledgement] [theme:CycleBreaks_lowVulnerabilityContact] [supports] [note:Disconfirms ‘only deep ties matter’: micro-acknowledgement (“hi”) is framed as a meaningful connection intervention in everyday life.]`

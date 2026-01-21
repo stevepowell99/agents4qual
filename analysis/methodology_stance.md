@@ -1,10 +1,10 @@
 # Methodology stance (append-only)
 
-## 2026-01-20T00:00:00Z — Initialized
+## 2026-01-20T??:?? — Initialized
 
 Purpose: document contentious methodological issues across `/core_papers/` and the evolving stance taken in this submission.
 
-## 2026-01-20T00:40:00Z — Contentious issues + emerging stance (v0)
+## 2026-01-20T??:?? — Contentious issues + emerging stance (v0)
 
 ### 1) What counts as “analysis” when AI is involved?
 - **Tension**:

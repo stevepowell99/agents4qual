@@ -1,12 +1,12 @@
 # Codebook (append-only)
 
-## 2026-01-20T00:00:00Z — Initialized
+## 2026-01-20T??:?? — Initialized
 
 Purpose: maintain the current set of codes with definitions, inclusion/exclusion criteria, and examples.
 
 Rule: when a code changes, append a dated “change log” note rather than editing older definitions out of existence.
 
-## 2026-01-20T01:05:00Z — Initial code set (v0, provisional)
+## 2026-01-20T??:?? — Initial code set (v0, provisional)
 
 ### Misunderstood_or_noSharedExperience
 - **Definition**: Loneliness framed as being *misunderstood* or lacking shared lived experience, even when other people are present.
@@ -71,7 +71,7 @@ Rule: when a code changes, append a dated “change log” note rather than edit
 - **Example**:
   - `/sources_md/Interview_33_part1and2.md` — “I feel shy to tell someone … what they’re going to think of me…” (lines 163–181)
 
-## 2026-01-20T01:40:00Z — Code set expansion (v1, based on added sample)
+## 2026-01-20T??:?? — Code set expansion (v1, based on added sample)
 
 ### SocialAnxiety_paranoia_beingWatched
 - **Definition**: Loneliness experienced in groups as anxiety/paranoia/self-consciousness (“everyone is staring”), leading to immobilization and withdrawal.
@@ -115,7 +115,7 @@ Rule: when a code changes, append a dated “change log” note rather than edit
 - **Example**:
   - `/sources_md/Interview_19_part1and2.md` — outsider perspective with contentment/curiosity; prefers own space over forced fitting-in (lines 43–56)
 
-## 2026-01-20T10:30:00Z — Code set expansion (v2, after Phase 2 / Batch 1)
+## 2026-01-20T??:?? — Code set expansion (v2, after Phase 2 / Batch 1)
 
 ### LonelinessAsEmptiness_void
 - **Definition**: Loneliness narrated as “emptiness” (an empty space/room; nothingness), not only as threat appraisal or absence of people.
@@ -187,7 +187,7 @@ Rule: when a code changes, append a dated “change log” note rather than edit
 - **Example**:
   - `/sources_md/Interview_08_part1.md` — “reciprocate… advices… matter of reciprocating.” (around lines 441–444)
 
-## 2026-01-20T11:50:00Z — Code set expansion (v3, after Phase 2 / Batch 2)
+## 2026-01-20T??:?? — Code set expansion (v3, after Phase 2 / Batch 2)
 
 ### Race_othering_categorization
 - **Definition**: Loneliness framed through racialized othering/categorization (not treated as “normal human,” marked as different).

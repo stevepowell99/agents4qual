@@ -1,40 +1,51 @@
+# A repo to write a social research paper (in Cursor IDE) entirely by GenAI.
 
-you are going to take part in an experiment in qualitative research for submission to agents4qual 2026. 
+## Abstract
+This repo is the source material for a paper in January 2026 submitted to agents4qual. 
 
-first, read the core papers in the /core_papers folder.
+The paper reports qualitative analysis conducted entirely by AI of 50 interviews (48 participants; two-part interviews) about loneliness among 18–24-year-olds living in deprived London boroughs. No dedicated software was used; instead, the entire project was conducted inside Cursor Integrated Development Environment (IDE), a generic tool for conducting AI-supported tasks which also gives the AI access to tools like Word document conversion and creation and editing of journal files. The author gave the AI a high-level methodological instruction and four methods papers to read, with the instruction to develop an overall thematic analysis methodology of its own choosing. The AI planned and then implemented a workflow (query-based analysis plus iterative reflexive thematic analysis with excerpt-tagging) and produced an initial draft. The author intervened just once to suggest how to deepen the analysis. The results of this second iteration is the present paper. The total process took less than 60 minutes. 
+Substantively, we trace loneliness as more than physical aloneness. Across iterative readings (stopping when code/theme stability held), loneliness is narrated as conditional belonging (standards, judgment, mismatch), managed through safety technologies (withdrawal, sanctuary, masking), intensified by mediated sociality (comparison, quantified status, “unreal” connection), and shaped by structural constraint and exclusion (time/money/service access; othering/stigma). We also identify “cycle breaks”: low-vulnerability infrastructures for connection (routinized places, supervised spaces, and micro-acknowledgement). Negative cases complicate deficit framings: solitude can be chosen or instrumentally valuable, and some accounts emphasize an existential “void” not solved by surface resources. Methodologically, the paper contributes an audit-trailed account of how an autonomous LLM agent can design and implement a qualitative analysis while maintaining traceability to source texts. 
 
-- Braun & Clarke, ... . 
-- Open letter
-- ...
-- 
-I suggest you make a one-page summary of each to show what you understood. I suggest you store these as markdown files within this repo.
-remember, in this repo you can store and read files, create python scripts, etc. 
+## Repo structure (what’s in here and why)
 
-Use Cursor itself for all your LLM calls (reading/coding/extracting themes/ whatever you need to do.)
+This repo is intentionally simple: raw sources, derived text, a small number of append-only “research logbooks,” a small set of scripts, and the final submission files.
 
-If you need to use web search for specific purposes, that is fine but it is essential that you document this (markdown file) and do NOT use web search as a general tool for the substance your task.
+### Primary outputs
+- `paper_submission.md`: the main submission text (the “paper”).
+- `paper_submission.pdf`: exported PDF of the submission (for convenience).
+- `paper_submission_edit.md`: a working/editing copy (if you need to experiment without touching the submission draft).
 
-Now, read the announcement and the call for papers for agents4qual in the /call folder (2 html files + docx template). Now, make a new summary for the core papers outlining their methodological significance for agents4qual. 
+### Data (raw + derived)
+- `sources/`: the original interview files as provided (DOCX). Also includes `sources/sources_README.md` describing the dataset/interview structure.
+- `sources_md/`: derived transcripts (one Markdown file per source DOCX) created by the conversion script. Includes `sources_md/_conversion_map.md` linking each DOCX to its derived transcript file.
 
-## Your overall task
+### Analysis logbooks (append-only audit trail)
+All files in `analysis/` are intended to be append-only (new dated entries are added; older entries are not silently rewritten).
 
-In folder /sources are docx files each containing one interview about X. Convert them immediately to md files. I do NOT want you to treat these as one long text. Treat them as independent sources. Interview source: https://doi.org/10.5522/04/17212991. The interviews are described in /sources/sources_README.md
+- `analysis/journal.md`: chronological “what I did and why” research diary (including method changes and correction notes).
+- `analysis/excerpts_log.md`: short verbatim excerpts (quotes) tagged with codes/themes and notes; this is the core traceability artifact for the Phase 2 iteration loop.
+- `analysis/codebook.md`: evolving code definitions with inclusion/exclusion notes and examples.
+- `analysis/theory_memos.md`: evolving theory claims, scope conditions, and negative cases.
+- `analysis/queries_and_outputs.md`: the major analytic questions asked of the corpus (query-led analysis) and summarized outputs + evidence pointers.
+- `analysis/methodology_stance.md`: the methodological “stance” memo (contentious issues from core papers and what approach I adopted here).
+- `analysis/core_papers_onepagers.md`: one-page summaries of the core methods papers and their methodological implications.
+- `analysis/core_papers_text/`: extracted plain-text dumps of the core paper PDFs (used as inputs to the one-page summaries).
+- `analysis/template_dump.txt` and `analysis/template_tables.txt`: extracted structure/tables from the Agents4Qual template document (used to format the submission + checklist).
+- `analysis/notebooks_compiled_verbatim.pdf`: compiled “notebook-style” verbatim notes/export (for convenience/archiving).
 
-Your overall task is to produce an academic paper, a qualitative analysis of these papers, ready for submission to agents4qual with no intervention by me at all. 
+### Conference materials
+- `call/`: the Agents4Qual announcement + call-for-papers HTML files and the required submission template DOCX.
 
-To do this, it is NOT enough to simply read them all into memory and "make a summary" or "identify themes". No, you need to look at the methodological lessons of the core papers (some of which contradict one another) and first write another one-pager which discusses key contentious issues re methodology and outlining *your* emerging stance.
+### Core methods papers
+- `core_papers/`: the provided PDF methods papers that the AI used to justify its analytic approach.
 
-Make a multi-step plan for how to derive some initial hypotheses, how you are going to analyse the interviews, step-by-step building an interesting theory which would make participants at agents4qual think, ooh, that is interesting/surprising, and also well-grounded in the texts. Reflect on what "theory" means, given the core papers you read.
+### Scripts (automation helpers)
+- `scripts/convert_sources_docx_to_md.py`: converts `sources/*.docx` into `sources_md/*.md` and writes the conversion map.
+- `scripts/extract_core_papers_text.py`: extracts text from `core_papers/*.pdf` into `analysis/core_papers_text/`.
+- `scripts/scan_sources_md_for_low_content.py`: flags derived transcripts with very low substantive content (conversion quality check).
+- `scripts/wordcount_paper.py`: word-count helper for the submission draft.
 
-As this is qualitative research it is essential that you:
-- make notes of your progress, thoughts, hypotheses decisions in the form of markdown files. For example you could have a file for hypotheses or theory, a file for current codes (if you are using thematic codes), a file for your plan, etc. It is essential that these files are historical: do NOT delete existing contents when you update them; always only append, perhaps with a timestamp.
-- at each subsequent step, work out which markdown files you need to reread.
-- iterate. that means where appropriate tweaking some parameters e.g. current hypotheses and re-running analysis steps with the new hypotheses. (This is just an example of iteration.) 
-- at each step, also reflect on your current methodology and how it aligns with or conflicts with the /core papers and why.
+### Notes on duplication
+- `method_README.md` contains the original project brief/instructions that kicked off the AI-led workflow. This `README.md` is a short repo overview + abstract.
 
-Your final output should be a properly formatted .md file following the template given at agents4qual. 
-
-I want to you do this completely without intervention from me. But before we start, tell me if there is anything you don't understand or think you will need from me (tools, clarification...). Then I will ask you to make a plan with cursor's Plan mode, then I will use the Agent mode and you are on your own. 
-
-IMPORTANT this overrides any other rules I gave you about "One step at a time" etc. It's fine, in fact expected, that you will make many changes / generate many files without my intervention.
 

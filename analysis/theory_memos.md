@@ -1,10 +1,10 @@
 # Theory memos (append-only)
 
-## 2026-01-20T00:00:00Z — Initialized
+## 2026-01-20T??:?? — Initialized
 
 Purpose: develop and revise explanatory claims (mechanisms + scope conditions), with explicit logging of revisions and negative cases.
 
-## 2026-01-20T01:20:00Z — Memo 1 (v0): Loneliness as a cycle of mismatch, protection, and narrowed access
+## 2026-01-20T??:?? — Memo 1 (v0): Loneliness as a cycle of mismatch, protection, and narrowed access
 
 ### Working claim (provisional)
 In these interviews, loneliness is produced not only by “lack of people,” but by a recursive cycle:
@@ -30,7 +30,7 @@ Place-based routines (e.g., barbershop regularity) appear as partial “cycle br
   - at least one “part 2” focused file (neighbourhood places)
   - at least one male/female age 18 case
 
-## 2026-01-20T02:00:00Z — Memo 2 (v1): “Sanctuary” as both protection and accelerator
+## 2026-01-20T??:?? — Memo 2 (v1): “Sanctuary” as both protection and accelerator
 
 ### Update based on added sample (B&D + part 2 places)
 Interview 37 sharply clarifies a mechanism that Memo 1 only implied: **withdrawal is not just absence**, it is often experienced as a *chosen safety technology* (“bedroom sanctuary”) that reduces immediate anxiety but increases longer-run isolation.
@@ -53,7 +53,7 @@ Interview 37 sharply clarifies a mechanism that Memo 1 only implied: **withdrawa
 ### Negative case noted (requires integration)
 - `/sources_md/Interview_19_part1and2.md`: outsider position is not necessarily framed as tragic; participant reports contentment/curiosity and chooses not to “mould” into incompatible groups. This suggests the “cycle” is not universal; for some, outsiderhood is a stable identity position rather than a problem to solve.
 
-## 2026-01-20T10:15:00Z — Phase 2 / Batch 1 micro-memos (per interview)
+## 2026-01-20T??:?? — Phase 2 / Batch 1 micro-memos (per interview)
 
 ### Interview_05_part1and2.md (Newham, F19)
 - **Adds**: loneliness-as-emptiness; loneliness-as-jealousy/social comparison; coping via alcohol/smoking/comfort eating with rebound.
@@ -79,7 +79,7 @@ Interview 37 sharply clarifies a mechanism that Memo 1 only implied: **withdrawa
 - **Adds**: loneliness framed as “mental” persistence; loneliness-as-survival/safety; home as low-judgment “connected place”; masculinity/emotion taboo as isolation driver.
 - **Challenges**: complicates the moral valence of loneliness (lonely but safe) and moves the loop toward a broader “threat/safety tradeoff” account.
 
-## 2026-01-20T11:35:00Z — Phase 2 / Batch 2 micro-memos (per interview)
+## 2026-01-20T??:?? — Phase 2 / Batch 2 micro-memos (per interview)
 
 ### Interview_11_part1and2.md (Newham, M23)
 - **Adds**: racialized othering as an explicit loneliness mechanism (“black dot”); loneliness-as-burden when others rely on you; social media comparison extended to creative/career identity and “purpose”; pressure to fit-in across identity domains.
@@ -105,7 +105,7 @@ Interview 37 sharply clarifies a mechanism that Memo 1 only implied: **withdrawa
 - **Adds**: emotional isolation via inability to talk + forced “mask”; social media as a façade economy; explicit cultural/racial expectation of “resilience” + appearance norms (hair) as self-presentation pressure; therapy access as time/money constrained.
 - **Challenges**: connects identity/appearance norms to loneliness via **self-silencing and exhaustion**, and reinforces structural constraints on help-seeking.
 
-## 2026-01-20T12:15:00Z — Memo 3 (v2): Loneliness as conditional belonging + safety technologies + structural/identity constraints
+## 2026-01-20T??:?? — Memo 3 (v2): Loneliness as conditional belonging + safety technologies + structural/identity constraints
 
 ### Updated working claim (provisional; after Batches 1–2)
 The earlier “threat appraisal → withdrawal → narrowed access” loop remains important, but it sits inside a broader account where loneliness is produced through multiple interacting pathways:
@@ -134,7 +134,7 @@ See `analysis/excerpts_log.md` Batch 1–2 entries, especially:
 - Interview_24_part1and2 (stigma/second chances + phone-as-infrastructure)
 - Interview_29_part1and2 (work/time scarcity + grief + faith framing)
 
-## 2026-01-20T13:25:00Z — Phase 2 / Batch 3 micro-memos (per interview; disconfirmation-oriented)
+## 2026-01-20T??:?? — Phase 2 / Batch 3 micro-memos (per interview; disconfirmation-oriented)
 
 ### Interview_10_part1and2.md (Hackney, F24)
 - **Adds**: a counterpoint to “withdrawal is bad”: *strategic non-investment* in weak ties is framed as protective; social media harm is moderated by use (work platform vs social comparison); strong structural account of mental health service gatekeeping and cost/travel impacts on family ties.
@@ -160,7 +160,7 @@ See `analysis/excerpts_log.md` Batch 1–2 entries, especially:
 - **Adds**: loneliness as ambivalent: distressing when “wrong people” surround you, but beneficial for thinking/planning and avoiding trouble; counselling as “advice exchange.”
 - **Challenges**: requires a theory that allows loneliness to be both **harmful** and **instrumental** depending on context (risk, peer influence, goals).
 
-## 2026-01-20T14:25:00Z — Phase 2 / Batch 4 micro-memos (per interview; stability check)
+## 2026-01-20T??:?? — Phase 2 / Batch 4 micro-memos (per interview; stability check)
 
 ### Interview_47_part1and2.md (Barking & Dagenham, M24)
 - **Adds**: “micro-acknowledgement” as a cycle break (a stranger saying hi can change the day); urban “everyone minding their business” as loneliness-making; judgment/appearance worries feed post-public sadness.

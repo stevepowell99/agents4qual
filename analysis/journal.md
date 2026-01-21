@@ -1,6 +1,6 @@
 # Research journal (append-only)
 
-## 2026-01-20T00:00:00Z — Project initialization
+## 2026-01-20T??:?? — Project initialization
 
 ### Purpose
 - Keep a historical, append-only record of decisions, prompts/queries, hypotheses, and methodological reflections.
@@ -14,7 +14,7 @@
 - Interviews are provided as individual `.docx` files in `/sources/`.
 - Each interview will be treated as an independent source (not concatenated into one corpus file).
 
-## 2026-01-20T00:10:00Z — DOCX→Markdown conversion + corpus inventory
+## 2026-01-20T??:?? — DOCX→Markdown conversion + corpus inventory
 
 ### What I did
 - Converted every interview `.docx` in `/sources/` into **one Markdown file per DOCX** in `/sources_md/`.
@@ -32,7 +32,7 @@
   - Tower Hamlets: 12
   - Barking & Dagenham (incl. B&D/B & D): 12
 
-## 2026-01-20T00:45:00Z — Metadata parsing correction (derived corpus)
+## 2026-01-20T??:?? — Metadata parsing correction (derived corpus)
 
 ### What changed
 - The initial DOCX→MD run extracted `age` incorrectly for many files because it sometimes picked up the interview number (e.g., Interview 33 → age 33).
@@ -41,7 +41,7 @@
 ### Why it matters
 - Accurate metadata helps purposeful sampling and borough/age/gender comparisons without manually re-annotating each transcript.
 
-## 2026-01-20T00:55:00Z — Start of first analytic cycle (initial familiarization)
+## 2026-01-20T??:?? — Start of first analytic cycle (initial familiarization)
 
 ### Purposeful initial sample (v0)
 Goal: begin initial coding and hypothesis generation with a small, diverse set of sources before scaling.
@@ -51,7 +51,7 @@ Initial sources read closely:
 - `/sources_md/Interview_12_part1and2.md` (Female, 22, Hackney)
 - `/sources_md/Interview_33_part1and2.md` (Male, 23, Tower Hamlets)
 
-## 2026-01-20T01:25:00Z — DOCX extraction correction (tables)
+## 2026-01-20T??:?? — DOCX extraction correction (tables)
 
 ### What changed
 - Some DOCX files store transcript text inside tables. The converter now extracts paragraphs from both the document body and tables, then regenerates `/sources_md/` (derived outputs only).
@@ -59,14 +59,14 @@ Initial sources read closely:
 ### Why it matters
 - Prevents “empty transcripts” and reduces selection bias caused by extraction failures.
 
-## 2026-01-20T01:30:00Z — Sample extended (v1)
+## 2026-01-20T??:?? — Sample extended (v1)
 
 Additional sources read closely to test/extend initial codes beyond the first three:
 - `/sources_md/Interview_37_part1and2.md` (Female, 19, Barking & Dagenham)
 - `/sources_md/Interview_41_part1and2.md` (Male, 18, Barking & Dagenham)
 - `/sources_md/Interview_14_part2.md` (Female, 18, Hackney; neighbourhood/places only)
 
-## 2026-01-20T10:40:00Z — Phase 2 begins: iterative reflexive TA (Batch 1 completed)
+## 2026-01-20T??:?? — Phase 2 begins: iterative reflexive TA (Batch 1 completed)
 
 ### Why Phase 2
 Phase 1 generated an initial theory and codes, but did not iterate through successive interviews in a way that could systematically *disconfirm* the initial theory or develop it through repeated reading and re-reading.
@@ -88,7 +88,7 @@ Read and excerpt-tagged in `analysis/excerpts_log.md`:
 ### Decision rule (to reduce confirmation bias going forward)
 - New codes are allowed only when they represent a distinct mechanism that appears in more than one interview or is theoretically crucial as a negative/rival case; otherwise we memo it as variation under an existing code.
 
-## 2026-01-20T12:05:00Z — Phase 2 continues: Batch 2 completed (testing rival mechanisms)
+## 2026-01-20T??:?? — Phase 2 continues: Batch 2 completed (testing rival mechanisms)
 
 ### Batch 2 (diverse; selected to stress-test candidate themes)
 Read and excerpt-tagged in `analysis/excerpts_log.md`:
@@ -106,7 +106,7 @@ Read and excerpt-tagged in `analysis/excerpts_log.md`:
 ### Next step (Batch 3 design: disconfirmation-oriented)
 - Purpose: pick interviews likely to **break** each candidate theme (A–E), and re-read at least 2 earlier “anchor” interviews if we split/merge themes again.
 
-## 2026-01-20T13:35:00Z — Phase 2 continues: Batch 3 completed (first disconfirmation pass)
+## 2026-01-20T??:?? — Phase 2 continues: Batch 3 completed (first disconfirmation pass)
 
 ### Batch 3 (deliberately chosen to disconfirm candidate themes)
 Read and excerpt-tagged in `analysis/excerpts_log.md`:
@@ -121,7 +121,7 @@ Read and excerpt-tagged in `analysis/excerpts_log.md`:
 - No new core mechanisms were required; Batch 3 primarily **refined scope conditions** and clarified tensions (chosen solitude vs unwanted exclusion; strategic boundary-setting vs avoidance; existential “void” framing).
 - Memo 3 (v2) remains viable, but needs an explicit distinction between **instrumental solitude** and **unwanted loneliness**.
 
-## 2026-01-20T14:40:00Z — Phase 2 continues: Batch 4 completed (stability + saturation check)
+## 2026-01-20T??:?? — Phase 2 continues: Batch 4 completed (stability + saturation check)
 
 ### Batch 4 (stability check; chosen to avoid “new mechanism chasing”)
 Read and excerpt-tagged in `analysis/excerpts_log.md`:

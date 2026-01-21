@@ -1,10 +1,10 @@
 # Core papers — one-page summaries (append-only)
 
-## 2026-01-20T00:00:00Z — Initialized
+## 2026-01-20T??:?? — Initialized
 
 Purpose: store one-page summaries of each PDF in `/core_papers/`, plus methodological “rules” adopted/rejected.
 
-## 2026-01-20T00:30:00Z — Morgan (2025) — Query-Based Analysis (QBA)
+## 2026-01-20T??:?? — Morgan (2025) — Query-Based Analysis (QBA)
 
 ### What the paper is doing
 Morgan proposes **Query-Based Analysis (QBA)** as an alternative to “code-then-theme” workflows in qualitative analysis when using LLMs like ChatGPT. Instead of fragmenting data into many small codes and re-assembling themes, QBA starts with **broad queries** to generate initial summaries/topics and then iteratively **narrows** via follow-up queries, ending by checking **supporting data** (e.g., returning to source excerpts) to verify and refine interpretations.
@@ -22,7 +22,7 @@ QBA gives a defensible *process* for AI-led analysis: you can show the research 
 - **Adopt**: treat “supporting data” as mandatory: every substantive claim should point to specific interview files (and, where needed, short quotes).
 - **Reject (for our dataset)**: combining all interviews into one mega-document (Morgan’s example does this for thematic commonality); we will keep interviews as independent sources and only aggregate at the level of comparisons/syntheses.
 
-## 2026-01-20T00:30:00Z — Braun & Clarke (2023) — Toward good practice in thematic analysis
+## 2026-01-20T??:?? — Braun & Clarke (2023) — Toward good practice in thematic analysis
 
 ### What the paper is doing
 Braun & Clarke respond to widespread “thematic analysis” usage by clarifying what counts as **methodologically coherent** TA and what common problems undermine it. A key message is to become a **“knowing researcher”**: own your perspective (personal + theoretical), make deliberative choices, and be reflexive—rather than treating TA as a recipe.
@@ -36,7 +36,7 @@ This paper gives a sharp criterion to avoid “AI theme-dumps”: our outputs mu
 ### Rules for this repo (adopt / reject)
 - **Adopt**: treat “themes” as **interpretive claims** (meaning-unifying stories), not topic headings.\n+- **Adopt**: explicitly document **paradigmatic commitments** (Big Q-ish, reflexive orientation) in `analysis/methodology_stance.md` and avoid importing small-q “reliability” rituals that don’t fit.\n+- **Reject**: “methodolatry/proceduralism” (doing steps because a checklist says so). Our audit trail must show *reasons*, not just *steps*.
 
-## 2026-01-20T00:30:00Z — Friese (2025) — Conversational Analysis with AI (CAAI / “CA to the Power of AI”)
+## 2026-01-20T??:?? — Friese (2025) — Conversational Analysis with AI (CAAI / “CA to the Power of AI”)
 
 ### What the paper is doing
 Friese argues that generative AI pressures us to reconsider the **centrality of coding**. She proposes **Conversational Analysis to the Power of AI (CAAI)**: a dialogic framework where analysis is conducted through structured interaction with an LLM (iterative questioning, synthesis, contrast), explicitly positioning this as more than shallow “classification proxies.”
@@ -49,7 +49,7 @@ CAAI offers a rigorous story for “AI-led qualitative analysis” that is still
 ### Rules for this repo (adopt / reject)
 - **Adopt**: treat the analysis as **topic-by-topic dialogic inquiry** with an explicit question set (logged) rather than “code everything first.”\n+- **Adopt**: start with smaller subsets when depth is needed; expand only after the question set stabilizes.\n+- **Reject**: paragraph-level chunking/classification as a substitute for interpretive analysis.
 
-## 2026-01-20T00:30:00Z — Friese et al. (2025) — Open Letter: Beyond binary positions (GenAI in qualitative research)
+## 2026-01-20T??:?? — Friese et al. (2025) — Open Letter: Beyond binary positions (GenAI in qualitative research)
 
 ### What the paper is doing
 This open letter responds to calls for categorical exclusion of GenAI from reflexive qualitative research. The authors argue against binary framings (pro/anti AI) and propose a stance of **critical, reflexive, ethically responsible** GenAI integration—typically with **human interpretive agency** retained.

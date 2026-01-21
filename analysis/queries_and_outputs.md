@@ -1,10 +1,10 @@
 # Queries and outputs (append-only)
 
-## 2026-01-20T00:00:00Z — Initialized
+## 2026-01-20T??:?? — Initialized
 
 Purpose: record each analytic query posed to the corpus, the answer, supporting sources, tensions/negative cases, and what changed as a result.
 
-## 2026-01-20T01:15:00Z — Q1 (broad): What are initial “causal stories” of loneliness in the first sample?
+## 2026-01-20T??:?? — Q1 (broad): What are initial “causal stories” of loneliness in the first sample?
 
 ### Query
 From the initial sample of three interviews (Newham/Hackney/Tower Hamlets), what “causal stories” do participants give for loneliness (mechanisms, not just topics)?
@@ -29,7 +29,7 @@ Across these three sources, loneliness is described less as mere physical alonen
 ### What changed as a result
 - Created initial code set (v0) in `analysis/codebook.md` around misunderstanding, exclusion, support absence, breakup/void, social-media comparison, and blocked disclosure.
 
-## 2026-01-20T01:50:00Z — Q2 (broad): Where do the initial codes show up across the corpus (rough coverage scan)?
+## 2026-01-20T??:?? — Q2 (broad): Where do the initial codes show up across the corpus (rough coverage scan)?
 
 ### Query
 Using lightweight keyword scans as a first-pass *coverage proxy*, which interview files show evidence consistent with the current codebook?
@@ -56,7 +56,7 @@ Note: this is not “coding by keyword”; it’s a quick way to locate candidat
 - Confirms that several candidate codes are **not rare** (e.g., social media comparison), so we need to be careful not to make “frequency = importance” claims.
 - Flags which sources to return to for deeper, excerpt-grounded analysis when drafting results and negative cases.
 
-## 2026-01-20T10:35:00Z — Q3 (iterative): What mechanisms *compete* with the threat→withdrawal loop?
+## 2026-01-20T??:?? — Q3 (iterative): What mechanisms *compete* with the threat→withdrawal loop?
 
 ### Query
 As we read successive interviews, what rival or additional mechanisms explain loneliness that are not reducible to “social threat appraisal → withdrawal”?
@@ -76,7 +76,7 @@ See `analysis/excerpts_log.md` entries for the six batch interviews, especially 
 ### What changed as a result
 - The theory needs at least a **multi-mechanism model** with explicit scope conditions (when the threat loop dominates vs when structural/time or grief dominates).
 
-## 2026-01-20T11:55:00Z — Q4 (theme building): What are the candidate *themes* that unify these mechanisms without becoming a topic list?
+## 2026-01-20T??:?? — Q4 (theme building): What are the candidate *themes* that unify these mechanisms without becoming a topic list?
 
 ### Query
 Given the expanded mechanisms from Batch 1–2, what higher-level themes (interpretive stories) could unify them while preserving tensions and negative cases?
