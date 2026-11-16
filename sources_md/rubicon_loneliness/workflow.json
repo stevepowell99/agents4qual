@@ -1,0 +1,224 @@
+{
+ "question_as_agreed": "In a random sample of 12 interviews (3 per borough, seeded draw), how far do young people's first-hand accounts of loneliness support or contradict four theories: discrepancy (quality not quantity of ties), Weiss's emotional versus social loneliness, Cacioppo's self-reinforcing withdrawal loop, and social media as displacing versus compensating for face-to-face contact?",
+ "steps": [
+  {
+   "id": "sample12",
+   "kind": "sample",
+   "inputs": [
+    "documents"
+   ],
+   "n": 12,
+   "stratify_by": "borough"
+  },
+  {
+   "id": "t1_discrepancy",
+   "kind": "code",
+   "inputs": [
+    "sample12"
+   ],
+   "per_document": true,
+   "prompt": "You are reading one interview with a young person (18 to 24) in East London about loneliness. Part 1 asks what they associate with loneliness; part 2 asks about places where they feel most connected and most lonely. Decide how the interview bears on one theory. Discrepancy theory (Perlman and Peplau): loneliness is a gap between the relationships a person wants and the ones they have, especially in their quality (being understood, depth, closeness), not simply their number. Count only the respondent's own experience of loneliness or connection (first-hand: what happened to them, what they felt, what they did). A general view about young people or 'people' with no tie to the respondent's own life does not count and goes to no_evidence. Read the whole interview, both parts, before deciding. Quote the single passage that best carries the value, copied exactly; for no_evidence quote the passage that comes closest to the theory, or the respondent's first answer if nothing comes close.",
+   "columns": [
+    {
+     "name": "discrepancy",
+     "type": "nominal",
+     "means": "How the respondent's first-hand account bears on this theory: Discrepancy theory (Perlman and Peplau): loneliness is a gap between the relationships a person wants and the ones they have, especially in their quality (being understood, depth, closeness), not simply their number.",
+     "values": [
+      {
+       "name": "supports",
+       "means": "The respondent describes feeling lonely while people were around them, or because their ties lacked understanding, depth or closeness, or because relationships fell short of what they wanted or expected.",
+       "counts": "Lonely among family, friends or a crowd; misunderstood; friendships felt shallow or one-sided; nobody to really talk to although people were there.",
+       "does_not_count": "Lonely only because nobody was there at all, with no mention of quality or of a gap from what they wanted: that is contradicts."
+      },
+      {
+       "name": "contradicts",
+       "means": "The respondent puts their own loneliness down simply to having too few people or being physically alone, and describes being around people (any people) as enough to end it.",
+       "counts": "Lonely when home alone and fine as soon as anyone is around; loneliness gone once there were more people, with quality never raised.",
+       "does_not_count": "Physical aloneness that they also say felt lonely because ties were not close: that is supports or both."
+      },
+      {
+       "name": "both",
+       "means": "The interview holds a first-hand passage of each kind: one loneliness described as a gap in quality, another as plain absence of people that any company ended."
+      },
+      {
+       "name": "no_evidence",
+       "means": "No first-hand passage bears on whether quality or quantity of ties drives the respondent's loneliness."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tab_discrepancy",
+   "kind": "tabulate",
+   "inputs": [
+    "t1_discrepancy"
+   ],
+   "by": [
+    "discrepancy"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "t2_weiss",
+   "kind": "code",
+   "inputs": [
+    "sample12"
+   ],
+   "per_document": true,
+   "prompt": "You are reading one interview with a young person (18 to 24) in East London about loneliness. Part 1 asks what they associate with loneliness; part 2 asks about places where they feel most connected and most lonely. Decide how the interview bears on one theory. Weiss's two kinds of loneliness: emotional loneliness (lacking one close attachment figure, such as a partner, a confidant or a parent one is close to) and social loneliness (lacking a wider network or group of friends, peers or community) are distinct, and one kind of tie cannot make up for the lack of the other. Count only the respondent's own experience of loneliness or connection (first-hand: what happened to them, what they felt, what they did). A general view about young people or 'people' with no tie to the respondent's own life does not count and goes to no_evidence. Read the whole interview, both parts, before deciding. Quote the single passage that best carries the value, copied exactly; for no_evidence quote the passage that comes closest to the theory, or the respondent's first answer if nothing comes close.",
+   "columns": [
+    {
+     "name": "weiss",
+     "type": "nominal",
+     "means": "How the respondent's first-hand account bears on this theory: Weiss's two kinds of loneliness: emotional loneliness (lacking one close attachment figure, such as a partner, a confidant or a parent one is close to) and social loneliness (lacking a wider network or group of friends, peers or community) are distinct, and one kind of tie cannot make up for the lack of the other.",
+     "values": [
+      {
+       "name": "supports",
+       "means": "The respondent has one kind of tie yet feels lonely for want of the other kind: for example, many friends but no one close to confide in or no partner; or a close family member or partner but no friendship group or community.",
+       "counts": "Surrounded by friends but no one to tell the real things; close to mum but no friends at college; partner but no social circle.",
+       "does_not_count": "Lonely with no ties of either kind: that is no_evidence for this theory."
+      },
+      {
+       "name": "contradicts",
+       "means": "The respondent describes one kind of tie as fully making up for the lack of the other, so that they did not feel lonely.",
+       "counts": "No close friends but family fills that gap completely; one best friend and needs nobody else, not lonely.",
+       "does_not_count": "One tie that helps a little while loneliness remains: that is supports."
+      },
+      {
+       "name": "both",
+       "means": "The interview holds a first-hand passage of each kind."
+      },
+      {
+       "name": "no_evidence",
+       "means": "No first-hand passage sets one kind of tie against the other."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tab_weiss",
+   "kind": "tabulate",
+   "inputs": [
+    "t2_weiss"
+   ],
+   "by": [
+    "weiss"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "t3_loop",
+   "kind": "code",
+   "inputs": [
+    "sample12"
+   ],
+   "per_document": true,
+   "prompt": "You are reading one interview with a young person (18 to 24) in East London about loneliness. Part 1 asks what they associate with loneliness; part 2 asks about places where they feel most connected and most lonely. Decide how the interview bears on one theory. Cacioppo's self-reinforcing loop: loneliness makes people wary of others, so they withdraw, distrust or avoid contact, and that deepens the loneliness. Count only the respondent's own experience of loneliness or connection (first-hand: what happened to them, what they felt, what they did). A general view about young people or 'people' with no tie to the respondent's own life does not count and goes to no_evidence. Read the whole interview, both parts, before deciding. Quote the single passage that best carries the value, copied exactly; for no_evidence quote the passage that comes closest to the theory, or the respondent's first answer if nothing comes close.",
+   "columns": [
+    {
+     "name": "loop",
+     "type": "nominal",
+     "means": "How the respondent's first-hand account bears on this theory: Cacioppo's self-reinforcing loop: loneliness makes people wary of others, so they withdraw, distrust or avoid contact, and that deepens the loneliness.",
+     "values": [
+      {
+       "name": "supports",
+       "means": "The respondent describes loneliness leading them to withdraw, isolate, distrust others or avoid contact, and that withdrawal keeping or making them lonelier.",
+       "counts": "Felt alone so stayed in their room and stopped replying, which made it worse; after being let down stopped trusting people and ended up more alone.",
+       "does_not_count": "Withdrawal for other reasons (busy, studying) with no tie to loneliness: no_evidence."
+      },
+      {
+       "name": "contradicts",
+       "means": "The respondent describes loneliness prompting them to reach out, join something or seek company, and that easing it.",
+       "counts": "Felt lonely so joined a club, messaged a friend or went to the mosque, and felt better.",
+       "does_not_count": "Reaching out that failed and was followed by withdrawal: that is supports."
+      },
+      {
+       "name": "both",
+       "means": "The interview holds a first-hand passage of each kind, such as withdrawing at one time and reaching out at another."
+      },
+      {
+       "name": "no_evidence",
+       "means": "No first-hand passage on what the respondent did in response to feeling lonely."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tab_loop",
+   "kind": "tabulate",
+   "inputs": [
+    "t3_loop"
+   ],
+   "by": [
+    "loop"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "t4_social_media",
+   "kind": "code",
+   "inputs": [
+    "sample12"
+   ],
+   "per_document": true,
+   "prompt": "You are reading one interview with a young person (18 to 24) in East London about loneliness. Part 1 asks what they associate with loneliness; part 2 asks about places where they feel most connected and most lonely. Decide how the interview bears on one theory. Social media and loneliness: the displacement hypothesis (online contact replaces or worsens face-to-face ties and so deepens loneliness, including through comparison) against the compensation hypothesis (online contact eases loneliness by keeping or making connections). Count only the respondent's own experience of loneliness or connection (first-hand: what happened to them, what they felt, what they did). A general view about young people or 'people' with no tie to the respondent's own life does not count and goes to no_evidence. Read the whole interview, both parts, before deciding. Quote the single passage that best carries the value, copied exactly; for no_evidence quote the passage that comes closest to the theory, or the respondent's first answer if nothing comes close.",
+   "columns": [
+    {
+     "name": "social_media",
+     "type": "nominal",
+     "means": "How the respondent's first-hand account bears on this theory: Social media and loneliness: the displacement hypothesis (online contact replaces or worsens face-to-face ties and so deepens loneliness, including through comparison) against the compensation hypothesis (online contact eases loneliness by keeping or making connections).",
+     "values": [
+      {
+       "name": "displaces",
+       "means": "The respondent describes social media or phones making them lonelier: replacing face-to-face contact, comparison with others' lives, feeling left out, or contact that felt empty.",
+       "counts": "Scrolling and seeing everyone out without me; we just text and never meet; on my phone all day and feel more alone.",
+       "does_not_count": "A general complaint about 'people nowadays' on phones with no tie to their own loneliness: no_evidence."
+      },
+      {
+       "name": "compensates",
+       "means": "The respondent describes social media, messaging or online groups easing their loneliness or keeping them connected.",
+       "counts": "Messaging friends when alone helps; an online group of people who went through the same thing; video calls with family abroad."
+      },
+      {
+       "name": "both",
+       "means": "The interview holds a first-hand passage of each kind."
+      },
+      {
+       "name": "no_evidence",
+       "means": "Social media or online contact is not tied to the respondent's own loneliness or connection."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tab_social_media",
+   "kind": "tabulate",
+   "inputs": [
+    "t4_social_media"
+   ],
+   "by": [
+    "social_media"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "answer",
+   "kind": "write",
+   "inputs": [
+    "t1_discrepancy",
+    "tab_discrepancy",
+    "t2_weiss",
+    "tab_weiss",
+    "t3_loop",
+    "tab_loop",
+    "t4_social_media",
+    "tab_social_media"
+   ],
+   "instructions": "For each of the four theories in turn, say how many of the sampled interviews support it, contradict it, show both or give no evidence, with quotations, then say which theories the accounts bear out best and what the sample cannot show."
+  }
+ ]
+}

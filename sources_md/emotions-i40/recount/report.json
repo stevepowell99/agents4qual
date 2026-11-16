@@ -1,0 +1,23 @@
+{
+ "workflow_faults": [],
+ "code_steps_without_coded_rows": [],
+ "steps_not_recounted": [
+  "answer (write)"
+ ],
+ "coding": {
+  "emotions": {
+   "rows": 12,
+   "quotations_not_found": [],
+   "values_off_the_list": 0,
+   "values_missing": 0
+  }
+ },
+ "answer": {
+  "counts_written_by_id": 10,
+  "ids_naming_no_count": [],
+  "numbers_written_bare": [],
+  "citations_to_no_row": [],
+  "quotations_found_in_no_document": [],
+  "quotations_not_in_what_they_cite": []
+ }
+}

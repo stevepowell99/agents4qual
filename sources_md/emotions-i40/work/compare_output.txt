@@ -1,0 +1,48 @@
+{
+ "coding": {
+  "emotions.valence": {
+   "document_value_pairs": 3,
+   "agree": 3,
+   "held_by_first": 3,
+   "held_by_second": 3,
+   "held_by_both": 3,
+   "kappa": null,
+   "first_only": [],
+   "second_only": [],
+   "firm_for_one_weak_for_other": []
+  },
+  "emotions.link": {
+   "document_value_pairs": 3,
+   "agree": 3,
+   "held_by_first": 3,
+   "held_by_second": 3,
+   "held_by_both": 3,
+   "kappa": null,
+   "first_only": [],
+   "second_only": [],
+   "firm_for_one_weak_for_other": []
+  }
+ },
+ "tables": {
+  "by_valence": {
+   "cells": 3,
+   "differ": 1,
+   "first_vs_second": {
+    "by_valence.c1": [
+     6,
+     5
+    ]
+   }
+  },
+  "by_link": {
+   "cells": 3,
+   "differ": 1,
+   "first_vs_second": {
+    "by_link.c1": [
+     5,
+     4
+    ]
+   }
+  }
+ }
+}

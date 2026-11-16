@@ -1,0 +1,3 @@
+- emotions, I40: Box 3 (scared) and the later "anxious" answers speak mostly in a generalised "you" or "if I went" about being alone somewhere unfamiliar; I judged them not tied to his own experience in the passage and did not code them, except the holiday cab episode.
+- emotions, I40: Tube passages: "uncomfortable" (later answers) I treated as a repeat of "awkward" in the crowding passage; "stressful ... relieved" I coded as one mixed passage, a different feeling from awkwardness about the same thing. Unclear whether these should be one row.
+- emotions, I40: "something you just want to get through" (tube) is resignation only by implication, so marked weak; link coded neither because the passage itself does not mention being alone.

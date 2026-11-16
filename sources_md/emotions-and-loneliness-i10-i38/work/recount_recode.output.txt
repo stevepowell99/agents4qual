@@ -1,0 +1,17 @@
+{
+ "workflow_faults": [],
+ "code_steps_without_coded_rows": [],
+ "steps_not_recounted": [
+  "answer (write)"
+ ],
+ "coding": {
+  "emotions": {
+   "rows": 57,
+   "quotations_not_found": [],
+   "values_off_the_list": 0,
+   "values_missing": 0
+  }
+ }
+}
+
+written: /home/claude/sources_md/emotions-and-loneliness-i10-i38/recode/recount/tables.md, /home/claude/sources_md/emotions-and-loneliness-i10-i38/recode/recount/rows.md, /home/claude/sources_md/emotions-and-loneliness-i10-i38/recode/recount/counts.json

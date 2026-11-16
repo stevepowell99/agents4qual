@@ -1,0 +1,458 @@
+[
+ {
+  "document": "I10",
+  "quote": "they don’t hold any longevity and I think that can allow you to feel lonely. Yes, so that’s something I’ve experienced a lot here.",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "temporary friendships in the city that do not last",
+  "link": "loneliness"
+ },
+ {
+  "document": "I10",
+  "quote": "it’s very exciting meeting new people, especially we do lots of partying so, you know, just spend amazing times with new people",
+  "valence": "positive",
+  "emotion": "excitement, enjoyment",
+  "subject": "meeting and partying with new people",
+  "link": "connection"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m more content with it now than I have been, but I think that’s because I now have been here a long time like I have a really really really stable group of friends that, you know, I love them and trust them with everything",
+  "valence": "positive",
+  "emotion": "contentment, love, trust",
+  "subject": "now having a stable group of close friends",
+  "link": "connection"
+ },
+ {
+  "document": "I10",
+  "quote": "that’s like a massive shame when it makes you…you know, kind of hurts that some people aren’t still in your life",
+  "valence": "negative",
+  "emotion": "hurt, regret",
+  "subject": "friendships that have not lasted",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "now I know where to focus my energy, it makes me feel stronger being able to kind of reject that",
+  "valence": "positive",
+  "emotion": "feeling stronger",
+  "subject": "choosing not to invest in new acquaintances",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "it becomes stressful in an already stressful life style",
+  "valence": "negative",
+  "emotion": "stress",
+  "subject": "focusing on too many people she does not know well",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "That makes me feel sad.",
+  "valence": "negative",
+  "emotion": "sadness",
+  "subject": "people being selfish and disregarding others",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "It makes me angry, it doesn’t make me sad, it just make me angry.",
+  "valence": "negative",
+  "emotion": "anger",
+  "subject": "influencers' sense of entitlement over follower numbers",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I feel more sorry for the people that are promoting themselves that way",
+  "valence": "negative",
+  "emotion": "pity",
+  "subject": "people who promote themselves on social media",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I feel like really grateful that I’m not that heavily affected by",
+  "valence": "positive",
+  "emotion": "gratitude",
+  "subject": "not being affected by social media body-image pressure",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "That breaks my heart because I would never look at another woman and compare them to myself.",
+  "valence": "negative",
+  "emotion": "heartbreak",
+  "subject": "best friend deleting social accounts over body image",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "definitely in the summer, it was very difficult for me. You know, I love working for myself, and a lot of people do it now, it’s like very very very common for freelancers, especially in creative fields. And it has like lots of benefits, you know, I can wake up when I want, I can do what I want, I can set my own schedules, but I think what we kind of miss, well, what I certainly miss is interacting with other people that have a similar skill set as me.",
+  "valence": "mixed",
+  "emotion": "difficulty, love, missing others",
+  "subject": "freelancing alone: loves the independence, misses peers",
+  "link": "loneliness"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m also much less anxious than I was when I work within a team.",
+  "valence": "positive",
+  "emotion": "relief",
+  "subject": "working alone rather than in a team",
+  "link": "loneliness"
+ },
+ {
+  "document": "I10",
+  "quote": "sometimes I get approached and that’s really nice",
+  "valence": "positive",
+  "emotion": "pleasure",
+  "subject": "being approached by other creatives to collaborate",
+  "link": "connection"
+ },
+ {
+  "document": "I10",
+  "quote": "makes you feel like \"I’m fucked! I’m never gonna get out of this”",
+  "valence": "negative",
+  "emotion": "hopelessness",
+  "subject": "being repeatedly turned away by NHS therapy services while in an abusive relationship",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I felt completely completely unsafe",
+  "valence": "negative",
+  "emotion": "feeling unsafe",
+  "subject": "being in an abusive relationship without help",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "Say I felt really lonely then, at that point of moment I’ve, you know, under somebody could have made me not feel alone but they didn’t.",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "being in an abusive relationship with no one to help",
+  "link": "loneliness"
+ },
+ {
+  "document": "I10",
+  "quote": "it just makes me so mad because I feel like, if they have given me some help at that point, that my situation might not have gone to the point that it did.",
+  "valence": "negative",
+  "emotion": "anger",
+  "subject": "NHS refusing her help earlier",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m pretty content with it now, you know, spend a long time like partying",
+  "valence": "positive",
+  "emotion": "contentment",
+  "subject": "her current drug and alcohol use",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m pretty content with it now. I just don’t really talk about it very often",
+  "valence": "positive",
+  "emotion": "contentment",
+  "subject": "the abusive relationship and being refused help, now in the past",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I feel so guilty for not speaking to these people for such a long time. And I could have tried harder. I’m sure but there’s so many other things that I have to focus on and now I’m not [1:01:36]upon… but I’m just like, I just don’t even know how to do it, like I just don’t even know how to pick up the phone, because I’m that anxious that they are, like upset with me.",
+  "valence": "negative",
+  "emotion": "guilt, anxiety",
+  "subject": "lost contact with her father's side of the family",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "my mom’s been through lots of things since I’ve been here and I feel guilty for that as well",
+  "valence": "negative",
+  "emotion": "guilt",
+  "subject": "not supporting her mother since leaving home",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "it makes me like, feel sad for myself. I feel like I missed out.",
+  "valence": "negative",
+  "emotion": "sadness",
+  "subject": "family relationships lost since moving to the city",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m really close to my mom, I’m really close to my brothers that in Nottingham",
+  "valence": "positive",
+  "emotion": "closeness",
+  "subject": "her mother and brothers",
+  "link": "connection"
+ },
+ {
+  "document": "I10",
+  "quote": "I’m really glad that I put that time into it",
+  "valence": "positive",
+  "emotion": "gladness",
+  "subject": "investing in her career despite being broke and unable to visit home",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "which is really amazing for us in Hackney, I love things like that",
+  "valence": "positive",
+  "emotion": "love, admiration",
+  "subject": "green local bar with timetabled quiet working hours",
+  "link": "neither"
+ },
+ {
+  "document": "I10",
+  "quote": "I started to feel really lonely, working alone in the studio",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "working alone in a studio for six months",
+  "link": "loneliness"
+ },
+ {
+  "document": "I10",
+  "quote": "Fine, it's not like, it's not awful and I really, like I love to be able to just get up when I want and just do whatever I want",
+  "valence": "positive",
+  "emotion": "acceptance, enjoyment",
+  "subject": "freedom of working alone",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "so everyone is around me, but I’m just doing my own thing, because I don’t know what they’re talking about and that sometimes makes me feel lonely",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "not sharing friends' and family's interest in football",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I just feel lonely because I see all these people going out doing things and then there’s me stuck at home in my bedroom",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "seeing others out on social media while she is stuck at home with no one to go out with",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I do enjoy my own company, but it gets a bit boring on your own enjoying your own company",
+  "valence": "mixed",
+  "emotion": "enjoyment, boredom",
+  "subject": "spending time on her own, e.g. walks",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I think to myself it’s not fair, how do people actually have no responsibilities",
+  "valence": "negative",
+  "emotion": "resentment",
+  "subject": "others' luxury lifestyles on social media",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "There’s me with just my two hundred followers and then you’ve got someone who’s got over fifty thousand followers, it does make you feel as though, oh you know, how do these people get so many followers and how do they become that, how do they live that lifestyle, how do they just become an instagram fashion model etc, starting off with nothing and having so many big things, so it just makes you feel as though what are you doing wrong in order for you to become like that. So, I just sometimes feel like maybe it does separate people sometimes. It makes people more…it’s not envious or jealousy, but it just separates people a lot more, because how do people portray, for example ‘Oh I’ve got fifty million followers, what do you have’. It’s like saying you’ve got nothing compared to me, so you’re not my friend type of thing. So, something like that. That’s what I mean, you have some people around you, but you still feel lonely.",
+  "valence": "negative",
+  "emotion": "inadequacy, loneliness",
+  "subject": "comparing her follower count with influencers; feels separated from people",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I feel as though, when I was a lot younger, it did affect me quite a bit. Obviously, I was young, I wasn’t working. I relied on pocket money to get certain things and I see all these massive influencing bloggers with so much money and so many things and what not, I feel as though as I’ve gotten older and I’m working and I’m earning, my responsibilities are a lot more. I realised these are not the things I actually need in life. I’m content and I feel happier knowing the fact that I do have my stuff",
+  "valence": "mixed",
+  "emotion": "affected (past), contentment, happiness",
+  "subject": "influencers' wealth and possessions, now that she has her own money",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I really struggled. I felt I did feel lonely, because everyone who was already at work, they’re at completely different levels to me, I felt as though they knew their role, they knew their job",
+  "valence": "negative",
+  "emotion": "loneliness, struggle",
+  "subject": "starting her first graduate job and struggling to fit in",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I missed the freedom of just going out whenever I wanted to and having the ability to not be on a strict deadline",
+  "valence": "negative",
+  "emotion": "longing",
+  "subject": "freedom lost in moving from university to full-time work",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I felt as if why couldn’t I fit in like that, why do I feel like an outsider, what’s different between me and them",
+  "valence": "negative",
+  "emotion": "feeling an outsider",
+  "subject": "friends who seemed to fit in at work, seen on social media",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "it’s just that constant fear and just trying to please people",
+  "valence": "negative",
+  "emotion": "fear",
+  "subject": "pressure to please colleagues and managers at a new job",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I did feel a bit distressed and a bit of anxiety, I felt as though a lot of people, I thought is this just me or does everybody go through this.",
+  "valence": "negative",
+  "emotion": "distress, anxiety",
+  "subject": "the transition into her first job",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I don’t mind if I don’t if I don’t sit with anyone on my lunch break anymore, I don’t mind if I don’t have anyone to talk to",
+  "valence": "positive",
+  "emotion": "acceptance",
+  "subject": "eating lunch alone at work, now",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "At first, I did feel a bit frustrated, not necessarily frustrated, I feel as though… I was like, I don’t want to phrase it ‘It is what it is’ but it was what it is and I had to accept it and I hated the fact that I accepted it. It was more like, I just felt more like, ugh I’m just so fed up with this nonsense",
+  "valence": "negative",
+  "emotion": "frustration, resignation",
+  "subject": "the rigid timetable and loss of flexibility at work",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I did feel a sense of loneliness in terms of, I felt not dumb…I felt as though I wasn’t capable, I was incompetent, I felt as though maybe I am not good enough and should have done something different, maybe my degree isn’t worthy enough",
+  "valence": "negative",
+  "emotion": "loneliness, incompetence, self-doubt",
+  "subject": "struggling to get a graduate job while friends did",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I did feel a bit upset, that my friends managed to get a job where they were earning up to 30,000 and I was still on the 20s when I started work",
+  "valence": "negative",
+  "emotion": "upset, disappointment",
+  "subject": "friends earning more than her at the start of their careers",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "it made me feel really bad and I’m glad I spoke to my friends",
+  "valence": "mixed",
+  "emotion": "feeling bad, gladness",
+  "subject": "friends' social media posts about work lunches, later learning the real picture",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I used to feel a bit, not envious, slightly envious and jealous like at the fact that how have they fitted in so well and they managed to make a whole bunch of friends when I have been here a couple of months and I don’t even have anyone to have lunch with",
+  "valence": "negative",
+  "emotion": "envy, jealousy",
+  "subject": "friends fitting in at work while she had no one to have lunch with",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I did feel a bit upset by why do they have it all and I have nothing. Like I said, it just made me feel a bit incompetent",
+  "valence": "negative",
+  "emotion": "upset, incompetence",
+  "subject": "comparing herself with friends' work lives",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "not having anyone to talk to about your personal issues. This is something that I faced quite a bit when I was currently now and sometimes when I was a lot younger. As personal issues, meaning it can be anything from you feel like something dramatic happened in your life to just about little things, I struggled, I sometimes, although when everyone was around me, I struggled to open up about me, I feel as though they would judge me",
+  "valence": "negative",
+  "emotion": "struggle, fear of judgement",
+  "subject": "having no one to open up to about personal issues",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I struggle from anxiety in the mornings I have a routine and that needs to be done",
+  "valence": "negative",
+  "emotion": "anxiety",
+  "subject": "morning routine she feels she must complete",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I felt comfortable talking to them because I felt like they understood me rather than just laughing at me",
+  "valence": "positive",
+  "emotion": "comfort",
+  "subject": "a person who understood her anxiety",
+  "link": "connection"
+ },
+ {
+  "document": "I38",
+  "quote": "it just makes me feel a bit low, like okay they’re just laughing at me and I just feel like an odd black sheep in the group",
+  "valence": "negative",
+  "emotion": "low mood, feeling a black sheep",
+  "subject": "friends laughing at her personal issues",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "it was very difficult for them to understand and I felt as though they still look at me weirdly, like socially, she’s such a weirdo, she can’t come out because she has to pray. But I feel as though, as time has gone on, they slightly have gotten used to that and they respect my religion, they just have educated themselves, and noticed that maybe this is her religion, we have to respect that. For me, socially it maybe has slightly been accepted in terms of my friends now understand and they will support me regardless",
+  "valence": "mixed",
+  "emotion": "difficulty, feeling accepted",
+  "subject": "friends' reaction to her prayer times, later their understanding and support",
+  "link": "connection"
+ },
+ {
+  "document": "I38",
+  "quote": "this is where I feel socially acceptable because I don’t get judged",
+  "valence": "positive",
+  "emotion": "feeling accepted",
+  "subject": "gym and swimming acquaintances",
+  "link": "connection"
+ },
+ {
+  "document": "I38",
+  "quote": "it keeps you a sense of happiness and a sense of belongingness",
+  "valence": "positive",
+  "emotion": "happiness, belonging",
+  "subject": "praying and fasting together at the mosque during Ramadan",
+  "link": "connection"
+ },
+ {
+  "document": "I38",
+  "quote": "I feel socially connected when I do go out with my friends or family and we do go out for a meal etc. I feel as though it’s a good and happy environment",
+  "valence": "positive",
+  "emotion": "happiness, feeling connected",
+  "subject": "going out for a meal with friends or family",
+  "link": "connection"
+ },
+ {
+  "document": "I38",
+  "quote": "I felt really lonely because obviously I had to make completely new friends when I went to university",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "starting university and making new friends as a Muslim who does not drink or club",
+  "link": "loneliness"
+ },
+ {
+  "document": "I38",
+  "quote": "I hate stuff like that, I’d rather be at home watching tv in my slippers",
+  "valence": "negative",
+  "emotion": "dislike",
+  "subject": "clubbing and drunk people",
+  "link": "neither"
+ },
+ {
+  "document": "I38",
+  "quote": "I think it slightly did affect me in terms of, oh, I should have gone with them etc but then I would see stories later and how this and that happened. Like I said, social media, you only show what you want to show them, you don’t really see what happens behind the scenes. It doesn’t interest me, so at first I just thought, not jealousy or resentment, maybe a bit of an outcast because my friends are not more slim as I am and it had a huge impact on my social life, but as time has gone on and I’ve managed, social media, I just don’t, it doesn’t really interest me and I don’t mind, it’s okay, I had a good time",
+  "valence": "mixed",
+  "emotion": "feeling affected, feeling an outcast, acceptance",
+  "subject": "friends going clubbing without her, later not minding",
+  "link": "loneliness"
+ }
+]

@@ -1,0 +1,5 @@
+- emotions, I01: "Frustrated, frustrated. ... a lack of opportunities can lead to frustration" and "it can feel quite sad. Um, bitter maybe." (box 3) are answers to "how does that make you feel" put in the generalised you; not clearly tied to the interviewee's own experience, so not coded.
+- emotions, I01: "Probably quite sad, annoyed" (box 2) is a feeling imagined if they were the figure in the drawing, so not coded.
+- emotions, I01: "I'm fortunate in that way" coded as positive (feeling fortunate); unclear whether it counts as a felt emotion rather than a statement of circumstance.
+- emotions, I01: gratitude and enjoyment at the barber shop are coded as two examples; unclear whether they are different feelings or one elaborated.
+- emotions, I48: the longing ("I wished I had my mom") is coded apart from the sadness/loneliness about the same situation; unclear whether it is a repeat of the same feeling.

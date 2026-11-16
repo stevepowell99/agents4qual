@@ -1,0 +1,74 @@
+{
+ "coding": {
+  "emotions.valence": {
+   "document_value_pairs": 6,
+   "agree": 6,
+   "held_by_first": 6,
+   "held_by_second": 6,
+   "held_by_both": 6,
+   "kappa": null,
+   "first_only": [],
+   "second_only": []
+  },
+  "emotions.link": {
+   "document_value_pairs": 6,
+   "agree": 6,
+   "held_by_first": 6,
+   "held_by_second": 6,
+   "held_by_both": 6,
+   "kappa": null,
+   "first_only": [],
+   "second_only": []
+  }
+ },
+ "tables": {
+  "by_valence": {
+   "cells": 6,
+   "differ": 4,
+   "first_vs_second": {
+    "by_valence.c2": [
+     19,
+     15
+    ],
+    "by_valence.c3": [
+     11,
+     12
+    ],
+    "by_valence.c4": [
+     6,
+     5
+    ],
+    "by_valence.c5": [
+     2,
+     5
+    ]
+   }
+  },
+  "by_link": {
+   "cells": 6,
+   "differ": 5,
+   "first_vs_second": {
+    "by_link.c1": [
+     23,
+     18
+    ],
+    "by_link.c3": [
+     10,
+     11
+    ],
+    "by_link.c4": [
+     5,
+     6
+    ],
+    "by_link.c5": [
+     4,
+     5
+    ],
+    "by_link.c6": [
+     3,
+     4
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,858 @@
+[
+ {
+  "document": "I08",
+  "quote": "we tend to kinda like distance ourselves from people that we feel like they won't understand how we feel",
+  "cause": "Unable to open up or be understood",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "so you just feel like you're kind of excluded from everything",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "you’re depressed and I feel like you just kind of seclude yourself from everyone, like you willingly do that",
+  "cause": "Low mood and rumination",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "you feel very lethargic and fatigued, so it's just, it’s like you aren’t really, it's just, you’re not really motivated to do it, to interact",
+  "cause": "Low mood and rumination",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "I feel like when you're lonely it’s easy for you to be depressed",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "so I feel like when you're depressed you'll kind of always stay at home, you don't wanna go outside",
+  "cause": "Low mood and rumination",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "they will find it difficult to kind of socialize and kind of open up if they're in, experiencing loneliness for a long time",
+  "cause": "Loneliness",
+  "effect": "Unable to open up or be understood",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "I think that’s why you kind of experience loneliness, because you're so much, you’re so engrossed in technology",
+  "cause": "Social media and phones",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "whenever you feel loneliness, you are secluding yourself from other people because you feel like you're the only person who feels that certain type of way",
+  "cause": "Unable to open up or be understood",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "you will feel even more lonely because you're, you're like intentionally excluding yourself from things that could actually make you feel even, better",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "they don't want to kind of exert their energy their, their feelings to other people",
+  "cause": "Unable to open up or be understood",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I08",
+  "quote": "I would feel lonely, because it's just literally where I’m physically alone",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "they don’t hold any longevity and I think that can allow you to feel lonely",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "I think it makes you feel lonely when you focus too much energy on new people that are not the people that matter",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "you haven’t put as much effort into that people that you really care about and that’s where the loneliness comes from",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "it creates body image issues and anxiety issues, and from looking at other girls and thinking they’re better than me",
+  "cause": "Social media and phones",
+  "effect": "Low self-worth and social anxiety",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I10",
+  "quote": "since she removed her social accounts she’s kind of pretty much removed herself also from her friendships",
+  "cause": "Social media and phones",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I10",
+  "quote": "And she must feel lonely because of that.",
+  "cause": "Social media and phones",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I10",
+  "quote": "I started to feel really lonely, working alone in the studio",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "there are so many other creatives. I think that itself makes everybody feel a bit lonely within their kind of freelancing work",
+  "cause": "Other cause",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I10",
+  "quote": "Say I felt really lonely then, at that point of moment I’ve, you know, under somebody could have made me not feel alone but they didn’t",
+  "cause": "Abusive or controlling partner",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "I was literally living on 60 pound a week, which made it impossible to go home",
+  "cause": "Money and costs",
+  "effect": "Family conflict or distance",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "I think the money plays a major effect in maintaining a family relation",
+  "cause": "Money and costs",
+  "effect": "Family conflict or distance",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "I just don’t even know how to pick up the phone, because I’m that anxious that they are, like upset with me",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "own"
+ },
+ {
+  "document": "I10",
+  "quote": "when you stop seeing what’s being to people so much, if you do suffer from anxiety or other kinds of mental health issues, it then makes it harder to approach those people because I felt guilty",
+  "cause": "Family conflict or distance",
+  "effect": "Low self-worth and social anxiety",
+  "role": "maintaining",
+  "whose": "own"
+ },
+ {
+  "document": "I18",
+  "quote": "mental health issues developing from that type of loneliness",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "the grieving process can also be the cause of experiencing loneliness",
+  "cause": "Loss or break-up",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "then things start going down when you’re not always around each other through being educated in the same place",
+  "cause": "New place or life transition",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "not being able to find others who are part of that can lead to the loneliness of being just you in life",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "there can be a loneliness of not following that",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I18",
+  "quote": "then that instantly starts separating you from people and leads to that issue of loneliness",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "there’s loneliness through what I would call exclusion, so you’re just not allowed in to certain things",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "just a major source of loneliness is people fear what… what socialising with you, dealing with you, might bring",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "you can get really lonely and isolated when you start realising that",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I18",
+  "quote": "being on your own, because you just don’t want to be around that",
+  "cause": "Not fitting in or excluded",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I18",
+  "quote": "it’s about others rejecting you, and therefore being lonely",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "that something missing can make you feel lonely",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "if people start developing a love of money more than anything, then that starts messing with the connection between people",
+  "cause": "Other cause",
+  "effect": "Shallow or fading friendships",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I18",
+  "quote": "you can instantly end up very lonely when there’s no one like you in the place you are",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "it felt kind of lonely because obviously my mum was always with her boyfriends and they was always fighting and arguing",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "I just always wanted to be with myself in my room",
+  "cause": "Family conflict or distance",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "I didn’t feel like I could talk to my mum. And my sisters had already moved out by then. So like I just felt like I was alone being at my mum’s",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "the fact that I can’t just chill with all my family does make me feel a bit lonely",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "But that actually made me feel lonely, ‘cause obviously my dog was a big part of my life",
+  "cause": "Loss or break-up",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "I feel lonely because I don’t really feel like I can talk to them and like connect with them",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I22",
+  "quote": "it doesn’t seem like they care about me so what’s the point in me putting in the effort if they don’t want to",
+  "cause": "Family conflict or distance",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I like to avoid problems. Even if that means… missing out on stuff and not seeing certain people.",
+  "cause": "Family conflict or distance",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I think it would impact it quite a lot, to be honest.",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "if you don’t think good of yourself, that’s when you find it difficult to be around other people",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "even if you are with people, you can still feel like you don’t wanna be there. Yeah, I’d definitely say that’s a personal experience",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I start thinking like this is gonna be terrible, like do not go out. Just stay inside.",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "But it- it does get quite… [interviewer: mm] it does get quite lonely at times.",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "it’s difficult to like meet anybody. ‘Cause you feel like they don’t wanna be with somebody that has a baby or something or… so it puts you off putting yourself out",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "And those were definitely like some like lonely times.",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I literally felt like that was a way for… his dad- my son’s dad to make me f… feel like I only had him",
+  "cause": "Abusive or controlling partner",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "So I always had to travel like an hour and a half to see people",
+  "cause": "New place or life transition",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I just end up kind of just being just me and my son. So I do remember that just being a place where… I felt most isolated",
+  "cause": "New place or life transition",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I27",
+  "quote": "I mean at times it could get quite depressing",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "own"
+ },
+ {
+  "document": "I39",
+  "quote": "I can only imagine that, if someone didn’t have that, it would probably make you feel a bit isolated and i don’t want to say lonely, but lonely",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "being in a new environment and meeting new people, it can make someone feel lonely at first",
+  "cause": "New place or life transition",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "for as long as you isolate yourself and you keep yourself away from people, that would only make the situation worse",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "they sort of keep themselves to themselves they won’t get out of that negative feeling or negative space",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "if they are completely by themselves and they say they don’t have a job, that could make them feel lonely as well",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "I would say that’s a huge part of loneliness, is when you feel like there are things that you have to keep to yourself and you can’t discuss it",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "that’s probably when you would feel lonely because the people that you would seeing you alive, but the people you would normally turn to obviously they are the people that you probably can’t turn to",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I39",
+  "quote": "Because sometimes when you are feeling upset to yourself about something and you just thought of holding it in and keeping it in, that can make you feel a bit lonely",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I39",
+  "quote": "I feel like being upset would sometimes leave you feeling a bit lonely.",
+  "cause": "Low mood and rumination",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I39",
+  "quote": "this person could feel left out",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "you can still feel isolated and alone because you are different, you are always going to be different",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "this feeling in your head will always drag you back into the darkness",
+  "cause": "Low mood and rumination",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "most people’s depression it’s because inside of them they feel like they are alone",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "they try and replace it with some stuff like drugs or whatever which makes it worse so you feel more lonely, you feel more isolated",
+  "cause": "Other cause",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "your brain’s automatically judged them and that makes you feel lonely, that makes you feel isolated",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "I start to think very depressing thoughts like stuff like what am I gonna do when my mom dies?",
+  "cause": "Alone in daily life",
+  "effect": "Low mood and rumination",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I41",
+  "quote": "that’s why you get lonely, that’s why you get depressed and that’s why you get angry most of the time, sometimes, because there is no one to comfort you",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "if they go then you are gonna feel alone, you are not gonna have anyone",
+  "cause": "Loss or break-up",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "that’s why when you mourn, you try and isolate yourself",
+  "cause": "Loss or break-up",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "most of the time your personality is what moves you away from people because your personalities clash",
+  "cause": "Not fitting in or excluded",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "you don’t want to go outside and socialise because you think you can’t, you think no one will like you",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "men keeping their emotions pend up, makes them feel isolated cause they can’t share that with anyone",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I41",
+  "quote": "I need to go, I need to get out of it, I need to remove myself from the situation’, which then makes you feel lonely",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I41",
+  "quote": "so you remove yourself then you feel lonely",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "that one individual may have money from money, the luxury, but he might just go home to an empty flat. And that's where he can experience loneliness",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "social media technologies kind of get, put that gap in between people",
+  "cause": "Social media and phones",
+  "effect": "Shallow or fading friendships",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "But the loneliness is comes and goes here and there, cause you got nephews and nieces and you see them, sometimes just miss them.",
+  "cause": "Family conflict or distance",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "before I did feel loneliness in sense of like I didn't have no female partner",
+  "cause": "No partner",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "yes, I felt lonely at times, because sometimes there is certain stuff you wanna talk about, you're not comfortable with your friends or your family",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "That's when you can experience loneliness as well, like the thinking that this is my friends I shouldn’t feel lonely but I experience loneliness because I’m missing out",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "You can end up being very introvert or you might be negative just shutting people out because you experience loneliness",
+  "cause": "Loneliness",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "The loneliness can trigger that questioning yourself.",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "So, if they break up, that loneliness can get even worse",
+  "cause": "Loss or break-up",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "That's when you become quiet, that’s when you become tired with mood changes, cause that loneliness is there.",
+  "cause": "Loneliness",
+  "effect": "Low mood and rumination",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "do I really want that person because if I get that person, build that connection, then break up with her that then that loneliness is gonna hurt even more",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "then that can build that bridge of loneliness",
+  "cause": "Shallow or fading friendships",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "So, it just sometimes we just sit down and look at, go a bit deep thinking and it can just bring it all up in your mind.",
+  "cause": "Low mood and rumination",
+  "effect": "Loneliness",
+  "role": "maintaining",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "when I was studying I didn’t really, I wasn’t dating anyone then. So, you just get that loneliness",
+  "cause": "No partner",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "when you can experience loneliness, you know, you’re not having there somebody to talk to about, because sometimes friends won’t understand that",
+  "cause": "Unable to open up or be understood",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "And that’s when you felt lonely as well because from Monday to Friday, nine to five, there's no one really around",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "that self-doubt can lead to loneliness",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "And that's when you start to shut everyone out or just just be more to yourself and just be end up being lonely",
+  "cause": "Withdrawing from others",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "This questioning definitely leads to like “Hmm, let’s cancel the date” or “let’s just not go out” and that definitely leads back to loneliness",
+  "cause": "Low self-worth and social anxiety",
+  "effect": "Withdrawing from others",
+  "role": "maintaining",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "But that's where you feel lonely. That first day at work.",
+  "cause": "New place or life transition",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "And that’s where I felt very lonely like three years being in a place where it’s predominantly White",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "No, that's how you feel lonely, cause sometimes your other mates might not come, it might just be you alone",
+  "cause": "Not fitting in or excluded",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "you feel loneliness because it's just you're just by yourself because that's your life",
+  "cause": "Other cause",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ },
+ {
+  "document": "I43",
+  "quote": "it was quite lonely because I just stayed at home most of the time being because I didn't have anyone there",
+  "cause": "New place or life transition",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "own"
+ },
+ {
+  "document": "I43",
+  "quote": "if you're at workplace sitting at a desk by yourself, you tend to you can get lonely as well",
+  "cause": "Alone in daily life",
+  "effect": "Loneliness",
+  "role": "onset",
+  "whose": "others"
+ }
+]

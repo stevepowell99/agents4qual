@@ -1,0 +1,415 @@
+{
+ "question_as_agreed": "Causal mapping, in the respondents' own words, of interviews 8, 10, 18, 22, 27, 39, 41 and 43: what do these 8 young people say leads into loneliness, and what keeps it going? Which causal links, and which pathways stated within one person's account, do the most of the 8 describe? Each link is marked as onset or maintaining, and as about the speaker's own loneliness or about others'. Frequency means the number of the 8 people stating it. The answer is a causal map of the most-cited factors and links, with counts out of 8, for internal exploration.",
+ "steps": [
+  {
+   "id": "s8",
+   "kind": "sample",
+   "inputs": [
+    "documents"
+   ],
+   "documents": [
+    "I08",
+    "I10",
+    "I18",
+    "I22",
+    "I27",
+    "I39",
+    "I41",
+    "I43"
+   ]
+  },
+  {
+   "id": "c_links",
+   "kind": "code",
+   "inputs": [
+    "s8"
+   ],
+   "prompt": "Read the interview and record every passage in which the interviewee says that one thing leads to, causes, deepens or keeps going another, where the effect is loneliness or lies on a chain the interviewee tells that ends in loneliness or in withdrawing from others. Record one row per link: the cause, the effect, the passage copied exactly, whether the link concerns how loneliness begins or how it is kept going, and whose experience it describes. Code what the interviewee says, not what the interviewer suggests, unless the interviewee agrees in their own words. Do not code remedies or things that reduce loneliness, wishes, or hypothetical statements about the speaker's own future. Do not add steps the interviewee did not state.",
+   "links": {
+    "from": "cause",
+    "to": "effect"
+   },
+   "columns": [
+    {
+     "name": "cause",
+     "type": "nominal",
+     "means": "The factor the interviewee says leads to the effect.",
+     "values": [
+      {
+       "name": "Loneliness",
+       "means": "The speaker names feeling lonely, alone, isolated or secluded, as a feeling or state, including feeling alone while among people.",
+       "counts": "Feeling lonely, isolated, alone, left out, 'secluded'; feeling apart from a group one is with.",
+       "does_not_count": "Being physically alone without a stated feeling of loneliness (Alone in daily life); choosing to stay away (Withdrawing from others)."
+      },
+      {
+       "name": "Withdrawing from others",
+       "means": "Keeping away from people by one's own action.",
+       "counts": "Staying in, avoiding events, people or family, cutting or not renewing contact, going quiet or mentally absent in company, leaving a situation, not reaching out.",
+       "does_not_count": "Being kept out by others (Not fitting in or excluded); being alone through circumstance such as working alone (Alone in daily life); finding it hard to open up or confide in people, even where the passage also names socialising (Unable to open up or be understood)."
+      },
+      {
+       "name": "Low mood and rumination",
+       "means": "Sadness, depression and the thinking that goes with it.",
+       "counts": "Feeling sad, depressed or low, depressive or anxious thoughts, overthinking, brooding at night, tiredness or lack of motivation, mental health problems.",
+       "does_not_count": "Anxiety about other people or social situations, and self-doubt (Low self-worth and social anxiety)."
+      },
+      {
+       "name": "Unable to open up or be understood",
+       "means": "Having nobody to share feelings with, or keeping them in.",
+       "counts": "Feeling nobody understands you or you are the only one; keeping feelings or problems to oneself; finding it hard to open up, confide or disclose things about oneself; having no one to turn to or comfort you; norms against showing emotion; a dispute with the person one would normally turn to; not wanting to burden others.",
+       "does_not_count": "A parent or family member not listening (Family conflict or distance)."
+      },
+      {
+       "name": "Not fitting in or excluded",
+       "means": "Being different from those around one, or being kept out by them.",
+       "counts": "Differences of identity, interests, personality, culture, race or religion; not following a peer group's norms or outgrowing it; being judged, stereotyped, rejected, excluded or meeting racism; being the only one like you in a place; judging others so that one cannot relate to them.",
+       "does_not_count": "One's own low opinion of oneself (Low self-worth and social anxiety)."
+      },
+      {
+       "name": "Family conflict or distance",
+       "means": "Strained, broken or thin family relationships.",
+       "counts": "Fighting at home, parents not listening or putting a partner first, estrangement, unequal treatment, growing up with little family around, losing touch with family, family members drifting into separate lives.",
+       "does_not_count": "A partner (Abusive or controlling partner, No partner, Loss or break-up)."
+      },
+      {
+       "name": "Shallow or fading friendships",
+       "means": "Friendships that lack care or depth, or that drift.",
+       "counts": "Temporary, party or status-based friends; people who do not really care; putting energy into new people rather than close friends; friends drifting apart, being busy, or missing out on friends' lives; connection that lacks something deeper.",
+       "does_not_count": "Having no friends because of a move (New place or life transition)."
+      },
+      {
+       "name": "New place or life transition",
+       "means": "A change of place or stage that removes familiar people.",
+       "counts": "Moving area, starting a new job, college or university, leaving education, living far from one's friends and family.",
+       "does_not_count": "Loss of a particular person (Loss or break-up)."
+      },
+      {
+       "name": "Loss or break-up",
+       "means": "Losing someone or something close.",
+       "counts": "Death or feared death of someone close, grief, a relationship break-up, losing a pet.",
+       "does_not_count": "Losing touch gradually (Family conflict or distance, Shallow or fading friendships)."
+      },
+      {
+       "name": "No partner",
+       "means": "Lacking a romantic partner.",
+       "counts": "Being single, not dating, not having someone to share things with as a partner.",
+       "does_not_count": "A break-up (Loss or break-up)."
+      },
+      {
+       "name": "Alone in daily life",
+       "means": "Spending long stretches physically alone through circumstance.",
+       "counts": "Working alone, having no job, being at home alone at night, being stuck at home caring for a baby, being alone in one's room.",
+       "does_not_count": "Choosing to stay away from people (Withdrawing from others)."
+      },
+      {
+       "name": "Low self-worth and social anxiety",
+       "means": "Doubting oneself or fearing other people's judgement.",
+       "counts": "Self-doubt, low self-regard, self-consciousness, low confidence, fear of rejection, dread before social events, anxiety among strangers, guilt or anxiety that stops one making contact, body image worries.",
+       "does_not_count": "General low mood or depression (Low mood and rumination)."
+      },
+      {
+       "name": "Social media and phones",
+       "means": "Use of social media or phones as a cause.",
+       "counts": "Heavy use of social media or phones, online comparison, popularity contests, deleting accounts, phones getting in the way of conversation.",
+       "does_not_count": "Talking to friends online as a remedy, which is not coded."
+      },
+      {
+       "name": "Money and costs",
+       "means": "Lack of money as a cause.",
+       "counts": "Low pay, rent, travel costs.",
+       "does_not_count": "Wealth or status attracting false friends (Shallow or fading friendships)."
+      },
+      {
+       "name": "Abusive or controlling partner",
+       "means": "A partner who abuses or controls, and the lack of help to leave.",
+       "counts": "Physical abuse, a partner isolating one from friends and family, services refusing help to leave.",
+       "does_not_count": "A break-up (Loss or break-up)."
+      },
+      {
+       "name": "Other cause",
+       "means": "A cause that fits none of the factors above; used only at the cause end.",
+       "counts": "Substance use, failing exams, love of money, anything else.",
+       "does_not_count": "Anything that fits a factor above."
+      }
+     ]
+    },
+    {
+     "name": "effect",
+     "type": "nominal",
+     "means": "The factor the interviewee says the cause leads to. 'Other cause' is never used here.",
+     "values": [
+      {
+       "name": "Loneliness",
+       "means": "The speaker names feeling lonely, alone, isolated or secluded, as a feeling or state, including feeling alone while among people.",
+       "counts": "Feeling lonely, isolated, alone, left out, 'secluded'; feeling apart from a group one is with.",
+       "does_not_count": "Being physically alone without a stated feeling of loneliness (Alone in daily life); choosing to stay away (Withdrawing from others)."
+      },
+      {
+       "name": "Withdrawing from others",
+       "means": "Keeping away from people by one's own action.",
+       "counts": "Staying in, avoiding events, people or family, cutting or not renewing contact, going quiet or mentally absent in company, leaving a situation, not reaching out.",
+       "does_not_count": "Being kept out by others (Not fitting in or excluded); being alone through circumstance such as working alone (Alone in daily life); finding it hard to open up or confide in people, even where the passage also names socialising (Unable to open up or be understood)."
+      },
+      {
+       "name": "Low mood and rumination",
+       "means": "Sadness, depression and the thinking that goes with it.",
+       "counts": "Feeling sad, depressed or low, depressive or anxious thoughts, overthinking, brooding at night, tiredness or lack of motivation, mental health problems.",
+       "does_not_count": "Anxiety about other people or social situations, and self-doubt (Low self-worth and social anxiety)."
+      },
+      {
+       "name": "Unable to open up or be understood",
+       "means": "Having nobody to share feelings with, or keeping them in.",
+       "counts": "Feeling nobody understands you or you are the only one; keeping feelings or problems to oneself; finding it hard to open up, confide or disclose things about oneself; having no one to turn to or comfort you; norms against showing emotion; a dispute with the person one would normally turn to; not wanting to burden others.",
+       "does_not_count": "A parent or family member not listening (Family conflict or distance)."
+      },
+      {
+       "name": "Not fitting in or excluded",
+       "means": "Being different from those around one, or being kept out by them.",
+       "counts": "Differences of identity, interests, personality, culture, race or religion; not following a peer group's norms or outgrowing it; being judged, stereotyped, rejected, excluded or meeting racism; being the only one like you in a place; judging others so that one cannot relate to them.",
+       "does_not_count": "One's own low opinion of oneself (Low self-worth and social anxiety)."
+      },
+      {
+       "name": "Family conflict or distance",
+       "means": "Strained, broken or thin family relationships.",
+       "counts": "Fighting at home, parents not listening or putting a partner first, estrangement, unequal treatment, growing up with little family around, losing touch with family, family members drifting into separate lives.",
+       "does_not_count": "A partner (Abusive or controlling partner, No partner, Loss or break-up)."
+      },
+      {
+       "name": "Shallow or fading friendships",
+       "means": "Friendships that lack care or depth, or that drift.",
+       "counts": "Temporary, party or status-based friends; people who do not really care; putting energy into new people rather than close friends; friends drifting apart, being busy, or missing out on friends' lives; connection that lacks something deeper.",
+       "does_not_count": "Having no friends because of a move (New place or life transition)."
+      },
+      {
+       "name": "New place or life transition",
+       "means": "A change of place or stage that removes familiar people.",
+       "counts": "Moving area, starting a new job, college or university, leaving education, living far from one's friends and family.",
+       "does_not_count": "Loss of a particular person (Loss or break-up)."
+      },
+      {
+       "name": "Loss or break-up",
+       "means": "Losing someone or something close.",
+       "counts": "Death or feared death of someone close, grief, a relationship break-up, losing a pet.",
+       "does_not_count": "Losing touch gradually (Family conflict or distance, Shallow or fading friendships)."
+      },
+      {
+       "name": "No partner",
+       "means": "Lacking a romantic partner.",
+       "counts": "Being single, not dating, not having someone to share things with as a partner.",
+       "does_not_count": "A break-up (Loss or break-up)."
+      },
+      {
+       "name": "Alone in daily life",
+       "means": "Spending long stretches physically alone through circumstance.",
+       "counts": "Working alone, having no job, being at home alone at night, being stuck at home caring for a baby, being alone in one's room.",
+       "does_not_count": "Choosing to stay away from people (Withdrawing from others)."
+      },
+      {
+       "name": "Low self-worth and social anxiety",
+       "means": "Doubting oneself or fearing other people's judgement.",
+       "counts": "Self-doubt, low self-regard, self-consciousness, low confidence, fear of rejection, dread before social events, anxiety among strangers, guilt or anxiety that stops one making contact, body image worries.",
+       "does_not_count": "General low mood or depression (Low mood and rumination)."
+      },
+      {
+       "name": "Social media and phones",
+       "means": "Use of social media or phones as a cause.",
+       "counts": "Heavy use of social media or phones, online comparison, popularity contests, deleting accounts, phones getting in the way of conversation.",
+       "does_not_count": "Talking to friends online as a remedy, which is not coded."
+      },
+      {
+       "name": "Money and costs",
+       "means": "Lack of money as a cause.",
+       "counts": "Low pay, rent, travel costs.",
+       "does_not_count": "Wealth or status attracting false friends (Shallow or fading friendships)."
+      },
+      {
+       "name": "Abusive or controlling partner",
+       "means": "A partner who abuses or controls, and the lack of help to leave.",
+       "counts": "Physical abuse, a partner isolating one from friends and family, services refusing help to leave.",
+       "does_not_count": "A break-up (Loss or break-up)."
+      },
+      {
+       "name": "Other cause",
+       "means": "A cause that fits none of the factors above; used only at the cause end.",
+       "counts": "Substance use, failing exams, love of money, anything else.",
+       "does_not_count": "Anything that fits a factor above."
+      }
+     ]
+    },
+    {
+     "name": "role",
+     "type": "nominal",
+     "means": "Whether the link describes how loneliness begins or how it is kept going.",
+     "values": [
+      {
+       "name": "onset",
+       "means": "The link describes how loneliness, or something on the way to it, comes about.",
+       "counts": "Circumstances, events and relationships that lead into loneliness or into withdrawing.",
+       "does_not_count": "Links whose cause is loneliness itself or a reaction to it (maintaining)."
+      },
+      {
+       "name": "maintaining",
+       "means": "The link keeps loneliness going or deepens it.",
+       "counts": "Links whose cause is loneliness itself; links whose cause the passage presents as arising from loneliness or isolation (such as withdrawing, low mood or self-doubt that follow being lonely); links the interviewee says make existing loneliness worse, bring it back, or stop the person leaving it, such as guilt that stops them re-contacting people they have lost touch with.",
+       "does_not_count": "Withdrawing, low mood or anxiety that the passage presents as coming from something other than loneliness, such as family conflict, dread of going out or being a young mother (onset)."
+      }
+     ]
+    },
+    {
+     "name": "whose",
+     "type": "nominal",
+     "means": "Whose loneliness the link describes.",
+     "values": [
+      {
+       "name": "own",
+       "means": "The interviewee's own experience, past or present.",
+       "counts": "'I felt lonely', 'it made me feel lonely', an account of the interviewee's own life.",
+       "does_not_count": "Statements about people in general, a friend, or a hypothetical person (others)."
+      },
+      {
+       "name": "others",
+       "means": "Other people's loneliness or people in general.",
+       "counts": "'You', 'people', 'they' used generally; a named friend; hypothetical cases.",
+       "does_not_count": "'You' used plainly to tell the interviewee's own story (own)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t_links",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect"
+   ],
+   "count": "documents",
+   "sparse": true
+  },
+  {
+   "id": "t_map",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect"
+   ],
+   "count": "documents",
+   "filters": [
+    {
+     "type": "exclude-label",
+     "selectedLabels": [
+      "Other cause"
+     ],
+     "matchMode": "exact"
+    },
+    {
+     "type": "link-frequency",
+     "which": "sources",
+     "mode": "minimum",
+     "threshold": 2
+    }
+   ]
+  },
+  {
+   "id": "t_paths",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect"
+   ],
+   "count": "documents",
+   "paths": true
+  },
+  {
+   "id": "t_role",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect",
+    "role"
+   ],
+   "count": "documents",
+   "sparse": true
+  },
+  {
+   "id": "t_roleonly",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "role"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "t_linkwhose",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect",
+    "whose"
+   ],
+   "count": "documents",
+   "sparse": true
+  },
+  {
+   "id": "t_rolewhose",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "role",
+    "whose"
+   ],
+   "count": "documents"
+  },
+  {
+   "id": "t_linkrolewhose",
+   "kind": "tabulate",
+   "inputs": [
+    "c_links"
+   ],
+   "by": [
+    "cause",
+    "effect",
+    "role",
+    "whose"
+   ],
+   "count": "documents",
+   "sparse": true
+  },
+  {
+   "id": "answer",
+   "kind": "write",
+   "inputs": [
+    "t_links",
+    "t_map",
+    "t_paths",
+    "t_role",
+    "t_roleonly",
+    "t_linkwhose",
+    "t_rolewhose",
+    "t_linkrolewhose",
+    "c_links"
+   ],
+   "instructions": "Open with the most frequent pathways into loneliness and the most frequent ways it is kept going, with counts out of 8, counting people from what they say of their own case and giving what they say of others separately. Show the map of links stated by at least two interviewees. Say which chains are told by one person and which are the coder's links joined within one account. End with what limits the answer."
+  }
+ ]
+}

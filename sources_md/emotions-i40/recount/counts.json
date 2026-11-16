@@ -1,0 +1,16 @@
+{
+ "by_valence.of": 1,
+ "by_valence.c1": "5 passages",
+ "by_valence.c2": "4 passages",
+ "by_valence.c3": "1 passage",
+ "by_valence.c1.weak": "1",
+ "by_valence.c2.weak": "1",
+ "by_valence.c3.weak": "0",
+ "by_link.of": 1,
+ "by_link.c1": "4 passages",
+ "by_link.c2": "4 passages",
+ "by_link.c3": "2 passages",
+ "by_link.c1.weak": "0",
+ "by_link.c2.weak": "1",
+ "by_link.c3.weak": "1"
+}

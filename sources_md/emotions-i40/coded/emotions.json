@@ -1,0 +1,100 @@
+[
+ {
+  "document": "I40",
+  "quote": "When I'm on the tube, you don't know anyone when you’re on the tube. So that’s kind of way I guess I feel lonely that's the most lonely place I can kind of think of.",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "being on the tube among strangers",
+  "link": "loneliness"
+ },
+ {
+  "document": "I40",
+  "quote": "I don't know it just feels like just feel something you dealing with…something you just want to get through",
+  "valence": "negative",
+  "emotion": "resignation",
+  "subject": "tube journeys among strangers",
+  "link": "neither",
+  "weak": true
+ },
+ {
+  "document": "I40",
+  "quote": "Pretty crowded. Yeah I don't like that I hate…when it gets really crowded everyone is just in everyone’s personal space…you know…you just feel really awkward I guess.",
+  "valence": "negative",
+  "emotion": "dislike, awkwardness",
+  "subject": "crowded tube, personal space invaded",
+  "link": "neither"
+ },
+ {
+  "document": "I40",
+  "quote": "It’s just a bit maybe a bit stressful like again I was just like I would like to get over and get done quickly when the space opens up the train I feel like relieved now",
+  "valence": "mixed",
+  "emotion": "stress, relief",
+  "subject": "packed train, then space opening up",
+  "link": "neither"
+ },
+ {
+  "document": "I40",
+  "quote": "So, the whole ride was just nervous. But I end up in the right place. So, it just makes you uneasy I guess the whole time and I was alone by myself so made me feel quite nervous.",
+  "valence": "negative",
+  "emotion": "nervousness",
+  "subject": "alone in a cab abroad after getting lost on holiday",
+  "link": "loneliness"
+ },
+ {
+  "document": "I40",
+  "quote": "the exact same situation happened to me in another holiday with my mate I was having one person with me, and I was complete I almost didn't care",
+  "valence": "positive",
+  "emotion": "ease",
+  "subject": "lost on holiday with a friend beside him",
+  "link": "connection",
+  "weak": true
+ },
+ {
+  "document": "I40",
+  "quote": "being alone I wouldn’t say is something I don't like…sometime I’d like to… I would like to you know just go somewhere by myself",
+  "valence": "positive",
+  "emotion": "liking time alone",
+  "subject": "doing errands or the gym by himself",
+  "link": "loneliness"
+ },
+ {
+  "document": "I40",
+  "quote": "It’s just really local to everyone that's what I feel yeah…yeah feel most socially connected.",
+  "valence": "positive",
+  "emotion": "social connectedness",
+  "subject": "local hang-out by the football pitch",
+  "link": "connection"
+ },
+ {
+  "document": "I40",
+  "quote": "Just very, very comfortable.",
+  "valence": "positive",
+  "emotion": "comfort",
+  "subject": "local hang-out where faces are familiar",
+  "link": "connection"
+ },
+ {
+  "document": "I40",
+  "quote": "It just feels lonely ‘cause there’s no one I know there, not at all",
+  "valence": "negative",
+  "emotion": "loneliness",
+  "subject": "Liverpool Street, where he knows no one",
+  "link": "loneliness"
+ },
+ {
+  "document": "I40",
+  "quote": "Yeah when it’s busy, crazy like that…I don't really like it.",
+  "valence": "negative",
+  "emotion": "dislike",
+  "subject": "busy, rushing city",
+  "link": "neither"
+ },
+ {
+  "document": "I40",
+  "quote": "I mean…I enjoy living here.",
+  "valence": "positive",
+  "emotion": "enjoyment",
+  "subject": "living in London next to the city",
+  "link": "neither"
+ }
+]

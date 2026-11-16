@@ -1,0 +1,118 @@
+{
+ "question_as_agreed": "In interview I40 (man, 23, Tower Hamlets), where does the interviewee express or report their own positive, negative or mixed feelings? For each example: its valence, a short label for the emotion, what it is about, and whether he ties it in that passage to loneliness, to feeling connected, or to neither; and how many examples of each valence, and of each link, he gives. Feelings the interviewer suggests and the interviewee does not take up, feelings attributed to other people, and purely hypothetical feelings do not count.",
+ "steps": [
+  {
+   "id": "one",
+   "kind": "sample",
+   "inputs": [
+    "documents"
+   ],
+   "documents": [
+    "I40"
+   ]
+  },
+  {
+   "id": "emotions",
+   "kind": "code",
+   "inputs": [
+    "one"
+   ],
+   "prompt": "Read the interview. Find every passage in which the interviewee (not the interviewer) expresses or reports a feeling of their own: a feeling they have now or have had, in their own words. Loneliness counts as a feeling. A generalised 'you' or 'it can feel' counts only where the interviewee ties it in that passage to their own experience. Do not code: feelings the interviewee imagines for a figure in a drawing or for people in general; purely hypothetical feelings ('I would feel'); feelings the interviewer puts forward that the interviewee only agrees to with 'yeah' or 'uhum'. Where the same feeling about the same thing is repeated or elaborated in follow-up answers, code it once, quoting the clearest words. Where one answer names feelings about two different things, code each. Where one answer names several feelings about the same thing, code them as one passage and name them all in the emotion label; where a later answer names a different feeling about the same thing, code that too. Code a feeling the interviewee has about another person's situation (for example, sadness at a friend's distress) as their own feeling, but not a feeling they say the other person has. A reported absence of feeling ('it doesn't make me feel anything') is not coded. For each passage, copy the words exactly and fill the columns.",
+   "columns": [
+    {
+     "name": "valence",
+     "type": "nominal",
+     "means": "Whether the feeling expressed is pleasant, unpleasant or both.",
+     "values": [
+      {
+       "name": "positive",
+       "means": "A pleasant feeling: happiness, enjoyment, relief, gratitude, love, hope, ease, respect, calm acceptance.",
+       "counts": "Statements such as 'I feel good, happy', 'I enjoy', 'it's alright now'.",
+       "does_not_count": "Neutral description of an activity with no feeling named or plainly expressed."
+      },
+      {
+       "name": "negative",
+       "means": "An unpleasant feeling: sadness, loneliness, frustration, resentment, boredom, unease, longing, resignation, distress.",
+       "counts": "Statements such as 'it makes me sad', 'I feel quite lonely', 'I don't feel okay'.",
+       "does_not_count": "A passage that pairs an unpleasant feeling with a pleasant or accepting one about the same thing: code mixed."
+      },
+      {
+       "name": "mixed",
+       "means": "Pleasant and unpleasant feelings, or acceptance and hurt, expressed together about the same thing.",
+       "counts": "Statements such as 'conflicting emotions' or 'I'm used to it now but sometimes it can get to me'. Also an unpleasant feeling in the past and a pleasant or accepting one now about the same thing, in the same passage ('when I was a lot younger, it did affect me ... I’m content and I feel happier').",
+       "does_not_count": "Two feelings about different things in the same answer: code each separately."
+      }
+     ],
+     "weak": "The feeling is not named as the interviewee's own but carried by a generalised 'you' about his own situation, or only implied (such as 'I almost didn't care') rather than said."
+    },
+    {
+     "name": "emotion",
+     "type": "free_text",
+     "means": "A short label, one to three words, for the feeling, such as loneliness, frustration, gratitude, relief; where one passage names several feelings, list each."
+    },
+    {
+     "name": "subject",
+     "type": "free_text",
+     "means": "In a few words, what the feeling is about or what brings it on, as the interviewee describes it."
+    },
+    {
+     "name": "link",
+     "type": "nominal",
+     "means": "Whether the interviewee, in the coded passage itself, ties the feeling to loneliness or to feeling connected.",
+     "values": [
+      {
+       "name": "loneliness",
+       "means": "The feeling is loneliness, or the interviewee ties it in the passage to loneliness, being alone, having no one, not fitting in, or being an outsider or 'black sheep'.",
+       "counts": "'that sometimes makes me feel lonely'; 'why do I feel like an outsider'; 'I don't mind if I don't sit with anyone' (a feeling about being alone, whatever its valence). A feeling about being or working alone counts whatever its valence, including relief or enjoyment at working alone rather than with others ('much less anxious than I was when I work within a team').",
+       "does_not_count": "A feeling about a situation the interviewee elsewhere calls lonely, where this passage does not make the tie; loneliness the interviewee attributes to other people. Enjoyment of freedom or independence where the passage does not speak of being alone or without other people (code neither)."
+      },
+      {
+       "name": "connection",
+       "means": "The interviewee ties the feeling in the passage to feeling connected, belonging, being accepted or understood, or closeness and enjoyment with other people.",
+       "counts": "'a sense of belongingness'; 'I felt like they understood me'; 'I love them and trust them with everything'.",
+       "does_not_count": "Enjoyment of a place, activity or freedom with no other people named as the source of the feeling."
+      },
+      {
+       "name": "neither",
+       "means": "The passage ties the feeling to neither loneliness nor connection.",
+       "counts": "Anger at a service, guilt about family contact, anxiety about a routine, where the passage names no tie.",
+       "does_not_count": "Any passage that fits loneliness or connection."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "by_valence",
+   "kind": "tabulate",
+   "inputs": [
+    "emotions"
+   ],
+   "by": [
+    "valence"
+   ],
+   "count": "rows"
+  },
+  {
+   "id": "by_link",
+   "kind": "tabulate",
+   "inputs": [
+    "emotions"
+   ],
+   "by": [
+    "link"
+   ],
+   "count": "rows"
+  },
+  {
+   "id": "answer",
+   "kind": "write",
+   "inputs": [
+    "by_valence",
+    "by_link",
+    "emotions"
+   ],
+   "instructions": "Set out what he feels, about what, with the counts by valence and by link, and which feelings he ties to loneliness and which to feeling connected."
+  }
+ ]
+}

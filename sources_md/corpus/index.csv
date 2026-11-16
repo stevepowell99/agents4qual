@@ -1,0 +1,49 @@
+id,title,file,gender,age,borough,source_file
+I01,"Interview 1: Male, 24, Newham",I01.txt,Male,24,Newham,Interview_01_part1and2.md
+I02,"Interview 2: Male, 23, Newham",I02.txt,Male,23,Newham,Interview_02_part1and2.md
+I03,"Interview 3: Male, 24, Newham",I03.txt,Male,24,Newham,Interview_03_part1and2.md
+I04,"Interview 4: Male, 23, Newham",I04.txt,Male,23,Newham,Interview_04_part1and2.md
+I05,"Interview 5: Female, 19, Newham",I05.txt,Female,19,Newham,Interview_05_part1and2.md
+I06,"Interview 6: Male, 18, Hackney",I06.txt,Male,18,Hackney,Interview_06_part1and2.md
+I07,"Interview 7: Female, 18, Newham",I07.txt,Female,18,Newham,Interview_07_part1and2.md
+I08,"Interview 8: Male, 18, Newham",I08.txt,Male,18,Newham,Interview_08_part1.md
+I09,"Interview 9: Male, 18, Newham",I09.txt,Male,18,Newham,Interview_09_part1.md
+I10,"Interview 10: Female, 24, Hackney",I10.txt,Female,24,Hackney,Interview_10_part1and2.md
+I11,"Interview 11: Male, 23, Newham",I11.txt,Male,23,Newham,Interview_11_part1and2.md
+I12,"Interview 12: Female, 22, Hackney",I12.txt,Female,22,Hackney,Interview_12_part1and2.md
+I13,"Interview 13: Female, 20, Hackney",I13.txt,Female,20,Hackney,Interview_13_part1and2.md
+I14,"Interview 14: Female, 18, Hackney",I14.txt,Female,18,Hackney,Interview_14_part1and2.md
+I15,"Interview 15: Female, 24, Hackney",I15.txt,Female,24,Hackney,Interview_15_part1and2.md
+I16,"Interview 16: Male, 24, Hackney",I16.txt,Male,24,Hackney,Interview_16_part1and2.md
+I17,"Interview 17: Female, 20, Newham",I17.txt,Female,20,Newham,Interview_17_part1and2.md
+I18,"Interview 18: Male, 23, Hackney",I18.txt,Male,23,Hackney,Interview_18_part1and2.md
+I19,"Interview 19: Male, 19, Hackney",I19.txt,Male,19,Hackney,Interview_19_part1and2.md
+I20,"Interview 20: Female, 18, Barking & Dagenham",I20.txt,Female,18,Barking & Dagenham,Interview_20_part1and2.md
+I21,"Interview 21: Male, 19, Barking & Dagenham",I21.txt,Male,19,Barking & Dagenham,Interview_21_part1and2.md
+I22,"Interview 22: Female, 18, Barking & Dagenham",I22.txt,Female,18,Barking & Dagenham,Interview_22_part1and2.md
+I23,"Interview 23: Male, 23, Hackney",I23.txt,Male,23,Hackney,Interview_23_part1and2.md
+I24,"Interview 24: Female, 18, Hackney",I24.txt,Female,18,Hackney,Interview_24_part1and2.md
+I25,"Interview 25: Female, 18, Hackney",I25.txt,Female,18,Hackney,Interview_25_part1and2.md
+I26,"Interview 26: Female, 23, Newham",I26.txt,Female,23,Newham,Interview_26_part1and2.md
+I27,"Interview 27: Female, 22, Newham",I27.txt,Female,22,Newham,Interview_27_part1and2.md
+I28,"Interview 28: Male, 22, Tower Hamlets",I28.txt,Male,22,Tower Hamlets,Interview_28_part1and2.md
+I29,"Interview 29: Female, 22, Tower Hamlets",I29.txt,Female,22,Tower Hamlets,Interview_29_part1and2.md
+I30,"Interview 30: Male, 23, Tower Hamlets",I30.txt,Male,23,Tower Hamlets,Interview_30_part1and2.md
+I31,"Interview 31: Female, 24, Tower Hamlets",I31.txt,Female,24,Tower Hamlets,Interview_31_part1and2.md
+I32,"Interview 32: Male, 24, Tower Hamlets",I32.txt,Male,24,Tower Hamlets,Interview_32_part1and2.md
+I33,"Interview 33: Male, 23, Tower Hamlets",I33.txt,Male,23,Tower Hamlets,Interview_33_part1and2.md
+I34,"Interview 34: Female, 19, Tower Hamlets",I34.txt,Female,19,Tower Hamlets,Interview_34_part1and2.md
+I35,"Interview 35: Female, 20, Barking & Dagenham",I35.txt,Female,20,Barking & Dagenham,Interview_35_part1and2.md
+I36,"Interview 36: Male, 18, Barking & Dagenham",I36.txt,Male,18,Barking & Dagenham,Interview_36_part1and2.md
+I37,"Interview 37: Female, 19, Barking & Dagenham",I37.txt,Female,19,Barking & Dagenham,Interview_37_part1and2.md
+I38,"Interview 38: Female, 22, Tower Hamlets",I38.txt,Female,22,Tower Hamlets,Interview_38_part1and2.md
+I39,"Interview 39: Female, 22, Tower Hamlets",I39.txt,Female,22,Tower Hamlets,Interview_39_part1and2.md
+I40,"Interview 40: Male, 23, Tower Hamlets",I40.txt,Male,23,Tower Hamlets,Interview_40_part1and2.md
+I41,"Interview 41: Male, 18, Barking & Dagenham",I41.txt,Male,18,Barking & Dagenham,Interview_41_part1and2.md
+I42,"Interview 42: Male, 24, Barking & Dagenham",I42.txt,Male,24,Barking & Dagenham,Interview_42_part1and2.md
+I43,"Interview 43: Male, 23, Tower Hamlets",I43.txt,Male,23,Tower Hamlets,Interview_43_part1and2.md
+I44,"Interview 44: Male, 24, Tower Hamlets",I44.txt,Male,24,Tower Hamlets,Interview_44_part1and2.md
+I45,"Interview 45: Female, 24, Barking & Dagenham",I45.txt,Female,24,Barking & Dagenham,Interview_45_part1and2.md
+I46,"Interview 46: Female, 18, Barking & Dagenham",I46.txt,Female,18,Barking & Dagenham,Interview_46_part1and2.md
+I47,"Interview 47: Male, 24, Barking & Dagenham",I47.txt,Male,24,Barking & Dagenham,Interview_47_part1and2.md
+I48,"Interview 48: Female, 23, Barking & Dagenham",I48.txt,Female,23,Barking & Dagenham,Interview_48_interview_48_female_23_barking_dagenham.md

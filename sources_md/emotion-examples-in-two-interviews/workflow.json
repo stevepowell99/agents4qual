@@ -1,0 +1,82 @@
+{
+ "question_as_agreed": "In interviews I01 (person, 24, Newham) and I48 (woman, 23, Barking & Dagenham), where does the interviewee express or report their own positive, negative or mixed feelings? For each example: its valence, a short label for the emotion, and what it is about; and how many examples of each valence come from each person. Base: the two people; no comparison beyond setting them side by side. Feelings the interviewer suggests and the interviewee does not take up, and feelings the interviewee attributes to other people, do not count.",
+ "steps": [
+  {
+   "id": "two",
+   "kind": "sample",
+   "inputs": [
+    "documents"
+   ],
+   "documents": [
+    "I01",
+    "I48"
+   ]
+  },
+  {
+   "id": "emotions",
+   "kind": "code",
+   "inputs": [
+    "two"
+   ],
+   "prompt": "Read the interview. Find every passage in which the interviewee (not the interviewer) expresses or reports a feeling of their own: a feeling they have now or have had, in their own words. Loneliness counts as a feeling. A generalised 'you' or 'it can feel' counts only where the interviewee ties it in that passage to their own experience. Do not code: feelings the interviewee imagines for a figure in a drawing or for people in general; purely hypothetical feelings ('I would feel'); feelings the interviewer puts forward that the interviewee only agrees to with 'yeah' or 'uhum'. Where the same feeling about the same thing is repeated or elaborated in follow-up answers, code it once, quoting the clearest words. Where one answer names feelings about two different things, code each. Where one answer names several feelings about the same thing, code them as one passage and name them all in the emotion label; where a later answer names a different feeling about the same thing, code that too. For each passage, copy the words exactly and fill the columns.",
+   "columns": [
+    {
+     "name": "valence",
+     "type": "nominal",
+     "means": "Whether the feeling expressed is pleasant, unpleasant or both.",
+     "values": [
+      {
+       "name": "positive",
+       "means": "A pleasant feeling: happiness, enjoyment, relief, gratitude, love, hope, ease, respect, calm acceptance.",
+       "counts": "Statements such as 'I feel good, happy', 'I enjoy', 'it's alright now'.",
+       "does_not_count": "Neutral description of an activity with no feeling named or plainly expressed."
+      },
+      {
+       "name": "negative",
+       "means": "An unpleasant feeling: sadness, loneliness, frustration, resentment, boredom, unease, longing, resignation, distress.",
+       "counts": "Statements such as 'it makes me sad', 'I feel quite lonely', 'I don't feel okay'.",
+       "does_not_count": "A passage that pairs an unpleasant feeling with a pleasant or accepting one about the same thing: code mixed."
+      },
+      {
+       "name": "mixed",
+       "means": "Pleasant and unpleasant feelings, or acceptance and hurt, expressed together about the same thing.",
+       "counts": "Statements such as 'conflicting emotions' or 'I'm used to it now but sometimes it can get to me'.",
+       "does_not_count": "Two feelings about different things in the same answer: code each separately."
+      }
+     ]
+    },
+    {
+     "name": "emotion",
+     "type": "free_text",
+     "means": "A short label, one to three words, for the feeling, such as loneliness, frustration, gratitude, relief; where one passage names several feelings, list each."
+    },
+    {
+     "name": "subject",
+     "type": "free_text",
+     "means": "In a few words, what the feeling is about or what brings it on, as the interviewee describes it."
+    }
+   ]
+  },
+  {
+   "id": "by_person",
+   "kind": "tabulate",
+   "inputs": [
+    "emotions"
+   ],
+   "by": [
+    "document",
+    "valence"
+   ],
+   "count": "rows"
+  },
+  {
+   "id": "answer",
+   "kind": "write",
+   "inputs": [
+    "by_person",
+    "emotions"
+   ],
+   "instructions": "List the examples of each person's positive, negative and mixed feelings, with the counts by person and valence, and set the two people side by side."
+  }
+ ]
+}
